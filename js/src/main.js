@@ -6,7 +6,7 @@
 	globalVars.colorAttrs = ["sentimentScore","PERSON_count","LOC_count"];
 	globalVars.entityTypes = ["PERSON","LOC"];
 
-	d3.json("../converted-data/dataMap.json", function(error, dataMap) {
+	d3.json("converted-data/dataMap.json", function(error, dataMap) {
 		globalVars.dataMap = dataMap;
 		initVis(dataMap);
 		initOptions();
