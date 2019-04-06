@@ -38,7 +38,7 @@
 
 			d3.select("#"+bookId)
 			  .append("div")
-			  .attr("class",'chapter-name col-md-4')
+			  .attr("class",'chapter-name col-md-3')
 			  .html(function(){
 			  	return '<i class="fa fa-arrows-v" style="color:gray;"></i>&nbsp;' + book;
 			  })
@@ -47,7 +47,7 @@
 			let chapterVisSvg = d3.select("#"+bookId)
 			  .append("div")
 			  .attr("id",bookId+'-chapterVis')
-			  .attr("class",'col-md-8')
+			  .attr("class",'col-md-9')
 			  .append('svg')
 			  .attr("width",500)
 			  .attr("height",50);
