@@ -1,0 +1,3931 @@
+{
+ "frankenstein": {
+  "id": "b0",
+  "year": "",
+  "author": "",
+  "chapters": [
+   {
+    "id": "b0-c01",
+    "title": "01--Chapter 1",
+    "sentimentScore": 0.9998,
+    "wordLength": 1801,
+    "entityMap": {
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Genevese",
+       "Caroline",
+       "the Lake of Como",
+       "_"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "One",
+       "one",
+       "half",
+       "five",
+       "four"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Beaufort",
+       "Lucerne",
+       "Caroline Beaufort",
+       "Elizabeth Lavenza",
+       "Elizabeth",
+       "Victor\u2014tomorrow"
+      ]
+     },
+     "DATE": {
+      "count": 12,
+      "values": [
+       "ten months",
+       "some months",
+       "the end of three months",
+       "Several months",
+       "the tenth month",
+       "Two years",
+       "between the ages of my parents",
+       "former years",
+       "the two years",
+       "several years",
+       "about five years old",
+       "morrow"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Reuss"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Geneva",
+       "Italy",
+       "Germany",
+       "France",
+       "Naples",
+       "Milan",
+       "Austria",
+       "Providence"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "every hour",
+       "the evening"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c02",
+    "title": "02--Chapter 2",
+    "sentimentScore": 0.9998,
+    "wordLength": 2245,
+    "entityMap": {
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Harmony",
+       "Elizabeth",
+       "Henry Clerval",
+       "Clerval",
+       "Cornelius Agrippa",
+       "Victor",
+       "Agrippa",
+       "Isaac Newton",
+       "Jura",
+       "Albertus Magnus"
+      ]
+     },
+     "DATE": {
+      "count": 7,
+      "values": [
+       "winter",
+       "seven years",
+       "_",
+       "thirteen years of age",
+       "the eighteenth century",
+       "about fifteen years old",
+       "various quarters"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "Alpine",
+       "Curiosity",
+       "Geneva",
+       "Roncesvalles",
+       "Clerval",
+       "Thonon"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Belrive",
+       "Paracelsus",
+       "Albertus",
+       "Nature"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "the Round Table of King Arthur"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "a thousand",
+       "one"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "about twenty yards"
+      ]
+     },
+     "TIME": {
+      "count": 1,
+      "values": [
+       "the next morning"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c03",
+    "title": "03--Chapter 3",
+    "sentimentScore": 0.9985,
+    "wordLength": 2756,
+    "entityMap": {
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Ingolstadt",
+       "Geneva",
+       "M. Krempe"
+      ]
+     },
+     "DATE": {
+      "count": 12,
+      "values": [
+       "an early date",
+       "the day",
+       "the third day",
+       "the first days",
+       "some weeks",
+       "a thousand years old",
+       "the beginning of the following week",
+       "my early years",
+       "the first two or three days",
+       "about fifty years of age",
+       "the same day",
+       "a day"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Elizabeth",
+       "Clerval",
+       "Henry",
+       "M. Waldman",
+       "M. Krempe",
+       "Frankenstein"
+      ]
+     },
+     "CARDINAL": {
+      "count": 1,
+      "values": [
+       "one"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the last evening",
+       "morning",
+       "the evening",
+       "The next morning",
+       "Every minute"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Farewell"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "M. Krempe",
+       "Albertus Magnus",
+       "Paracelsus",
+       " ",
+       "Cornelius Agrippa"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c04",
+    "title": "04--Chapter 4",
+    "sentimentScore": 0.9996,
+    "wordLength": 2608,
+    "entityMap": {
+     "DATE": {
+      "count": 11,
+      "values": [
+       "this day",
+       "Two years",
+       "the end of two years",
+       "days",
+       "every day",
+       "some months",
+       "the next day",
+       "The summer months",
+       "a most beautiful season",
+       "Winter, spring",
+       "that year"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "M. Krempe",
+       "C\u00e6sar"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "M. Waldman"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "a thousand",
+       "one",
+       "One"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the light of morning",
+       "nights",
+       "the next hour",
+       "midnight",
+       "Every night"
+      ]
+     },
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Krempe",
+       "Cornelius Agrippa",
+       "M. Waldman",
+       "Learn",
+       "Sometimes"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "Geneva",
+       "Ingolstadt",
+       "Greece",
+       "America",
+       "Mexico",
+       "Peru"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "about eight feet",
+       "so many miles"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c05",
+    "title": "05--Chapter 5",
+    "sentimentScore": -0.9701,
+    "wordLength": 2457,
+    "entityMap": {
+     "DATE": {
+      "count": 7,
+      "values": [
+       "November",
+       "nearly two years",
+       "many months",
+       "several nights",
+       "several months",
+       "season",
+       "winter"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "one",
+       "half",
+       " ",
+       "ten thousand",
+       "One"
+      ]
+     },
+     "PERSON": {
+      "count": 12,
+      "values": [
+       "Elizabeth",
+       "Dante",
+       "Mingled",
+       " ",
+       "  Doth",
+       "Henry Clerval",
+       "Frankenstein",
+       "Clerval",
+       "Greek.\u2019",
+       "Henry",
+       "Victor",
+       "Doubtless"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Ingolstadt",
+       "The Vicar of Wakefield",
+       "Clerval"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the sixth hour",
+       "that night",
+       "some minutes",
+       "the preceding night",
+       "a few minutes"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "  ",
+       "  Doth",
+       "Coleridge"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c06",
+    "title": "06--Chapter 6",
+    "sentimentScore": 0.9999,
+    "wordLength": 2832,
+    "entityMap": {
+     "PERSON": {
+      "count": 25,
+      "values": [
+       "Elizabeth",
+       "Henry",
+       "Victor",
+       "Justine Moritz",
+       "Justine",
+       "M. Moritz",
+       "Ariosto",
+       "Moritz",
+       "William",
+       "Louisa Biron",
+       "John Melbourne",
+       "M. Duvillard",
+       "Louis Manoir",
+       "Tavernier",
+       "Manoir",
+       " ",
+       "Elizabeth Lavenza",
+       "M. Waldman",
+       "M. Clerval",
+       "Cornelius Agrippa",
+       "M. Frankenstein",
+       "Young",
+       "Clerval",
+       "Resolved",
+       "Study"
+      ]
+     },
+     "GPE": {
+      "count": 14,
+      "values": [
+       "Cousin",
+       "Ingolstadt",
+       "Justine",
+       "Geneva",
+       "France",
+       "England",
+       "Angelica",
+       "Mansfield",
+       "Manon",
+       "Clerval",
+       "Henry",
+       "Sanskrit",
+       "Greece",
+       "Rome"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       " Clerval",
+       "Little",
+       " ",
+       "Esq",
+       "Idleness"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Ernest",
+       "East"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "four",
+       "One",
+       "two",
+       "one",
+       "Ten thousand"
+      ]
+     },
+     "DATE": {
+      "count": 16,
+      "values": [
+       "twelve years of age",
+       "a few months",
+       "the beginning of this last winter",
+       "five years of age",
+       "last autumn",
+       "March 18th",
+       "a few years ago",
+       "winter",
+       "spring",
+       "the spring",
+       "The month",
+       "May",
+       "daily",
+       "summer",
+       "the preceding year",
+       "Sunday"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Justine",
+       "Victor"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Dear"
+      ]
+     },
+     "TIME": {
+      "count": 1,
+      "values": [
+       "afternoon"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c07",
+    "title": "07--Chapter 7",
+    "sentimentScore": -0.9988,
+    "wordLength": 3706,
+    "entityMap": {
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "father:\u2014  "
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Victor"
+      ]
+     },
+     "DATE": {
+      "count": 13,
+      "values": [
+       "the day",
+       "Last Thursday",
+       "May 7th",
+       "May 12th",
+       "17\u2014.",
+       "nearly six years",
+       "two days",
+       "Two years",
+       "Six years",
+       "three months ago",
+       "today",
+       "several days",
+       "years"
+      ]
+     },
+     "PERSON": {
+      "count": 20,
+      "values": [
+       "Victor",
+       "Absence",
+       "William",
+       "Ernest",
+       "Presently Ernest",
+       "Elizabeth",
+       "child!\u2019",
+       "evening William",
+       "Frankenstein",
+       "Henry",
+       "Clerval",
+       "Jura",
+       "Mont Blanc",
+       "Sal\u00eave",
+       "Juras",
+       "Mont Sal\u00eave",
+       "Day",
+       "Caroline Beaufort",
+       "Justine Moritz",
+       "God"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "two",
+       "One",
+       "a thousand",
+       "one",
+       "hundredth",
+       "half",
+       "about five"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "dusk",
+       "night",
+       "five in the morning",
+       "the night",
+       "midnight",
+       "hour",
+       "last night",
+       "the morning"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Come, Victor",
+       "Tears",
+       "Secheron",
+       "M\u00f4le",
+       " ",
+       "Time",
+       "Alas"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Geneva",
+       "Lausanne",
+       "Switzerland",
+       "Ingolstadt",
+       "Justine"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Alps",
+       "Ernest"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Cop\u00eat"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c08",
+    "title": "08--Chapter 8",
+    "sentimentScore": -0.9998,
+    "wordLength": 3211,
+    "entityMap": {
+     "TIME": {
+      "count": 14,
+      "values": [
+       "a few sad hours",
+       "eleven o\u2019clock",
+       "morning",
+       "about eight o\u2019clock",
+       "an hour",
+       "the evening of the night",
+       "about nine o\u2019clock",
+       "several hours",
+       "several hours of the night",
+       "a few minutes",
+       "a minute",
+       "the morning",
+       "an evil hour",
+       "one moment"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "two",
+       "one",
+       "A thousand",
+       "thousands",
+       "five",
+       "ten",
+       "more than half",
+       "half"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Justine",
+       "Ch\u00eane",
+       "Despair"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Justine",
+       "Geneva"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "several days",
+       "nearly two years",
+       "morrow"
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Elizabeth",
+       "William",
+       "Frankenstein",
+       "Victor",
+       "Dear William",
+       "Learn",
+       "Justine",
+       "Ye"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Justine"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c09",
+    "title": "09--Chapter 9",
+    "sentimentScore": 0.9854,
+    "wordLength": 2284,
+    "entityMap": {
+     "PERSON": {
+      "count": 12,
+      "values": [
+       "Justine",
+       "Victor",
+       "Elizabeth",
+       "Remorse",
+       "William",
+       "Justine Moritz",
+       "Dear Victor",
+       "Chamounix",
+       "Alps",
+       "Servox",
+       "Mont Blanc",
+       "Nature"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Sleep",
+       " ",
+       "Arve",
+       "Omnipotence",
+       "_"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "daily",
+       "days",
+       "Six years",
+       "the middle of the month of August",
+       "nearly two months"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "ten o\u2019clock",
+       "that hour",
+       "the night",
+       "many hours"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Geneva",
+       "Justine",
+       "Alpine",
+       "P\u00e9lissier",
+       "Exhaustion"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Andes",
+       "earth"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Victor"
+      ]
+     },
+     "CARDINAL": {
+      "count": 1,
+      "values": [
+       "thousands"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Arve"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c10",
+    "title": "10--Chapter 10",
+    "sentimentScore": -0.999,
+    "wordLength": 2509,
+    "entityMap": {
+     "DATE": {
+      "count": 6,
+      "values": [
+       "the following day",
+       "the last month",
+       "the day",
+       "winter",
+       "morrow",
+       "many days"
+      ]
+     },
+     "PERSON": {
+      "count": 9,
+      "values": [
+       "Arveiron",
+       "Montanvert",
+       "       Embrace",
+       "Mont Blanc",
+       "Frankenstein",
+       "Adam",
+       "Shall",
+       "Cursed",
+       "Relieve"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Nature"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "night",
+       "the next morning",
+       "nearly noon",
+       "nearly two hours"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "a thousand",
+       "one",
+       "thousands"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "ne\u2019er",
+       "Begone"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c11",
+    "title": "11--Chapter 11",
+    "sentimentScore": 0.9996,
+    "wordLength": 2999,
+    "entityMap": {
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Ingolstadt",
+       "Uttering"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "half",
+       "one",
+       "One",
+       "two"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "night",
+       "The moon",
+       "the night",
+       "morning",
+       "several hours",
+       "the night before",
+       "about seven in the morning",
+       "noon",
+       "about an hour",
+       "a few minutes"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "three days",
+       "that day",
+       "about a quarter of an hour"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "Pand\u00e6monium"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c12",
+    "title": "12--Chapter 12",
+    "sentimentScore": 0.9996,
+    "wordLength": 2143,
+    "entityMap": {
+     "DATE": {
+      "count": 6,
+      "values": [
+       "the day",
+       "This day",
+       "each day",
+       "the winter",
+       "several days",
+       "_"
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "the night",
+       "the next morning",
+       "hours",
+       "Early in the morning",
+       "at noon",
+       "the morning"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "one",
+       "two",
+       "only one"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "_",
+       "Agatha"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Agatha",
+       "Felix"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Felix"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c13",
+    "title": "13--Chapter 13",
+    "sentimentScore": 0.9999,
+    "wordLength": 2100,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "a thousand",
+       "one",
+       "about twenty",
+       "only one",
+       "half"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Felix",
+       "Agatha",
+       "Safie",
+       "Volney",
+       "Ruins",
+       " "
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "the morning",
+       "Some hours",
+       "As night",
+       "Good night sweet",
+       "The next morning",
+       "nights"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Agatha",
+       "Asiatics",
+       "Christianity"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "The days",
+       "two months",
+       "My days"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c14",
+    "title": "14--Chapter 14",
+    "sentimentScore": 0.9957,
+    "wordLength": 1914,
+    "entityMap": {
+     "PERSON": {
+      "count": 9,
+      "values": [
+       "De Lacey",
+       "Safie",
+       "Constantinople",
+       "Felix",
+       "Muhammadan",
+       "Turk",
+       "Agatha",
+       "Muhammad",
+       "Mont Cenis"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "France",
+       "Paris",
+       "Leghorn",
+       "Italy",
+       "Germany",
+       "Turkey"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Agatha",
+       "Leghorn"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "A few months",
+       "many years",
+       "the very day",
+       "five months",
+       "A few days"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "The Turk",
+       "Leghorn that Felix"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Asia"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "the night",
+       "before morning",
+       "a few hours"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "a thousand",
+       "about twenty"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Felix"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c15",
+    "title": "15--Chapter 15",
+    "sentimentScore": 0.9999,
+    "wordLength": 3153,
+    "entityMap": {
+     "DATE": {
+      "count": 12,
+      "values": [
+       "the beginning of the month of August of the same year",
+       "of past ages",
+       "the four months",
+       "some months",
+       "day",
+       "months",
+       "every day",
+       "a few months",
+       "summer",
+       "winter",
+       "One day",
+       "daily"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "One night",
+       "this was the hour",
+       "a few minutes",
+       "every minute",
+       "the hour"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Paradise Lost",
+       "Adam",
+       "Creator",
+       "Satan",
+       "Safie",
+       "Felix",
+       "Agatha",
+       "Eve",
+       "De Lacey",
+       "Pardon"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Plutarch",
+       "Werter",
+       "Numa",
+       "Solon",
+       "Lycurgus",
+       "Theseus",
+       "monster.\u2019",
+       "Great God!\u2019"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Sorrows of Werter_.",
+       "Sorrows of Werter_",
+       "Sorrows of Werter_.  ",
+       " ",
+       "Agatha",
+       "there?\u2019",
+       "them?\u2019"
+      ]
+     },
+     "LAW": {
+      "count": 2,
+      "values": [
+       " \u201c",
+       " \u201c\u2018"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Paradise"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "Autumn"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "one",
+       "meeting.\u2019"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 3,
+      "values": [
+       "\u2018I am about to undertake that task",
+       "\u2018Near this spot.\u2019  \u201cThe old",
+       "\u2018How can I thank you"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c16",
+    "title": "16--Chapter 16",
+    "sentimentScore": -0.9996,
+    "wordLength": 3330,
+    "entityMap": {
+     "TIME": {
+      "count": 9,
+      "values": [
+       "a miserable night",
+       "the ensuing hours",
+       "the accustomed hour",
+       "morning",
+       "a few minutes",
+       "only at night",
+       "night",
+       "One morning",
+       "evening"
+      ]
+     },
+     "DATE": {
+      "count": 10,
+      "values": [
+       "that day",
+       "the preceding day",
+       "some days",
+       "useless,\u2019",
+       "the day",
+       "autumn",
+       "the first of spring",
+       "some weeks",
+       "daily",
+       "two months"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "De Lacey",
+       "Felix",
+       "months\u2019",
+       "Safie",
+       "Nature",
+       "Snow",
+       "Jura",
+       " ",
+       "M. Frankenstein",
+       "Frankenstein"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       " ",
+       "Agatha",
+       "Soft"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "two",
+       "three",
+       "one",
+       "a thousand"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Geneva",
+       "Switzerland"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "a few moments"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c17",
+    "title": "17--Chapter 17",
+    "sentimentScore": -0.999,
+    "wordLength": 1965,
+    "entityMap": {
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Shall",
+       "My creator",
+       "Depart",
+       "Saying",
+       "Chamounix"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Begone",
+       " "
+      ]
+     },
+     "TIME": {
+      "count": 1,
+      "values": [
+       "the hour"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "a hundred",
+       "one"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "South America",
+       "Europe"
+      ]
+     },
+     "DATE": {
+      "count": 2,
+      "values": [
+       "May",
+       "the day"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Geneva"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c18",
+    "title": "18--Chapter 18",
+    "sentimentScore": 0.9998,
+    "wordLength": 3005,
+    "entityMap": {
+     "DATE": {
+      "count": 11,
+      "values": [
+       "week",
+       "several months",
+       "yesterday",
+       "a few months",
+       "most a year",
+       "September",
+       "some days",
+       "two days",
+       "a few days",
+       "the latter days of December",
+       "Gravesend"
+      ]
+     },
+     "GPE": {
+      "count": 17,
+      "values": [
+       "Geneva",
+       "England",
+       "Clerval\u2014",
+       "Clerval",
+       "London",
+       "Mannheim",
+       "Mainz",
+       "Henry",
+       "Lucerne",
+       "La Valais",
+       "Switzerland",
+       "      ",
+       "     ",
+       "Cologne",
+       "Holland",
+       "Britain",
+       "St. Paul\u2019s"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "one",
+       "a thousand",
+       "half"
+      ]
+     },
+     "FAC": {
+      "count": 3,
+      "values": [
+       "Reserve",
+       "Tilbury Fort",
+       "the Tower"
+      ]
+     },
+     "PERSON": {
+      "count": 12,
+      "values": [
+       "Elizabeth",
+       "Victor",
+       "Clerval",
+       "Strasburgh",
+       "Nay",
+       "Henry",
+       "Frankenstein",
+       "Rotterdam",
+       "Mainz",
+       "Pays de Vaud",
+       "     ",
+       "Pardon"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "many hours",
+       "a thousand minute"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Strasburgh",
+       "Rhine",
+       "Fairy",
+       "Thames",
+       "the Spanish Armada",
+       "Greenwich\u2014"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Victor"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "\u201cTintern Abbey\u201d"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c19",
+    "title": "19--Chapter 19",
+    "sentimentScore": 0.9992,
+    "wordLength": 2698,
+    "entityMap": {
+     "GPE": {
+      "count": 18,
+      "values": [
+       "London",
+       "Justine",
+       "Clerval",
+       "India",
+       "Britain",
+       "Scotland",
+       "Geneva",
+       "Perth",
+       "England",
+       "Edinburgh",
+       "Falkland",
+       "Hampden",
+       "Switzerland",
+       "Cumberland",
+       "Westmorland",
+       "St. Bernard\u2019s",
+       "the Pentland Hills",
+       "St. Andrew\u2019s"
+      ]
+     },
+     "DATE": {
+      "count": 15,
+      "values": [
+       "several months",
+       "my days",
+       "some months",
+       "the beginning of October",
+       "February",
+       "another month",
+       "about the end of July",
+       "the 27th of March",
+       "a few days",
+       "more than a century and a half",
+       "my youthful days",
+       "two months",
+       "a week",
+       "every day",
+       "several days"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Henry",
+       "William",
+       "Charles I.",
+       "Servox",
+       "Chamounix",
+       "Clerval",
+       "Scotch",
+       "Elizabeth",
+       "Arthur",
+       "Seat",
+       "Tay"
+      ]
+     },
+     "ORG": {
+      "count": 9,
+      "values": [
+       " ",
+       "Nature",
+       "Windsor, Oxford",
+       "Matlock",
+       "Oxford",
+       "Parliament",
+       "Derby",
+       "Westmorland",
+       "Orkneys"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Goring"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Isis"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Alps"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "Coupar",
+       "two",
+       "one",
+       "five",
+       "three"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "about five miles"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "the morning",
+       "the evening"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c20",
+    "title": "20--Chapter 20",
+    "sentimentScore": -0.9995,
+    "wordLength": 3591,
+    "entityMap": {
+     "TIME": {
+      "count": 15,
+      "values": [
+       "one evening",
+       "night",
+       "Several hours",
+       "a few minutes",
+       "hours",
+       "wedding-night",
+       "that hour",
+       "noon",
+       "the preceding night",
+       "The next morning",
+       "the night",
+       "many hours",
+       "Some hours",
+       "several hours",
+       "last night"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "Three years before",
+       "many months",
+       "two days"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "ten thousand",
+       "one",
+       "some one",
+       "a thousand",
+       "half",
+       "Between two and three"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Europe",
+       "the moon",
+       "Atlantic"
+      ]
+     },
+     "GPE": {
+      "count": 9,
+      "values": [
+       "Switzerland",
+       "England",
+       "Scotland",
+       "Geneva",
+       "Clerval",
+       "London",
+       "Perth",
+       "Clouds",
+       "Englishmen"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "Begone"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Villain",
+       "Elizabeth",
+       "Kirwin"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "about four miles"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c21",
+    "title": "21--Chapter 21",
+    "sentimentScore": -0.9997,
+    "wordLength": 3831,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "About half a dozen",
+       "one",
+       "about five",
+       "only one",
+       "Two",
+       "One",
+       "half",
+       "a thousand",
+       "two",
+       "thousand"
+      ]
+     },
+     "TIME": {
+      "count": 11,
+      "values": [
+       "the night",
+       "about ten o\u2019clock",
+       "about an hour",
+       "about for many hours",
+       "morning",
+       "hours",
+       "the hour",
+       "midnight",
+       "every night",
+       "Towards morning",
+       "between the present hour"
+      ]
+     },
+     "PERSON": {
+      "count": 9,
+      "values": [
+       "Daniel Nugent",
+       "Daniel",
+       "Kirwin",
+       "Henry Clerval",
+       "Henry",
+       "William",
+       "Elizabeth\u2014and",
+       "Elizabeth",
+       "Ernest"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "a very dark night",
+       "about two miles",
+       "nearly a hundred miles"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "the moon",
+       "Ernest",
+       "the Orkney Islands"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "twenty years",
+       "two months",
+       "one day",
+       "nearly two months",
+       "three months"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "Justine",
+       "Clerval",
+       "Geneva",
+       "Henry",
+       "Ingolstadt",
+       "Ireland"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       " ",
+       "Rhone",
+       " I",
+       "Havre-de-Grace"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c22",
+    "title": "22--Chapter 22",
+    "sentimentScore": 0.9989,
+    "wordLength": 3523,
+    "entityMap": {
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Paris",
+       "Justine",
+       "Ireland",
+       "Switzerland",
+       "Geneva",
+       "Ingolstadt",
+       "Drance"
+      ]
+     },
+     "PERSON": {
+      "count": 14,
+      "values": [
+       "William",
+       "Henry\u2014",
+       "Elizabeth",
+       "Victor",
+       "Elizabeth Lavenza",
+       "Sweet",
+       "Clerval",
+       "Chase",
+       "Como",
+       "Villa Lavenza",
+       "Mont Sal\u00eave",
+       "Mont Blanc",
+       "Jura",
+       "Something"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Victor"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "A thousand",
+       "one",
+       "fiend\u2014\u201c_I",
+       "certainty as the day"
+      ]
+     },
+     "DATE": {
+      "count": 15,
+      "values": [
+       "A few days",
+       "a year ago",
+       "several years",
+       "last autumn so unhappy",
+       "tomorrow",
+       "the next day",
+       "May 18th",
+       "a few months",
+       "the day",
+       "about a week",
+       "ten days",
+       "our first days",
+       "the following day",
+       "this one day",
+       "a divine day"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "_",
+       "Evian",
+       "Observe"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "wedding-night",
+       "that night",
+       "a single hour"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "Alps"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "Montal\u00e8gre"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c23",
+    "title": "23--Chapter 23",
+    "sentimentScore": -0.9997,
+    "wordLength": 2646,
+    "entityMap": {
+     "TIME": {
+      "count": 6,
+      "values": [
+       "eight o\u2019clock",
+       "night",
+       "this night",
+       "several hours",
+       "morning",
+       "a few hours"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "the day",
+       "the day before",
+       "a few days",
+       "many months",
+       "about a month",
+       "some months"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "thousand",
+       "half",
+       "one"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Elizabeth",
+       "Victor",
+       "William",
+       "Melancholy"
+      ]
+     },
+     "GPE": {
+      "count": 4,
+      "values": [
+       "Justine",
+       "Clerval",
+       "Geneva",
+       "Genevan"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Ernest",
+       "Alps"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "_"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b0-c24",
+    "title": "24--Chapter 24",
+    "sentimentScore": -0.9998,
+    "wordLength": 8462,
+    "entityMap": {
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Geneva",
+       "Tartary",
+       "Russia",
+       "Justine",
+       "Clerval",
+       "England",
+       "Switzerland"
+      ]
+     },
+     "LOC": {
+      "count": 5,
+      "values": [
+       "earth",
+       "Mediterranean",
+       "the Black Sea",
+       "Asia",
+       "the Frozen Ocean"
+      ]
+     },
+     "TIME": {
+      "count": 13,
+      "values": [
+       "hours",
+       "night",
+       "the night",
+       "waking hours",
+       "moments",
+       "miserable hours",
+       "the night before",
+       "hour",
+       "a few minutes",
+       "This morning",
+       "this hour",
+       "About half an hour afterwards",
+       "the hours"
+      ]
+     },
+     "PERSON": {
+      "count": 18,
+      "values": [
+       "William",
+       "Elizabeth",
+       "Guided",
+       "Cold",
+       "Clerval",
+       "Greeks",
+       "Walton",
+       "Hear",
+       "Margaret",
+       "Felix",
+       "Safie",
+       "Frankenstein",
+       "Learn",
+       "Behold",
+       "Sister",
+       "Nay",
+       "Evil",
+       "Urged"
+      ]
+     },
+     "DATE": {
+      "count": 21,
+      "values": [
+       "many months",
+       "Some weeks",
+       "daily",
+       "one day",
+       "two days",
+       "winter",
+       "many days",
+       "three weeks",
+       "a week",
+       "the days",
+       "September 2d",
+       "Years",
+       "each day",
+       "September 5th",
+       "September 7th",
+       "September 12th",
+       "September 9th",
+       "these last days",
+       "several years",
+       "Some years ago",
+       "summer"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Rhone",
+       "Despair",
+       "  August 26th",
+       "Farewell",
+       "Walton"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "one",
+       "One",
+       "two",
+       "half",
+       "half a dozen",
+       "ten-thousandth"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Victor"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Farewell"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ "war-of-the-worlds": {
+  "id": "b1",
+  "year": "",
+  "author": "",
+  "chapters": [
+   {
+    "id": "b1-c01",
+    "title": "01--THE EVE OF THE WAR",
+    "sentimentScore": 0.9695,
+    "wordLength": 2231,
+    "entityMap": {
+     "DATE": {
+      "count": 14,
+      "values": [
+       "the last years of the nineteenth century",
+       "days",
+       "the twentieth century",
+       "the nineteenth century",
+       "present-day",
+       "fifty years",
+       "centuries",
+       "1894",
+       "August 2",
+       "six years ago",
+       "about a quarter past twelve",
+       "the next day",
+       "daily",
+       "nineteenth-century"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Mars",
+       "earth"
+      ]
+     },
+     "QUANTITY": {
+      "count": 6,
+      "values": [
+       "140,000,000 miles",
+       "only 35,000,000 of miles",
+       "Forty millions of miles",
+       "forty millions of miles",
+       "many miles",
+       "10,000,000 miles"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "barely half",
+       "two",
+       "one",
+       "three",
+       "so many thousands of miles",
+       "hundreds",
+       "a million to one",
+       "Hundreds",
+       "nearer",
+       "One"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "morning",
+       "midnight",
+       "that night",
+       "night",
+       "nearer every minute",
+       "twenty-four hours",
+       "that night and the night after",
+       "about midnight",
+       "ten nights",
+       "each night"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Tasmanians",
+       "Nature",
+       "Java",
+       "Ogilvy",
+       "Ottershaw"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Lick Observatory",
+       "the Daily Telegraph"
+      ]
+     },
+     "GPE": {
+      "count": 4,
+      "values": [
+       "Perrotin",
+       "Nice",
+       "Chertsey",
+       "Isleworth"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Lavelle",
+       "Chertsey",
+       "Markham"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c02",
+    "title": "02--THE FALLING STAR",
+    "sentimentScore": -0.9916,
+    "wordLength": 1351,
+    "entityMap": {
+     "TIME": {
+      "count": 13,
+      "values": [
+       "the night of the first",
+       "early in the morning",
+       "some seconds",
+       "at that hour",
+       "the night",
+       "that night",
+       "The early morning",
+       "that morning",
+       "a minute",
+       "five minutes ago",
+       "about six o\u2019clock",
+       "last night",
+       "eight o\u2019clock"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Winchester"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "Hundreds",
+       "about ninety",
+       "Half",
+       "one",
+       "two"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Albin",
+       "Surrey",
+       "Middlesex",
+       "Horsell Common"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "one hundred miles",
+       "about one hundred miles",
+       "a mile and a half",
+       "about thirty yards",
+       "an inch"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Ottershaw",
+       "Berkshire",
+       "Weybridge",
+       "Henderson",
+       "London"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Ogilvy",
+       "Horsell",
+       "Daily Chronicle"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Mars"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Horsell Bridge"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Henderson"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "about a quarter to nine"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c03",
+    "title": "03--ON HORSELL COMMON",
+    "sentimentScore": 0.5016,
+    "wordLength": 1021,
+    "entityMap": {
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Henderson",
+       "Pit",
+       "England",
+       "Maybury",
+       "London",
+       "Woking",
+       "Ottershaw"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Ogilvy",
+       "Thing",
+       "the Astronomical Exchange",
+       "the Astronomer Royal",
+       "Lord Hilton",
+       "Waterloo"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "four or five",
+       "two",
+       "three",
+       "half a dozen",
+       "about half a dozen",
+       "one",
+       "six"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Gregg",
+       "Chobham",
+       "Chertsey",
+       "Hilton"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "those days",
+       "the day",
+       "about a quarter past five"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "Extra-terrestrial",
+       " \u201c"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Mars",
+       "MARS"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "the afternoon",
+       "the evening"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the Chobham Road"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c04",
+    "title": "04--THE CYLINDER OPENS",
+    "sentimentScore": -0.9927,
+    "wordLength": 1128,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "one or two",
+       "a couple of hundred",
+       "two",
+       "three hundred",
+       "one",
+       "half",
+       "Two",
+       "hundred"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "Ogilvy"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "Nearly two feet",
+       "a hundred yards"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Gorgon",
+       "Chobham",
+       "Woking"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c05",
+    "title": "05--THE HEAT-RAY",
+    "sentimentScore": -0.9576,
+    "wordLength": 1496,
+    "entityMap": {
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "two",
+       "One",
+       "three",
+       "one"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Woking",
+       "Henderson"
+      ]
+     },
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Chobham",
+       "Woking",
+       "Chertsey",
+       "Knaphill",
+       "Horsell"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "thirty yards"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Horsell",
+       "Ogilvy"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "the night",
+       "the early night",
+       "evening"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c06",
+    "title": "06--THE HEAT-RAY IN THE CHOBHAM ROAD",
+    "sentimentScore": -0.9784,
+    "wordLength": 840,
+    "entityMap": {
+     "TIME": {
+      "count": 2,
+      "values": [
+       "all night long",
+       "evening"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Horsell",
+       "Ogilvy"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Maybury",
+       "Ottershaw",
+       "Henderson"
+      ]
+     },
+     "PERSON": {
+      "count": 1,
+      "values": [
+       "Chobham"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Horsell Bridge",
+       "the Heat-Ray"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "half past eight"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "three hundred",
+       "three"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "a few yards",
+       "two"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c07",
+    "title": "07--HOW I REACHED HOME",
+    "sentimentScore": -0.9985,
+    "wordLength": 1347,
+    "entityMap": {
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Horsell",
+       "Mauritius"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "A few minutes before",
+       "the pretty little row",
+       "that night",
+       "the next morning"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "three",
+       "one",
+       "two"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Maybury",
+       "Martian"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Oriental Terrace",
+       "Ogilvy",
+       "Times",
+       "the Daily Telegraph",
+       "Mars\u2019"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "two miles"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Mars",
+       "earth"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "those days"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c08",
+    "title": "08--FRIDAY NIGHT",
+    "sentimentScore": 0.5321,
+    "wordLength": 977,
+    "entityMap": {
+     "DATE": {
+      "count": 7,
+      "values": [
+       "Friday",
+       "the day",
+       "daily",
+       "years",
+       "the next day",
+       "earlier in the day",
+       "summer"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "Friday night",
+       "that night",
+       "evening",
+       "a late hour",
+       "afternoon",
+       "All night long",
+       "About eleven",
+       "midnight",
+       "the next morning\u2019s",
+       "A few seconds after midnight"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "five miles",
+       "five-mile"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "one",
+       "three",
+       "four",
+       "nine",
+       "half a dozen",
+       "One",
+       "two",
+       "about four hundred"
+      ]
+     },
+     "GPE": {
+      "count": 4,
+      "values": [
+       "London",
+       "Germany",
+       "Henderson",
+       "Chobham"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Mars",
+       "Earth",
+       "the Chertsey road"
+      ]
+     },
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Horsell",
+       "Chobham",
+       "Smith",
+       "Eden",
+       "Cardigan"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "\u201cMen from Mars!"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Horsell",
+       "Inkerman",
+       "Aldershot"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "the Heat-Ray"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c09",
+    "title": "09--THE FIGHTING BEGINS",
+    "sentimentScore": -0.947,
+    "wordLength": 2156,
+    "entityMap": {
+     "DATE": {
+      "count": 4,
+      "values": [
+       "Saturday",
+       "a day",
+       "the day",
+       "days"
+      ]
+     },
+     "GPE": {
+      "count": 4,
+      "values": [
+       "Woking",
+       "Henderson",
+       "London",
+       "Byfleet"
+      ]
+     },
+     "CARDINAL": {
+      "count": 9,
+      "values": [
+       "two",
+       "one",
+       "about two",
+       "four",
+       "a dozen",
+       "only about five",
+       "About six",
+       "One",
+       "three"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Ogilvy",
+       "Crawl",
+       "Horsell",
+       "Oriental College",
+       "the Oriental College",
+       "the Spotted Dog",
+       "Martians"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Cardigan",
+       "Horsell",
+       "Chobham",
+       "Marshall",
+       "Chertsey",
+       "Addlestone",
+       "Down"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "the previous evening",
+       "morning",
+       "that long morning",
+       "the afternoon",
+       "About half past",
+       "evening",
+       "the morning",
+       "About three o\u2019clock",
+       "midnight"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Horse Guards",
+       "the Maybury Inn"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Snippy"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "hundred-ton",
+       "Two pounds"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Maybury Hill"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "the Martians\u2019 Heat-Ray"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c10",
+    "title": "10--IN THE STORM",
+    "sentimentScore": -0.9912,
+    "wordLength": 2277,
+    "entityMap": {
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "about twelve miles",
+       "two feet",
+       "a hundred yards",
+       "half a mile",
+       "between my feet"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Maybury Hill",
+       "Mars",
+       "Ripley"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Pyrford",
+       "Maybury Hill",
+       "Pyrford Church",
+       "Thing",
+       "Byfleet to Street Cobham",
+       "the College Arms"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "nine",
+       "one",
+       "ten"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "that night",
+       "nearly eleven",
+       "The night",
+       "evening",
+       "the night",
+       "midnight",
+       "another minute",
+       "some minutes",
+       "night"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "all day"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Maybury",
+       "Pyrford",
+       "Maybury Hill"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Ockham",
+       "Wey",
+       "Addlestone"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "Ripley Street",
+       "towards Maybury Bridge"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c11",
+    "title": "11--AT THE WINDOW",
+    "sentimentScore": -0.9987,
+    "wordLength": 2052,
+    "entityMap": {
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Horsell Common",
+       "Hist",
+       "Cardigan",
+       "Chobham"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "the Oriental College",
+       "Horsell",
+       "Londonward"
+      ]
+     },
+     "TIME": {
+      "count": 7,
+      "values": [
+       "minute",
+       "night",
+       "the last seven hours",
+       "a minute",
+       "a few minutes",
+       "one night",
+       "the night"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Byfleet",
+       "Chobham",
+       "Titan",
+       "Maybury",
+       "Woking village"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the Maybury road"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "three",
+       "about seven",
+       "one"
+      ]
+     },
+     "DATE": {
+      "count": 2,
+      "values": [
+       "years",
+       "the fore quarter"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Mars"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c12",
+    "title": "12--WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERTON",
+    "sentimentScore": -0.999,
+    "wordLength": 3887,
+    "entityMap": {
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Londonward",
+       "Street Cobham",
+       "Giants",
+       "Shepperton Church\u2014",
+       "Shepperton Church",
+       "Martians"
+      ]
+     },
+     "CARDINAL": {
+      "count": 14,
+      "values": [
+       "12",
+       "three",
+       "one",
+       "Three",
+       "six",
+       "twelve",
+       "Three or four",
+       "two",
+       "One",
+       "four",
+       "half",
+       "nearer",
+       "a dozen",
+       "Half a dozen"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Horse Artillery",
+       "the Heat-Ray"
+      ]
+     },
+     "GPE": {
+      "count": 9,
+      "values": [
+       "Newhaven",
+       "London",
+       "Weybridge",
+       "Byfleet",
+       "Woking",
+       "Shepperton",
+       "Chertsey",
+       "Martian",
+       "Laleham"
+      ]
+     },
+     "PERSON": {
+      "count": 15,
+      "values": [
+       "The Heat-Ray",
+       "Brigadier-General Marvin",
+       "Addlestone",
+       "Byfleet",
+       "Chertsey",
+       "Shepperton Lock",
+       "Wey",
+       "Thames",
+       "Surrey",
+       "D\u2019yer",
+       "\u201d  ",
+       "Shepperton",
+       "Thick",
+       "the Heat-Rays",
+       "Ray"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Maybury Hill"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "Saturday",
+       "the 8th Hussars",
+       "the day",
+       "Sunday",
+       "Friday"
+      ]
+     },
+     "TIME": {
+      "count": 7,
+      "values": [
+       "this morning",
+       "last night",
+       "a later hour",
+       "midday",
+       "that hour",
+       "prohibited hours",
+       "night"
+      ]
+     },
+     "QUANTITY": {
+      "count": 9,
+      "values": [
+       "about half a mile",
+       "Hundred feet",
+       "Half a mile",
+       "two",
+       "twenty feet",
+       "a couple of hundred yards",
+       "six yards",
+       "one perhaps two hundred yards",
+       "fifty yards"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "the Heat-Ray"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Farther"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c13",
+    "title": "13--HOW I FELL IN WITH THE CURATE",
+    "sentimentScore": -0.9983,
+    "wordLength": 1804,
+    "entityMap": {
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Horsell Common",
+       "Epsom Downs",
+       "Weybridge",
+       "celebration\u2014\u2014",
+       "Plentiful",
+       "God",
+       "Yonder"
+      ]
+     },
+     "GPE": {
+      "count": 11,
+      "values": [
+       "London",
+       "Lisbon",
+       "Kingston",
+       "Richmond",
+       "Martian",
+       "Addlestone Golf Links",
+       "Halliford",
+       "Walton",
+       "Weybridge",
+       "Middlesex",
+       "Shepperton"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "twelve",
+       "one",
+       "about four or five",
+       "One"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "a century ago",
+       "a day ago",
+       "midsummer",
+       "Sunday",
+       "only three years ago",
+       "the beginning of the end"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "every twenty-four hours",
+       "Every minute",
+       "the night",
+       "the last hour",
+       "The morning",
+       "the afternoon",
+       "half a minute",
+       "three hours ago"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "perhaps twenty square miles",
+       "a mile",
+       "perhaps half a mile"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Pyrford",
+       "Banstead",
+       "Humanity",
+       "Sodom and Gomorrah",
+       "Weybridge\u2014",
+       "Londonward"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c14",
+    "title": "14--IN LONDON",
+    "sentimentScore": -0.9994,
+    "wordLength": 3769,
+    "entityMap": {
+     "GPE": {
+      "count": 26,
+      "values": [
+       "London",
+       "Byfleet",
+       "Virginia",
+       "Londoner",
+       "Chertsey",
+       "West Surrey",
+       "Walton",
+       "Londonward",
+       "Referee",
+       "Richmond",
+       "Kingston",
+       "Molesey",
+       "Richmond Park",
+       "Woolwich",
+       "England",
+       "Strand",
+       "Victoria",
+       "Woking",
+       "Weybridge",
+       "Westminster",
+       "Regent",
+       "Park",
+       "Kilburn",
+       "St. John\u2019s",
+       "Shoreditch",
+       "Ealing"
+      ]
+     },
+     "TIME": {
+      "count": 25,
+      "values": [
+       "Saturday morning",
+       "The morning",
+       "afternoon",
+       "the night",
+       "that night",
+       "about four o\u2019clock",
+       "the evening",
+       "Saturday night",
+       "midnight",
+       "Sunday morning",
+       "Monday morning",
+       "About seven o\u2019clock last night",
+       "late in the afternoon",
+       "the morning",
+       "the previous night",
+       "early hours",
+       "About five o\u2019clock",
+       "night",
+       "About eight o\u2019clock",
+       "a little after midnight",
+       "the small hours",
+       "Sunday night",
+       "the small hours of Monday morning",
+       "the early dawn",
+       "the dawn"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "Saturday",
+       "the Sunday",
+       "Sunday",
+       "day",
+       "a Derby Day",
+       "Monday"
+      ]
+     },
+     "LOC": {
+      "count": 11,
+      "values": [
+       "Mars",
+       "earth",
+       "the South-Western \u201clung\u201d\u2014Barnes",
+       "the South-Eastern",
+       "South-Western",
+       "Regent",
+       "Thames Valley",
+       "the Park Terraces",
+       "Westbourne Park",
+       "the Black Smoke",
+       "Black Smoke"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Woking",
+       "Weybridge",
+       "Chertsey",
+       "Putney",
+       "Walton",
+       "Wimbledon",
+       "Repulse",
+       "Horsell Common",
+       "the Heat-Rays",
+       "Surrey",
+       "Beyond Victoria"
+      ]
+     },
+     "ORG": {
+      "count": 32,
+      "values": [
+       "the St. James\u2019s Gazette",
+       "Waterloo",
+       "Portsmouth Sunday League",
+       "Plenty of Londoners",
+       "the Cardigan Regiment",
+       "Londonward",
+       "the Sunday Sun",
+       "Referee",
+       "the Foundling Hospital",
+       "Hampton Court",
+       "Chatham",
+       "Salvation Army",
+       "Waterloo Road",
+       "the Houses of Parliament",
+       "Thames",
+       "Martians",
+       "Aldershot",
+       "Strand",
+       "Westminster Bridge",
+       "Sabbath",
+       "Square",
+       "Chertsey",
+       "Portland Place",
+       "the Albany Street Barracks",
+       "Chalk Farm",
+       "Euston",
+       "Marylebone",
+       "Wood and Hampstead",
+       "Highbury",
+       "Haggerston",
+       "Hoxton",
+       "East Ham"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "a good two miles",
+       "nearly a hundred feet",
+       "ninety-five tons",
+       "a hundred feet",
+       "ten pounds"
+      ]
+     },
+     "FAC": {
+      "count": 9,
+      "values": [
+       "Southampton",
+       "the South-Western Company",
+       "the Clock Tower",
+       "Wellington Street",
+       "Fleet Street",
+       "Trafalgar Square",
+       "Oxford Street",
+       "the Marylebone Road",
+       "Regent Street"
+      ]
+     },
+     "CARDINAL": {
+      "count": 14,
+      "values": [
+       "One",
+       "two",
+       "one",
+       "Five",
+       "one hundred and sixteen",
+       "more than twenty",
+       "millions",
+       "more than five",
+       "five",
+       "six",
+       "about two",
+       "a dozen",
+       "hundred",
+       "six-million"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Windsor, Portsmouth"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "\u201cBlack Smoke"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c15",
+    "title": "15--WHAT HAD HAPPENED IN SURREY",
+    "sentimentScore": -0.9986,
+    "wordLength": 2832,
+    "entityMap": {
+     "GPE": {
+      "count": 21,
+      "values": [
+       "Halliford",
+       "Byfleet",
+       "Pyrford",
+       "Weybridge",
+       "Ripley",
+       "St. George\u2019s Hill",
+       "Upper Halliford",
+       "Ditton",
+       "Painshill",
+       "Londonward",
+       "Moscow",
+       "Walton",
+       "Bushey Park",
+       "Richmond",
+       "Kingston",
+       "Hanwell",
+       "Coombe",
+       "Malden",
+       "St. George\u2019s",
+       "Richmond Park",
+       "London"
+      ]
+     },
+     "FAC": {
+      "count": 3,
+      "values": [
+       "Westminster Bridge",
+       "Street Cobham",
+       "the Heat-Ray"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Horsell",
+       "Staines",
+       "Martians",
+       "Londoners",
+       "Street Cobham",
+       "Thames"
+      ]
+     },
+     "TIME": {
+      "count": 12,
+      "values": [
+       "nine that night",
+       "about eight o\u2019clock",
+       "the next half hour",
+       "a few minutes past nine that night",
+       "the early night",
+       "the minute",
+       "night",
+       "a quarter of an hour",
+       "All night",
+       "midnight",
+       "Sunday night",
+       "that night"
+      ]
+     },
+     "CARDINAL": {
+      "count": 15,
+      "values": [
+       "three",
+       "about a thousand",
+       "one",
+       "only one",
+       "two",
+       "About nine",
+       "four",
+       "seven",
+       "A dozen",
+       "a thousand",
+       "our millions",
+       "A hundred",
+       "some two",
+       "no fewer than five",
+       "One"
+      ]
+     },
+     "LOC": {
+      "count": 6,
+      "values": [
+       "Ripley",
+       "Painshill Park",
+       "earth",
+       "Richmond Hill",
+       "Kingston Hill",
+       "Hampton"
+      ]
+     },
+     "QUANTITY": {
+      "count": 4,
+      "values": [
+       "a mile and a half",
+       "twelve miles",
+       "a third",
+       "fifty feet"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Heat-Ray",
+       "Weybridge",
+       "Ditton",
+       "Ockham",
+       "I.  ",
+       "Hill",
+       "Thames"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "a day and a half"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "the Heat-Ray"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c16",
+    "title": "16--THE EXODUS FROM LONDON",
+    "sentimentScore": -0.9998,
+    "wordLength": 4445,
+    "entityMap": {
+     "DATE": {
+      "count": 8,
+      "values": [
+       "Monday",
+       "Sunday",
+       "as the day",
+       "now",
+       "six yards\u2019",
+       "two days",
+       "the day",
+       "that day"
+      ]
+     },
+     "ORG": {
+      "count": 10,
+      "values": [
+       "Thames",
+       "Ealing",
+       "Castle Hill",
+       "Chalk Farm",
+       "Chelmsford",
+       "Stanmore",
+       "Londoners",
+       "East End",
+       "the Salvation Army",
+       "Point"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "ten o\u2019clock",
+       "midday",
+       "midnight",
+       "two o\u2019clock",
+       "about seven",
+       "that hour",
+       "the small hours",
+       "morning",
+       "the evening"
+      ]
+     },
+     "FAC": {
+      "count": 7,
+      "values": [
+       "Cannon Street",
+       "Bishopsgate Street",
+       "Liverpool Street",
+       "Belsize Road",
+       "the Edgware Road",
+       "the Great North Road",
+       "the Great Northern Railway"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "three",
+       "a dozen",
+       "two",
+       "half",
+       "One",
+       "about half past four",
+       "nearly nine",
+       "one",
+       "Two",
+       "eight or nine"
+      ]
+     },
+     "QUANTITY": {
+      "count": 8,
+      "values": [
+       "a couple of hundred yards",
+       "A mile",
+       "two",
+       "as much as thirty pounds",
+       "five-pound",
+       "fifty yards",
+       "twenty feet",
+       "a hundred yards"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "London",
+       "Martian",
+       "Lambeth",
+       "Edgware",
+       "St. Albans",
+       "New Barnet",
+       "Londonward",
+       "horses\u2019"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Barnes",
+       "Essex"
+      ]
+     },
+     "LOC": {
+      "count": 4,
+      "values": [
+       "North-Western",
+       "Haverstock Hill",
+       "Mars",
+       "East Barnet"
+      ]
+     },
+     "PERSON": {
+      "count": 13,
+      "values": [
+       "Edgware",
+       "High Barnet",
+       "Elphinstone\u2014",
+       "George\u201d",
+       "Barnet",
+       "Elphinstone",
+       "Push",
+       "Miss Elphinstone",
+       "Ellen",
+       "Garrick",
+       "George",
+       "Chipping Barnet",
+       "Hadley"
+      ]
+     },
+     "LAW": {
+      "count": 1,
+      "values": [
+       "Pinner"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c17",
+    "title": "17--THE \u201cTHUNDER CHILD\u201d",
+    "sentimentScore": -0.9993,
+    "wordLength": 3299,
+    "entityMap": {
+     "DATE": {
+      "count": 10,
+      "values": [
+       "Monday",
+       "June",
+       "About one o\u2019clock",
+       "Tuesday",
+       "morrow",
+       "the first day\u2019s",
+       "all day",
+       "Wednesday",
+       "the next day",
+       "that day"
+      ]
+     },
+     "GPE": {
+      "count": 17,
+      "values": [
+       "London",
+       "Shoeburyness",
+       "Richmond",
+       "Wimbledon",
+       "Martian",
+       "Colchester",
+       "Birmingham",
+       "Midland",
+       "St. Albans",
+       "Harwich",
+       "Southampton",
+       "Hamburg",
+       "Maldon",
+       "England",
+       "Stanmore",
+       "Titan",
+       "Crouch"
+      ]
+     },
+     "PERSON": {
+      "count": 17,
+      "values": [
+       "Barnet",
+       "Edgware",
+       "Broadstairs",
+       "Chipping Barnet",
+       "Goths",
+       "Neasden",
+       "Chipping Ongar",
+       "Primrose Hill",
+       "Miss Elphinstone",
+       "Essex",
+       "Walton",
+       "Clacton",
+       "Blackwater",
+       "Elphinstone",
+       "George",
+       "Stanmore",
+       "Glancing"
+      ]
+     },
+     "ORG": {
+      "count": 18,
+      "values": [
+       "Waltham Abbey",
+       "Huns",
+       "the Pool of London",
+       "Limehouse",
+       "Highgate",
+       "the Midland Railway Company",
+       "Chelmsford",
+       "the Committee of Public Supply",
+       "Epping",
+       "Waltham Abbey Powder Mills",
+       "Tillingham",
+       "Thames",
+       "Foulness and Shoebury",
+       "Naze",
+       "the Channel Fleet",
+       "Stanmore",
+       "Foulness",
+       "the Thunder Child"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Asia",
+       "the Black Smoke",
+       "Black Smoke"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "six million",
+       "about half",
+       "three",
+       "one",
+       "two",
+       "One",
+       "Two"
+      ]
+     },
+     "TIME": {
+      "count": 14,
+      "values": [
+       "morning",
+       "about midday",
+       "afternoon",
+       "an hour later",
+       "twenty-four hours",
+       "That night",
+       "midday",
+       "about two o\u2019clock",
+       "five in the afternoon",
+       "about that hour",
+       "a minute",
+       "many minutes",
+       "evening",
+       "the night"
+      ]
+     },
+     "FAC": {
+      "count": 3,
+      "values": [
+       "Blackfriars Bridge",
+       "the Tower Bridge",
+       "the Clock Tower"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "About a couple of miles",
+       "thirty-six pounds",
+       "a hundred yards"
+      ]
+     },
+     "LAW": {
+      "count": 1,
+      "values": [
+       "Thunder Child"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "the Heat-Ray"
+      ]
+     }
+    }
+   }
+  ]
+ }
+}
