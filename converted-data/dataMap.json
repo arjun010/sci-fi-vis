@@ -6,6 +6,7 @@
   "chapters": [
    {
     "id": "b0-c01",
+    "book": "frankenstein",
     "title": "01--Chapter 1",
     "sentimentScore": 0.9998,
     "wordCount": 1801,
@@ -87,6 +88,7 @@
    },
    {
     "id": "b0-c02",
+    "book": "frankenstein",
     "title": "02--Chapter 2",
     "sentimentScore": 0.9998,
     "wordCount": 2245,
@@ -167,6 +169,7 @@
    },
    {
     "id": "b0-c03",
+    "book": "frankenstein",
     "title": "03--Chapter 3",
     "sentimentScore": 0.9985,
     "wordCount": 2756,
@@ -243,6 +246,7 @@
    },
    {
     "id": "b0-c04",
+    "book": "frankenstein",
     "title": "04--Chapter 4",
     "sentimentScore": 0.9996,
     "wordCount": 2608,
@@ -326,6 +330,7 @@
    },
    {
     "id": "b0-c05",
+    "book": "frankenstein",
     "title": "05--Chapter 5",
     "sentimentScore": -0.9701,
     "wordCount": 2457,
@@ -399,6 +404,7 @@
    },
    {
     "id": "b0-c06",
+    "book": "frankenstein",
     "title": "06--Chapter 6",
     "sentimentScore": 0.9999,
     "wordCount": 2832,
@@ -523,6 +529,7 @@
    },
    {
     "id": "b0-c07",
+    "book": "frankenstein",
     "title": "07--Chapter 7",
     "sentimentScore": -0.9988,
     "wordCount": 3706,
@@ -646,6 +653,7 @@
    },
    {
     "id": "b0-c08",
+    "book": "frankenstein",
     "title": "08--Chapter 8",
     "sentimentScore": -0.9998,
     "wordCount": 3211,
@@ -734,6 +742,7 @@
    },
    {
     "id": "b0-c09",
+    "book": "frankenstein",
     "title": "09--Chapter 9",
     "sentimentScore": 0.9854,
     "wordCount": 2284,
@@ -823,6 +832,7 @@
    },
    {
     "id": "b0-c10",
+    "book": "frankenstein",
     "title": "10--Chapter 10",
     "sentimentScore": -0.999,
     "wordCount": 2509,
@@ -886,6 +896,7 @@
    },
    {
     "id": "b0-c11",
+    "book": "frankenstein",
     "title": "11--Chapter 11",
     "sentimentScore": 0.9996,
     "wordCount": 2999,
@@ -939,6 +950,7 @@
    },
    {
     "id": "b0-c12",
+    "book": "frankenstein",
     "title": "12--Chapter 12",
     "sentimentScore": 0.9996,
     "wordCount": 2143,
@@ -1003,6 +1015,7 @@
    },
    {
     "id": "b0-c13",
+    "book": "frankenstein",
     "title": "13--Chapter 13",
     "sentimentScore": 0.9999,
     "wordCount": 2100,
@@ -1065,6 +1078,7 @@
    },
    {
     "id": "b0-c14",
+    "book": "frankenstein",
     "title": "14--Chapter 14",
     "sentimentScore": 0.9957,
     "wordCount": 1914,
@@ -1149,6 +1163,7 @@
    },
    {
     "id": "b0-c15",
+    "book": "frankenstein",
     "title": "15--Chapter 15",
     "sentimentScore": 0.9999,
     "wordCount": 3153,
@@ -1258,6 +1273,7 @@
    },
    {
     "id": "b0-c16",
+    "book": "frankenstein",
     "title": "16--Chapter 16",
     "sentimentScore": -0.9996,
     "wordCount": 3330,
@@ -1346,6 +1362,7 @@
    },
    {
     "id": "b0-c17",
+    "book": "frankenstein",
     "title": "17--Chapter 17",
     "sentimentScore": -0.999,
     "wordCount": 1965,
@@ -1404,6 +1421,7 @@
    },
    {
     "id": "b0-c18",
+    "book": "frankenstein",
     "title": "18--Chapter 18",
     "sentimentScore": 0.9998,
     "wordCount": 3005,
@@ -1519,6 +1537,7 @@
    },
    {
     "id": "b0-c19",
+    "book": "frankenstein",
     "title": "19--Chapter 19",
     "sentimentScore": 0.9992,
     "wordCount": 2698,
@@ -1641,6 +1660,7 @@
    },
    {
     "id": "b0-c20",
+    "book": "frankenstein",
     "title": "20--Chapter 20",
     "sentimentScore": -0.9995,
     "wordCount": 3591,
@@ -1736,6 +1756,7 @@
    },
    {
     "id": "b0-c21",
+    "book": "frankenstein",
     "title": "21--Chapter 21",
     "sentimentScore": -0.9997,
     "wordCount": 3831,
@@ -1841,6 +1862,7 @@
    },
    {
     "id": "b0-c22",
+    "book": "frankenstein",
     "title": "22--Chapter 22",
     "sentimentScore": 0.9989,
     "wordCount": 3523,
@@ -1944,6 +1966,7 @@
    },
    {
     "id": "b0-c23",
+    "book": "frankenstein",
     "title": "23--Chapter 23",
     "sentimentScore": -0.9997,
     "wordCount": 2646,
@@ -2013,6 +2036,7 @@
    },
    {
     "id": "b0-c24",
+    "book": "frankenstein",
     "title": "24--Chapter 24",
     "sentimentScore": -0.9998,
     "wordCount": 8462,
@@ -2150,6 +2174,7 @@
   "chapters": [
    {
     "id": "b1-c01",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "01--MY UNCLE MAKES A GREAT DISCOVERY",
     "sentimentScore": 0.9997,
     "wordCount": 2026,
@@ -2248,6 +2273,7 @@
    },
    {
     "id": "b1-c02",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "02--THE MYSTERIOUS PARCHMENT",
     "sentimentScore": 0.999,
     "wordCount": 1239,
@@ -2328,6 +2354,7 @@
    },
    {
     "id": "b1-c03",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "03--AN ASTOUNDING DISCOVERY",
     "sentimentScore": -0.984,
     "wordCount": 2603,
@@ -2427,6 +2454,7 @@
    },
    {
     "id": "b1-c04",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "04--WE START ON THE JOURNEY",
     "sentimentScore": 0.9845,
     "wordCount": 1257,
@@ -2506,6 +2534,7 @@
    },
    {
     "id": "b1-c05",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "05--FIRST LESSONS IN CLIMBING",
     "sentimentScore": 0.9972,
     "wordCount": 1268,
@@ -2608,6 +2637,7 @@
    },
    {
     "id": "b1-c06",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "06--OUR VOYAGE TO ICELAND",
     "sentimentScore": 0.9875,
     "wordCount": 2188,
@@ -2759,6 +2789,7 @@
    },
    {
     "id": "b1-c07",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "07--CONVERSATION AND DISCOVERY",
     "sentimentScore": 0.9996,
     "wordCount": 1285,
@@ -2838,6 +2869,7 @@
    },
    {
     "id": "b1-c08",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "08--THE EIDER-DOWN HUNTER--OFF AT LAST",
     "sentimentScore": 0.9997,
     "wordCount": 2376,
@@ -2971,6 +3003,7 @@
    },
    {
     "id": "b1-c09",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "09--OUR START--WE MEET WITH ADVENTURES BY THE WAY",
     "sentimentScore": 0.749,
     "wordCount": 2036,
@@ -3079,6 +3112,7 @@
    },
    {
     "id": "b1-c10",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "10--TRAVELING IN ICELAND",
     "sentimentScore": 0.9984,
     "wordCount": 1946,
@@ -3163,6 +3197,7 @@
    },
    {
     "id": "b1-c11",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "11--WE REACH MOUNT SNEFFELS--THE REYKIR",
     "sentimentScore": 0.9975,
     "wordCount": 2187,
@@ -3269,6 +3304,7 @@
    },
    {
     "id": "b1-c12",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "12--THE ASCENT OF MOUNT SNEFFELS",
     "sentimentScore": 0.9987,
     "wordCount": 2635,
@@ -3371,6 +3407,7 @@
    },
    {
     "id": "b1-c13",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "13--THE SHADOW OF SCARTARIS",
     "sentimentScore": 0.9993,
     "wordCount": 2456,
@@ -3470,6 +3507,7 @@
    },
    {
     "id": "b1-c14",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "14--THE REAL JOURNEY COMMENCES",
     "sentimentScore": 0.9985,
     "wordCount": 2032,
@@ -3556,6 +3594,7 @@
    },
    {
     "id": "b1-c15",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "15--WE CONTINUE OUR DESCENT",
     "sentimentScore": 0.9938,
     "wordCount": 1875,
@@ -3667,6 +3706,7 @@
    },
    {
     "id": "b1-c16",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "16--THE EASTERN TUNNEL",
     "sentimentScore": 0.9978,
     "wordCount": 2005,
@@ -3755,6 +3795,7 @@
    },
    {
     "id": "b1-c17",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "17--DEEPER AND DEEPER--THE COAL MINE",
     "sentimentScore": 0.9958,
     "wordCount": 1982,
@@ -3842,6 +3883,7 @@
    },
    {
     "id": "b1-c18",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "18--THE WRONG ROAD!",
     "sentimentScore": -0.9898,
     "wordCount": 1823,
@@ -3928,6 +3970,7 @@
    },
    {
     "id": "b1-c19",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "19--THE WESTERN GALLERY--A NEW ROUTE",
     "sentimentScore": -0.9974,
     "wordCount": 1160,
@@ -4000,6 +4043,7 @@
    },
    {
     "id": "b1-c20",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "20--WATER, WHERE IS IT A BITTER DISAPPOINTMENT",
     "sentimentScore": -0.684,
     "wordCount": 1917,
@@ -4067,6 +4111,7 @@
    },
    {
     "id": "b1-c21",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "21--UNDER THE OCEAN",
     "sentimentScore": 0.9936,
     "wordCount": 1385,
@@ -4146,6 +4191,7 @@
    },
    {
     "id": "b1-c22",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "22--SUNDAY BELOW GROUND",
     "sentimentScore": 0.995,
     "wordCount": 1757,
@@ -4242,6 +4288,7 @@
    },
    {
     "id": "b1-c23",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "23--ALONE",
     "sentimentScore": 0.8925,
     "wordCount": 1211,
@@ -4298,6 +4345,7 @@
    },
    {
     "id": "b1-c24",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "24--LOST!",
     "sentimentScore": -0.9991,
     "wordCount": 1616,
@@ -4353,6 +4401,7 @@
    },
    {
     "id": "b1-c25",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "25--THE WHISPERING GALLERY",
     "sentimentScore": 0.99,
     "wordCount": 2221,
@@ -4427,6 +4476,7 @@
    },
    {
     "id": "b1-c26",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "26--A RAPID RECOVERY",
     "sentimentScore": 0.9953,
     "wordCount": 1546,
@@ -4484,6 +4534,7 @@
    },
    {
     "id": "b1-c27",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "27--THE CENTRAL SEA",
     "sentimentScore": 0.9996,
     "wordCount": 2648,
@@ -4582,6 +4633,7 @@
    },
    {
     "id": "b1-c28",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "28--LAUNCHING THE RAFT",
     "sentimentScore": 0.9998,
     "wordCount": 2082,
@@ -4685,6 +4737,7 @@
    },
    {
     "id": "b1-c29",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "29--ON THE WATERS--A RAFT VOYAGE",
     "sentimentScore": 0.9993,
     "wordCount": 2906,
@@ -4793,6 +4846,7 @@
    },
    {
     "id": "b1-c30",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "30--TERRIFIC SAURIAN COMBAT",
     "sentimentScore": -0.9922,
     "wordCount": 3135,
@@ -4907,6 +4961,7 @@
    },
    {
     "id": "b1-c31",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "31--THE SEA MONSTER",
     "sentimentScore": 0.9848,
     "wordCount": 1868,
@@ -4993,6 +5048,7 @@
    },
    {
     "id": "b1-c32",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "32--THE BATTLE OF THE ELEMENTS",
     "sentimentScore": -0.9995,
     "wordCount": 2427,
@@ -5081,6 +5137,7 @@
    },
    {
     "id": "b1-c33",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "33--OUR ROUTE REVERSED",
     "sentimentScore": 0.9995,
     "wordCount": 2689,
@@ -5186,6 +5243,7 @@
    },
    {
     "id": "b1-c34",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "34--A VOYAGE OF DISCOVERY",
     "sentimentScore": 0.9915,
     "wordCount": 1819,
@@ -5274,6 +5332,7 @@
    },
    {
     "id": "b1-c35",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "35--DISCOVERY UPON DISCOVERY",
     "sentimentScore": 0.9991,
     "wordCount": 2265,
@@ -5403,6 +5462,7 @@
    },
    {
     "id": "b1-c36",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "36--WHAT IS IT",
     "sentimentScore": 0.9527,
     "wordCount": 1377,
@@ -5480,6 +5540,7 @@
    },
    {
     "id": "b1-c37",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "37--THE MYSTERIOUS DAGGER",
     "sentimentScore": 0.9911,
     "wordCount": 1275,
@@ -5546,6 +5607,7 @@
    },
    {
     "id": "b1-c38",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "38--NO OUTLET--BLASTING THE ROCK",
     "sentimentScore": 0.9993,
     "wordCount": 2255,
@@ -5638,6 +5700,7 @@
    },
    {
     "id": "b1-c39",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "39--THE EXPLOSION AND ITS RESULTS",
     "sentimentScore": -0.9958,
     "wordCount": 2209,
@@ -5719,6 +5782,7 @@
    },
    {
     "id": "b1-c40",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "40--THE APE GIGANS",
     "sentimentScore": -0.992,
     "wordCount": 2230,
@@ -5788,6 +5852,7 @@
    },
    {
     "id": "b1-c41",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "41--HUNGER",
     "sentimentScore": -0.9758,
     "wordCount": 2371,
@@ -5871,6 +5936,7 @@
    },
    {
     "id": "b1-c42",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "42--THE VOLCANIC SHAFT",
     "sentimentScore": -0.9993,
     "wordCount": 3159,
@@ -5960,6 +6026,7 @@
    },
    {
     "id": "b1-c43",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "43--DAYLIGHT AT LAST",
     "sentimentScore": 0.9988,
     "wordCount": 2036,
@@ -6058,6 +6125,7 @@
    },
    {
     "id": "b1-c44",
+    "book": "journey-to-the-center-of-the-earth",
     "title": "44--THE JOURNEY ENDED",
     "sentimentScore": 0.9992,
     "wordCount": 1089,
@@ -6142,6 +6210,7 @@
   "chapters": [
    {
     "id": "b2-c01",
+    "book": "the-time-machine",
     "title": "01--Introduction",
     "sentimentScore": 0.9979,
     "wordCount": 1731,
@@ -6259,6 +6328,7 @@
    },
    {
     "id": "b2-c02",
+    "book": "the-time-machine",
     "title": "02--The Machine",
     "sentimentScore": 0.9966,
     "wordCount": 1359,
@@ -6350,6 +6420,7 @@
    },
    {
     "id": "b2-c03",
+    "book": "the-time-machine",
     "title": "03--The Time Traveller Returns",
     "sentimentScore": -0.9219,
     "wordCount": 2005,
@@ -6456,6 +6527,7 @@
    },
    {
     "id": "b2-c04",
+    "book": "the-time-machine",
     "title": "04--Time Travelling",
     "sentimentScore": 0.9848,
     "wordCount": 2099,
@@ -6531,6 +6603,7 @@
    },
    {
     "id": "b2-c05",
+    "book": "the-time-machine",
     "title": "05--In the Golden Age",
     "sentimentScore": 0.9986,
     "wordCount": 1665,
@@ -6587,6 +6660,7 @@
    },
    {
     "id": "b2-c06",
+    "book": "the-time-machine",
     "title": "06--The Sunset of Mankind",
     "sentimentScore": 0.9995,
     "wordCount": 2201,
@@ -6663,6 +6737,7 @@
    },
    {
     "id": "b2-c07",
+    "book": "the-time-machine",
     "title": "07--A Sudden Shock",
     "sentimentScore": -0.9989,
     "wordCount": 2335,
@@ -6724,6 +6799,7 @@
    },
    {
     "id": "b2-c08",
+    "book": "the-time-machine",
     "title": "08--Explanation",
     "sentimentScore": 0.9982,
     "wordCount": 4206,
@@ -6848,6 +6924,7 @@
    },
    {
     "id": "b2-c09",
+    "book": "the-time-machine",
     "title": "09--The Morlocks",
     "sentimentScore": -0.9978,
     "wordCount": 2166,
@@ -6933,6 +7010,7 @@
    },
    {
     "id": "b2-c10",
+    "book": "the-time-machine",
     "title": "10--When Night Came",
     "sentimentScore": -0.9701,
     "wordCount": 2533,
@@ -7044,6 +7122,7 @@
    },
    {
     "id": "b2-c11",
+    "book": "the-time-machine",
     "title": "11--The Palace of Green Porcelain",
     "sentimentScore": 0.9984,
     "wordCount": 2478,
@@ -7136,6 +7215,7 @@
    },
    {
     "id": "b2-c12",
+    "book": "the-time-machine",
     "title": "12--In the Darkness",
     "sentimentScore": -0.9996,
     "wordCount": 2654,
@@ -7221,6 +7301,7 @@
    },
    {
     "id": "b2-c13",
+    "book": "the-time-machine",
     "title": "13--The Trap of the White Sphinx",
     "sentimentScore": 0.9925,
     "wordCount": 1079,
@@ -7286,6 +7367,7 @@
    },
    {
     "id": "b2-c14",
+    "book": "the-time-machine",
     "title": "14--The Further Vision",
     "sentimentScore": -0.9974,
     "wordCount": 1911,
@@ -7344,6 +7426,7 @@
    },
    {
     "id": "b2-c15",
+    "book": "the-time-machine",
     "title": "15--The Time Traveller\u2019s Return",
     "sentimentScore": -0.8832,
     "wordCount": 484,
@@ -7391,6 +7474,7 @@
    },
    {
     "id": "b2-c16",
+    "book": "the-time-machine",
     "title": "16--After the Story",
     "sentimentScore": 0.9965,
     "wordCount": 1415,
@@ -7474,6 +7558,7 @@
   "chapters": [
    {
     "id": "b3-c01",
+    "book": "war-of-the-worlds",
     "title": "01--THE EVE OF THE WAR",
     "sentimentScore": 0.9695,
     "wordCount": 2231,
@@ -7589,6 +7674,7 @@
    },
    {
     "id": "b3-c02",
+    "book": "war-of-the-worlds",
     "title": "02--THE FALLING STAR",
     "sentimentScore": -0.9916,
     "wordCount": 1351,
@@ -7692,6 +7778,7 @@
    },
    {
     "id": "b3-c03",
+    "book": "war-of-the-worlds",
     "title": "03--ON HORSELL COMMON",
     "sentimentScore": 0.5016,
     "wordCount": 1021,
@@ -7779,6 +7866,7 @@
    },
    {
     "id": "b3-c04",
+    "book": "war-of-the-worlds",
     "title": "04--THE CYLINDER OPENS",
     "sentimentScore": -0.9927,
     "wordCount": 1128,
@@ -7821,6 +7909,7 @@
    },
    {
     "id": "b3-c05",
+    "book": "war-of-the-worlds",
     "title": "05--THE HEAT-RAY",
     "sentimentScore": -0.9576,
     "wordCount": 1496,
@@ -7882,6 +7971,7 @@
    },
    {
     "id": "b3-c06",
+    "book": "war-of-the-worlds",
     "title": "06--THE HEAT-RAY IN THE CHOBHAM ROAD",
     "sentimentScore": -0.9784,
     "wordCount": 840,
@@ -7945,6 +8035,7 @@
    },
    {
     "id": "b3-c07",
+    "book": "war-of-the-worlds",
     "title": "07--HOW I REACHED HOME",
     "sentimentScore": -0.9985,
     "wordCount": 1347,
@@ -8013,6 +8104,7 @@
    },
    {
     "id": "b3-c08",
+    "book": "war-of-the-worlds",
     "title": "08--FRIDAY NIGHT",
     "sentimentScore": 0.5321,
     "wordCount": 977,
@@ -8115,6 +8207,7 @@
    },
    {
     "id": "b3-c09",
+    "book": "war-of-the-worlds",
     "title": "09--THE FIGHTING BEGINS",
     "sentimentScore": -0.947,
     "wordCount": 2156,
@@ -8225,6 +8318,7 @@
    },
    {
     "id": "b3-c10",
+    "book": "war-of-the-worlds",
     "title": "10--IN THE STORM",
     "sentimentScore": -0.9912,
     "wordCount": 2277,
@@ -8313,6 +8407,7 @@
    },
    {
     "id": "b3-c11",
+    "book": "war-of-the-worlds",
     "title": "11--AT THE WINDOW",
     "sentimentScore": -0.9987,
     "wordCount": 2052,
@@ -8387,6 +8482,7 @@
    },
    {
     "id": "b3-c12",
+    "book": "war-of-the-worlds",
     "title": "12--WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERTON",
     "sentimentScore": -0.999,
     "wordCount": 3887,
@@ -8520,6 +8616,7 @@
    },
    {
     "id": "b3-c13",
+    "book": "war-of-the-worlds",
     "title": "13--HOW I FELL IN WITH THE CURATE",
     "sentimentScore": -0.9983,
     "wordCount": 1804,
@@ -8608,6 +8705,7 @@
    },
    {
     "id": "b3-c14",
+    "book": "war-of-the-worlds",
     "title": "14--IN LONDON",
     "sentimentScore": -0.9994,
     "wordCount": 3769,
@@ -8812,6 +8910,7 @@
    },
    {
     "id": "b3-c15",
+    "book": "war-of-the-worlds",
     "title": "15--WHAT HAD HAPPENED IN SURREY",
     "sentimentScore": -0.9986,
     "wordCount": 2832,
@@ -8946,6 +9045,7 @@
    },
    {
     "id": "b3-c16",
+    "book": "war-of-the-worlds",
     "title": "16--THE EXODUS FROM LONDON",
     "sentimentScore": -0.9998,
     "wordCount": 4445,
@@ -9089,6 +9189,7 @@
    },
    {
     "id": "b3-c17",
+    "book": "war-of-the-worlds",
     "title": "17--THE \u201cTHUNDER CHILD\u201d",
     "sentimentScore": -0.9993,
     "wordCount": 3299,

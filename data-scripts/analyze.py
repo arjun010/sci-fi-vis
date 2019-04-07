@@ -49,6 +49,7 @@ for book in os.listdir('../raw-data'):
 
 		chapterObj = {
 			"id" : chapterId,
+			"book" : book,
 			"title" : chapter.split(".txt")[0],
 			"sentimentScore" : chapterSentimentScore,
 			"wordCount" : len(chapterText.split(' ')),
