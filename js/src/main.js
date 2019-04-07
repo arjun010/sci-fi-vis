@@ -121,8 +121,9 @@
 		}
 		updateChapterColors('',dataMap);
 	    
-	    $( "#vis-ul" ).sortable({
-	      placeholder: "ui-state-highlight"
+	    $( "#vis-ul, #vis-ul-inactive" ).sortable({
+	      placeholder: "ui-state-highlight",
+	      connectWith: ".connectedSortable"
 	    });
 	    $( "#vis-ul" ).disableSelection();
 	}
