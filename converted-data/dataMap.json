@@ -2143,13 +2143,5337 @@
    }
   ]
  },
- "war-of-the-worlds": {
+ "journey-to-the-center-of-the-earth": {
   "id": "b1",
   "year": "",
   "author": "",
   "chapters": [
    {
     "id": "b1-c01",
+    "title": "01--MY UNCLE MAKES A GREAT DISCOVERY",
+    "sentimentScore": 0.9997,
+    "wordCount": 2026,
+    "entityMap": {
+     "DATE": {
+      "count": 5,
+      "values": [
+       "One day",
+       "some day",
+       "fifty years old",
+       "1842",
+       "the twelfth century"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "some hours",
+       "every morning",
+       "four o'clock",
+       "three minutes"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Von Hardwigg",
+       "Hardwigg",
+       "Harry",
+       "Humphry Davy",
+       "Captain Franklin",
+       "Gretchen",
+       "Moselle"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Harry--Harry--Harry--\""
+      ]
+     },
+     "CARDINAL": {
+      "count": 9,
+      "values": [
+       "three",
+       "ten",
+       "six hundred",
+       "one",
+       "half",
+       "half a dozen",
+       "two thousand",
+       "four thousand",
+       "two"
+      ]
+     },
+     "GPE": {
+      "count": 4,
+      "values": [
+       "Welsh",
+       "Konigstrasse",
+       "Hamburg",
+       "Iceland"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       "the earth</i>. Geology",
+       "Hardwigg",
+       "N (Nasal",
+       "Heims",
+       "Icelandic",
+       "Runic",
+       "Odin"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "a penny"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "about five inches"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c02",
+    "title": "02--THE MYSTERIOUS PARCHMENT",
+    "sentimentScore": 0.999,
+    "wordCount": 1239,
+    "entityMap": {
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Declare",
+       "Runic",
+       "Saodrrn      emtnaeI",
+       "Atvaar  ",
+       " "
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "     "
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Scarcely",
+       "Hardwigg",
+       "Arne Saknussemm",
+       "Saknussemm",
+       "Shakespeare",
+       "Virgil",
+       "Harry",
+       "Gretchen"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "the twelfth century",
+       "two hundred years",
+       "the sixteenth century",
+       "the day",
+       "May",
+       "that day"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Avicenna, Bacon, Lully, Paracelsus"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Galileo",
+       "Saturn"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "one",
+       "one hundred and thirty-two",
+       "seventy-nine",
+       "fifty-three",
+       "    lacartniiilrJsiratracSarbmutabiledmek     "
+      ]
+     },
+     "LANGUAGE": {
+      "count": 4,
+      "values": [
+       "Latin",
+       "Spanish",
+       "Hebrew",
+       "English"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c03",
+    "title": "03--AN ASTOUNDING DISCOVERY",
+    "sentimentScore": -0.984,
+    "wordCount": 2603,
+    "entityMap": {
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Gretchen",
+       "Hardwigg",
+       "Uncle",
+       "Saknussemm",
+       "Scartaris Julii",
+       "Kod",
+       "Arne",
+       "     Scartaris",
+       "Henry",
+       "Arne Saknussemm",
+       "Scarcely"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the end of an hour",
+       "three mortal hours",
+       "night",
+       "long sleepless night",
+       "twelve o'clock"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "ice</i",
+       "Sneffels Yoculis"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 3,
+      "values": [
+       "English",
+       "Hebrew",
+       "French"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "eighty-fifth",
+       "eighty-sixth",
+       "a week",
+       "July"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "Four",
+       "One",
+       "one",
+       "two",
+       "About three",
+       "4"
+      ]
+     },
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Iceland",
+       "      ",
+       "Yocul",
+       "Sneffels",
+       "     ",
+       "Scartaris",
+       "Leipzig"
+      ]
+     },
+     "LAW": {
+      "count": 1,
+      "values": [
+       " \"Backwards"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "three feet"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Augustus Peterman"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c04",
+    "title": "04--WE START ON THE JOURNEY",
+    "sentimentScore": 0.9845,
+    "wordCount": 1257,
+    "entityMap": {
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Yocul",
+       "Sneffels",
+       "Hardwigg",
+       "Saknussemm",
+       "Henry",
+       "Arne Saknussemm",
+       "Gretchen",
+       "Henry Lawson"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Iceland",
+       "it--",
+       "Scartaris"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Reykjavik",
+       "Sneffels",
+       "the Interior of the Earth"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "one",
+       "about three hundred",
+       "ten"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "sixty-fifth degree of latitude",
+       "about five thousand feet",
+       "every seventy feet"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "Mount Scartaris"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "1219",
+       "the end of the month of June",
+       "tomorrow",
+       "Next day"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the end of an hour",
+       "some minutes",
+       "afternoon",
+       "night",
+       "five o'clock in the morning"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c05",
+    "title": "05--FIRST LESSONS IN CLIMBING",
+    "sentimentScore": 0.9972,
+    "wordCount": 1268,
+    "entityMap": {
+     "ORG": {
+      "count": 8,
+      "values": [
+       "Altona",
+       "Copenhagen",
+       "the Museum of Antiquities",
+       "Reykjavik",
+       "Nye-Torw",
+       "Rosenberg",
+       "the Island of Amak",
+       "Elsinore"
+      ]
+     },
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Hamburg",
+       "Belt",
+       "Holstein",
+       "Iceland",
+       "Seeland",
+       "Museum",
+       "Sweden"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "the Chief Station of"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "twenty minutes",
+       "seven o'clock",
+       "three hours",
+       "about ten hours",
+       "half past ten",
+       "a dark night",
+       "seven in the morning",
+       "Tuesday morning",
+       "quite an hour",
+       "nearly two hours later"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "Kiel",
+       "One",
+       "one",
+       "150",
+       "two"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "the Great Belt",
+       "earth"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Korsor"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "June",
+       "the southeast quarter",
+       "one day",
+       "tomorrow",
+       "five days"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "M. Bjarne",
+       "Thorwaldsen",
+       "Vor-Frelser's-Kirk",
+       "Henry"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "Sund"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c06",
+    "title": "06--OUR VOYAGE TO ICELAND",
+    "sentimentScore": 0.9875,
+    "wordCount": 2188,
+    "entityMap": {
+     "TIME": {
+      "count": 12,
+      "values": [
+       "The night before",
+       "two in the morning",
+       "A few minutes afterwards",
+       "An hour later",
+       "evening",
+       "the night",
+       "that moment",
+       "some hours",
+       "Forty-eight hours later",
+       "three hours",
+       "a few minutes",
+       "a few hours"
+      ]
+     },
+     "PERSON": {
+      "count": 18,
+      "values": [
+       "Thompson",
+       "M. Pictursson",
+       "M. Finsen",
+       "Valkyrie</i>.",
+       "Captain Bjarne",
+       "Kattegat",
+       "Hardwigg",
+       "Skagerrak",
+       "Cape Lindesnes",
+       "the Faroe Isles",
+       "Cape Portland",
+       "Westman",
+       "Cape Reykjanes",
+       "Behold",
+       "M. Fridriksson",
+       "Harry",
+       "Saknussemm",
+       "Lilliput"
+      ]
+     },
+     "ORG": {
+      "count": 14,
+      "values": [
+       "Baron Trampe",
+       "Hamlet",
+       " ",
+       "Kronborg",
+       "Helsinborg",
+       "the Swedish Bank",
+       "Towards",
+       "Peterhead",
+       "Myganness",
+       "Copenhagen",
+       "Reykjavik",
+       "Icelandic",
+       "Horace",
+       "Eskimos"
+      ]
+     },
+     "GPE": {
+      "count": 15,
+      "values": [
+       "Iceland",
+       "Reykjavik",
+       "Denmark",
+       "Elsinore",
+       "Norway",
+       "Scotland",
+       "the Faroe Islands",
+       "Orkney",
+       "Shetland",
+       "Portland",
+       "Sneffels",
+       "the Land of Promise",
+       "Mount Sneffels",
+       "America",
+       "Hamburg"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "the second of the month",
+       "every year",
+       "about ten days",
+       "some day",
+       "Two days later",
+       "the eighth day",
+       "the eleventh day",
+       "centuries"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "two",
+       "more than fifteen thousand",
+       "five",
+       "one",
+       "three",
+       "between two"
+      ]
+     },
+     "LOC": {
+      "count": 7,
+      "values": [
+       "Sound",
+       "earth",
+       "the Strait of the Sound,",
+       "the Faroe Islands",
+       "the Northern Seas",
+       "Atlantic",
+       "Reykjavik"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "Danes",
+       "Doubtless"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Mount Myrdals Yokul"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 4,
+      "values": [
+       "Latin",
+       "Hebrew",
+       "English",
+       "French"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the Mansion House"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c07",
+    "title": "07--CONVERSATION AND DISCOVERY",
+    "sentimentScore": 0.9996,
+    "wordCount": 1285,
+    "entityMap": {
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "M. Fridriksson",
+       "Hardwigg",
+       "Arne Saknussemm",
+       "Sneffels"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "eight thousand",
+       "Eight thousand",
+       "two",
+       "one",
+       "One",
+       "a thousand"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Copenhagen",
+       "Literary Society",
+       "Mechanics' Institute",
+       "Feisel",
+       "Reykjavik",
+       "Sneffels"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Iceland",
+       "this Mount Seffel",
+       "Sneffels"
+      ]
+     },
+     "DATE": {
+      "count": 9,
+      "values": [
+       "years",
+       "1816",
+       "the sixteenth century",
+       "1573",
+       "these five hundred years",
+       "today",
+       "tomorrow",
+       "Tomorrow",
+       "next day"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Europe"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "Latin"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Dane"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c08",
+    "title": "08--THE EIDER-DOWN HUNTER--OFF AT LAST",
+    "sentimentScore": 0.9997,
+    "wordCount": 2376,
+    "entityMap": {
+     "TIME": {
+      "count": 9,
+      "values": [
+       "That evening",
+       "night",
+       "forty-eight hours",
+       "last evening",
+       "an hour",
+       "five o'clock in the morning",
+       "the only real half hour's",
+       "the night",
+       "six o'clock"
+      ]
+     },
+     "GPE": {
+      "count": 12,
+      "values": [
+       "Reykjavik",
+       "England",
+       "Iceland",
+       "Sneffels",
+       "Boissonnas",
+       "Geneva",
+       "Hamburg",
+       "Greenwich",
+       "Paris",
+       "Volta",
+       "Alpine",
+       "Goulard"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "Icelanders"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "the early days of summer",
+       "next year",
+       "about two days",
+       "eight or ten days",
+       "Saturday",
+       "1864",
+       "last six months",
+       "next day"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Icelandic",
+       " ",
+       "Eigel",
+       "Schiedam",
+       "Baron Trampe"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Hans Bjelke",
+       "M. Fridriksson",
+       "Hans",
+       "Efter",
+       "Thermometer",
+       "Chronometer",
+       "H. D. Ruhmkorff",
+       "Hyaltalin",
+       "Hardwigg",
+       "Virgil"
+      ]
+     },
+     "CARDINAL": {
+      "count": 18,
+      "values": [
+       "one",
+       "Four",
+       "two",
+       "three",
+       "fourteen",
+       "One",
+       "four",
+       "1",
+       "half",
+       "2",
+       "3",
+       "4",
+       "Two",
+       "5",
+       "6",
+       "7",
+       "six",
+       "a dozen"
+      ]
+     },
+     "QUANTITY": {
+      "count": 4,
+      "values": [
+       "about twenty-two miles",
+       "eight thousand yards",
+       "up to 150 degrees",
+       "three hundred feet"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "2,000"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c09",
+    "title": "09--OUR START--WE MEET WITH ADVENTURES BY THE WAY",
+    "sentimentScore": 0.749,
+    "wordCount": 2036,
+    "entityMap": {
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Saknussemm",
+       "Hans",
+       "Gardar",
+       "Hvalfjord",
+       "Saurboer Annexia"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "two",
+       "about seventy thousand",
+       "four",
+       "six",
+       "ten",
+       "half",
+       "one",
+       "twenty-two",
+       "twelve",
+       "twenty"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "Iceland",
+       "Sneffels",
+       "Reykjavik",
+       "England",
+       "Germany",
+       "Ejulberg"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Europe",
+       "Aoalkirkja"
+      ]
+     },
+     "QUANTITY": {
+      "count": 8,
+      "values": [
+       "thirty thousand square miles",
+       "only a few miles",
+       "about four miles",
+       "Only four miles",
+       "another mile",
+       "four Danish miles",
+       "about half a mile",
+       "three thousand feet"
+      ]
+     },
+     "DATE": {
+      "count": 2,
+      "values": [
+       "the southwest quarter",
+       "every year"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Sudvestr Fjordungr",
+       "Reykjavik",
+       "the Aoalkirkja of Brantar",
+       "the Colossus of Rhodes",
+       "Ja",
+       "Accustomed"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "morning",
+       "Some two hours",
+       "one half hour",
+       "the night",
+       "Three hours later",
+       "four o'clock",
+       "six o'clock",
+       "more than an hour",
+       "Half an hour later"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Kollafjord"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c10",
+    "title": "10--TRAVELING IN ICELAND",
+    "sentimentScore": 0.9984,
+    "wordCount": 1946,
+    "entityMap": {
+     "TIME": {
+      "count": 8,
+      "values": [
+       "night",
+       "five in the morning",
+       "evening",
+       "the night",
+       "all night",
+       "the evening",
+       "six o'clock",
+       "four hours"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Iceland",
+       "Annexia",
+       "Sneffels"
+      ]
+     },
+     "DATE": {
+      "count": 7,
+      "values": [
+       "the months of June and July",
+       "next day",
+       "Next day",
+       "the first day",
+       "Saturday",
+       "the 20th June",
+       "Sunday"
+      ]
+     },
+     "CARDINAL": {
+      "count": 9,
+      "values": [
+       "four",
+       "two",
+       "three",
+       "one",
+       "nineteen",
+       "three or four",
+       "twenty-four",
+       "only two",
+       "half"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Icelandic",
+       "Spetelsk",
+       "Alftanes"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Hans",
+       "Gardar",
+       "Native Land",
+       "Gretchen",
+       "The King of Cold",
+       "Budir"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "a hundred yards",
+       "about a mile",
+       "a whole mile",
+       "every hundred yards",
+       "less than five miles"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c11",
+    "title": "11--WE REACH MOUNT SNEFFELS--THE REYKIR",
+    "sentimentScore": 0.9975,
+    "wordCount": 2187,
+    "entityMap": {
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Stapi",
+       "Giant",
+       "Hebrides",
+       "Kyrkoherde",
+       "the Danish Government",
+       "Sneffels",
+       "the Interior of the Earth"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "thirty",
+       "about thirty feet",
+       "at least six feet"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Basalt",
+       "Hans",
+       "Harry",
+       "Hardwigg",
+       "Saknussemm",
+       "Saknussemms"
+      ]
+     },
+     "DATE": {
+      "count": 11,
+      "values": [
+       "the early ages",
+       "the day",
+       "Sunday",
+       "one quarter",
+       "about L3 10s",
+       "a few days",
+       "the very next day",
+       "1219",
+       "six hundred years",
+       "June 23d",
+       "eight days"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Babylon",
+       "Greece",
+       "Causeway",
+       "Ireland",
+       "Fingal",
+       "Hans",
+       "Hamburg",
+       "Sneffels"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "one",
+       "half",
+       "three",
+       "One",
+       "Two",
+       "two"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "The Rector",
+       " \"Enough, my boy."
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "more than sixty marks"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "Mother Earth"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "the following night",
+       "nine o'clock"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c12",
+    "title": "12--THE ASCENT OF MOUNT SNEFFELS",
+    "sentimentScore": 0.9987,
+    "wordCount": 2635,
+    "entityMap": {
+     "QUANTITY": {
+      "count": 4,
+      "values": [
+       "above five thousand feet",
+       "less than seventy feet",
+       "A quarter of an hour",
+       "The fifteen hundred feet"
+      ]
+     },
+     "CARDINAL": {
+      "count": 11,
+      "values": [
+       "One",
+       "two",
+       "only one",
+       "mamelons",
+       "six",
+       "three",
+       "one",
+       "About seven",
+       "two thousand",
+       "more than three thousand",
+       "at least three"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Hans",
+       "Hardwigg",
+       "Humphry Davy",
+       "Arne Saknussemm",
+       "Bacchante",
+       "Q.E.D.",
+       "Sneffels",
+       "Icelanders",
+       "Mistour",
+       "Ja",
+       "Hastigt"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Iceland",
+       "Salisbury",
+       "Sneffels",
+       "Alpine",
+       "Ofvanfor",
+       "Mount Sneffels",
+       "England",
+       "Norway"
+      ]
+     },
+     "LOC": {
+      "count": 7,
+      "values": [
+       "Pacific",
+       "Mother Earth",
+       "the Cape of Good Hope",
+       "Table Mountain",
+       "Table Bay",
+       " ",
+       "Sahara"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       " ",
+       "Icelandic"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "every moment",
+       "Three hours",
+       "a good hour",
+       "many long weary hours",
+       "an hour",
+       "the evening of that day",
+       "the night",
+       "at least five hours",
+       "about eleven at night",
+       "midnight"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "the very day"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c13",
+    "title": "13--THE SHADOW OF SCARTARIS",
+    "sentimentScore": 0.9993,
+    "wordCount": 2456,
+    "entityMap": {
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "five thousand feet",
+       "half a mile",
+       "about five hundred feet"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "that particular night",
+       "midday",
+       "Next morning",
+       "twelve o'clock",
+       "thirteen minutes"
+      ]
+     },
+     "DATE": {
+      "count": 13,
+      "values": [
+       "Next day",
+       "annual",
+       "the last days of the month of June",
+       "one given day",
+       "the 25th June",
+       "six more days",
+       "another year",
+       "The day",
+       "Sunday",
+       "the 28th",
+       "the last day",
+       "two of the month",
+       "the day"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "one",
+       "thirty-five",
+       "two",
+       "One",
+       "three",
+       "half",
+       "a thousand",
+       "only one"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Mount Sneffels'",
+       "earth",
+       "Earth"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Thence",
+       "the Peak of Scartaris",
+       "Hans"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "Greenland",
+       "Iceland",
+       "Sneffels",
+       "Scartaris",
+       "Mount Sneffels",
+       "Involuntarily"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Hans",
+       "Sneffels",
+       "Harry",
+       "Icelanders",
+       "Arne Saknussemm",
+       "Gretchen",
+       "Saknussemm",
+       "Icelander",
+       "Hardwigg",
+       "Diogenes"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c14",
+    "title": "14--THE REAL JOURNEY COMMENCES",
+    "sentimentScore": 0.9985,
+    "wordCount": 2032,
+    "entityMap": {
+     "TIME": {
+      "count": 9,
+      "values": [
+       "a few minutes",
+       "about half an hour",
+       "quarter of an hour",
+       "three hours",
+       "every minute",
+       "seven hours",
+       "all ten hours and a half",
+       "about eleven o'clock at night",
+       "some minutes"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "one",
+       "about three hundred",
+       "about half",
+       "two",
+       "three",
+       "One",
+       "twenty-eight"
+      ]
+     },
+     "QUANTITY": {
+      "count": 9,
+      "values": [
+       "about a hundred feet",
+       "at least four hundred feet",
+       "about two hundred feet",
+       "half",
+       "another two hundred feet",
+       "a quarter of an hour",
+       "two hundred feet",
+       "five thousand six hundred feet",
+       "more than an English mile"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Copenhagen",
+       "the Little Bear"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "the second half",
+       "tomorrow",
+       "day"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "Hans",
+       " \"Attention"
+      ]
+     },
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Harry",
+       "Hans",
+       "Gif",
+       "Humphry Davy",
+       "Halt"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c15",
+    "title": "15--WE CONTINUE OUR DESCENT",
+    "sentimentScore": 0.9938,
+    "wordCount": 1875,
+    "entityMap": {
+     "TIME": {
+      "count": 6,
+      "values": [
+       "eight o'clock",
+       "the next morning",
+       "Two hours",
+       "About eight o'clock in the evening",
+       "march of seven hours",
+       "five-and-twenty feet"
+      ]
+     },
+     "CARDINAL": {
+      "count": 11,
+      "values": [
+       "The thousand",
+       "one",
+       "8h",
+       "One",
+       "half",
+       "nine",
+       "Nine",
+       "one hundred and twenty-five feet",
+       "eleven hundred and twenty-five feet",
+       "eighty",
+       "only fifteen"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Harry",
+       "Uncle",
+       "Consult",
+       "Hans",
+       "Fahr",
+       "Halt",
+       "Wurttemberg"
+      ]
+     },
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Konigstrasse",
+       "Sneffels",
+       "       ",
+       "Barometer",
+       "Iceland",
+       "Kitzbuhel",
+       "Tirol"
+      ]
+     },
+     "QUANTITY": {
+      "count": 13,
+      "values": [
+       "one inch",
+       "twenty-nine degrees",
+       "17m.",
+       "29.6 inches",
+       "6 degrees",
+       "43 degrees",
+       "fifty-four degrees",
+       "fifteen degrees",
+       "every hundred feet",
+       "thirty-six feet",
+       "one degree",
+       "at least ten thousand feet",
+       "six thousand feet"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "earth",
+       "Earth",
+       "Siberia"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Huppe"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "day",
+       "Monday, June 29th",
+       "E.S.E.",
+       "an artificial day",
+       "1219",
+       "five days"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Schiedam",
+       "Humphry Davy",
+       "Doubtless",
+       "Reaumur"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c16",
+    "title": "16--THE EASTERN TUNNEL",
+    "sentimentScore": 0.9978,
+    "wordCount": 2005,
+    "entityMap": {
+     "DATE": {
+      "count": 5,
+      "values": [
+       "The next day",
+       "Tuesday",
+       "the 30th of June",
+       "the Middle Ages",
+       "the present day"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "six o'clock",
+       "seventeen minutes past twelve",
+       "the night",
+       "the hours",
+       "night",
+       "three hours",
+       "the last half hour",
+       "twelve o'clock"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "four",
+       "one"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "about a mile",
+       "six miles",
+       "more than a mile",
+       "about a hundred yards",
+       "no fewer than fifteen hundred"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "Romans",
+       "Sneffels",
+       "Iceland",
+       "England",
+       "Hamburg",
+       "Mount Sneffels"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "the New World",
+       "Silures",
+       " "
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Upwards"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Lubeck",
+       "Hanover",
+       "Hardwigg",
+       "Henry"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c17",
+    "title": "17--DEEPER AND DEEPER--THE COAL MINE",
+    "sentimentScore": 0.9958,
+    "wordCount": 1982,
+    "entityMap": {
+     "DATE": {
+      "count": 10,
+      "values": [
+       "more than three days",
+       "next day",
+       "Friday",
+       "Saturday",
+       "early days",
+       "those days",
+       "about three centuries",
+       "months",
+       "three days",
+       "Tomorrow"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "Plato"
+      ]
+     },
+     "CARDINAL": {
+      "count": 9,
+      "values": [
+       "one",
+       "tens of thousands",
+       "two",
+       "half",
+       "about a hundred and fifty",
+       "tens and tens of thousands",
+       "a hundred",
+       "hundreds",
+       "three"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Devonshire"
+      ]
+     },
+     "TIME": {
+      "count": 12,
+      "values": [
+       "the previous evening",
+       "evening",
+       "a night",
+       "about ten hours",
+       "The hour for our evening",
+       "the hours",
+       "morning",
+       "The next morning",
+       "six o'clock",
+       "Twenty minutes later",
+       "a single hour",
+       "one night's"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "the Central Earth",
+       "the North Pole"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "about a hundred feet",
+       "a few yards"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Hardwigg",
+       "Saknussemm"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c18",
+    "title": "18--THE WRONG ROAD!",
+    "sentimentScore": -0.9898,
+    "wordCount": 1823,
+    "entityMap": {
+     "DATE": {
+      "count": 8,
+      "values": [
+       "Next day",
+       "five days'",
+       "our first day's march",
+       "Tuesday",
+       "the seventh of the month of July",
+       "May",
+       "the light of day",
+       "three days"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "a very early hour",
+       "many hours",
+       "ten in the morning",
+       "a few hours"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Hans",
+       "Icelander",
+       "Harry",
+       "Hardwigg",
+       "Take Hans",
+       "Christopher",
+       "the Christopher Columbus"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "one",
+       "Twenty",
+       "a hundred",
+       "half"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Schiedam",
+       "Hans",
+       "Icelandic",
+       "the New World"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Sneffels",
+       "Columbus"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Mother Earth",
+       "earth"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "My good Henry"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c19",
+    "title": "19--THE WESTERN GALLERY--A NEW ROUTE",
+    "sentimentScore": -0.9974,
+    "wordCount": 1160,
+    "entityMap": {
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Hans",
+       "Across"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "more than a hundred yards"
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "the first hours",
+       "the morning",
+       "six o'clock",
+       "eight o'clock",
+       "upon hours",
+       "the night"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "thousand",
+       "three",
+       "four",
+       "one"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "Mother Earth"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "Ruhmkorff"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "the light of day"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Hours"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Hans--Hans"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c20",
+    "title": "20--WATER, WHERE IS IT A BITTER DISAPPOINTMENT",
+    "sentimentScore": -0.684,
+    "wordCount": 1917,
+    "entityMap": {
+     "TIME": {
+      "count": 5,
+      "values": [
+       "hour",
+       "the first half hour",
+       "a half hour",
+       "some hours",
+       "night"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "half",
+       "one",
+       "hundred",
+       "a dozen",
+       "One"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "earth",
+       "Ocean",
+       "Hans Brook"
+      ]
+     },
+     "PERSON": {
+      "count": 1,
+      "values": [
+       "Hans"
+      ]
+     },
+     "QUANTITY": {
+      "count": 7,
+      "values": [
+       "a thousand yards",
+       "two thousand feet",
+       "two feet",
+       "about three feet",
+       "about six inches",
+       "six miles",
+       "thirty-two thousand feet"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Boiling"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Spa",
+       "Because--"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c21",
+    "title": "21--UNDER THE OCEAN",
+    "sentimentScore": 0.9936,
+    "wordCount": 1385,
+    "entityMap": {
+     "DATE": {
+      "count": 11,
+      "values": [
+       "the next day",
+       "Thursday",
+       "Friday",
+       "the tenth of July",
+       "two days",
+       "the sixth and seventh of July",
+       "Wednesday the fifteenth",
+       "Three days later",
+       "the eighteenth day of July",
+       "Saturday",
+       "a day"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Hans",
+       "Hansbach",
+       "Cape Portland"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Mount Sneffels",
+       "Reykjavik",
+       "Sneffels",
+       "Iceland",
+       "Newcastle"
+      ]
+     },
+     "LOC": {
+      "count": 4,
+      "values": [
+       "earth",
+       "Ocean",
+       "the Atlantic Ocean",
+       "Mother Earth"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "eight o'clock",
+       "every quarter of an hour",
+       "twelve o'clock",
+       "every hour"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "about two inches",
+       "twenty-one miles"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "thirty",
+       "about two",
+       "half",
+       "two",
+       "five",
+       "seven",
+       "fifty"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c22",
+    "title": "22--SUNDAY BELOW GROUND",
+    "sentimentScore": 0.995,
+    "wordCount": 1757,
+    "entityMap": {
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Awoke",
+       "Sneffels",
+       "Iceland"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "Sunday",
+       "the day",
+       "one quarter",
+       "twenty days",
+       "sixteen",
+       "two thousand days",
+       "about five years and a half",
+       "the sixteenth century"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "morning",
+       "some hours"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "the moon",
+       "Atlantic",
+       "earth"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Uncle",
+       "Hardwigg",
+       "Saknussemm",
+       "Icelander"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "two hundred and fifty miles",
+       "fifty miles",
+       ">fifteen hundred degrees"
+      ]
+     },
+     "CARDINAL": {
+      "count": 17,
+      "values": [
+       "sixteen",
+       "Sixteen",
+       "Twenty-seven",
+       "six-tenths",
+       "fourteen hundred and seventy-four",
+       "four-tenths",
+       "about fifteen hundred",
+       "eighty-three",
+       "Fifteen hundred eighty-three",
+       "sixteen hundred",
+       "eighty-five",
+       "hundredth",
+       "about eight thousand",
+       "one",
+       "to--",
+       "seven hundred and ten",
+       "thousands"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       " ",
+       "Humphry Davy"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Faith"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c23",
+    "title": "23--ALONE",
+    "sentimentScore": 0.8925,
+    "wordCount": 1211,
+    "entityMap": {
+     "DATE": {
+      "count": 5,
+      "values": [
+       "several days",
+       "some days",
+       "the two weeks",
+       "the seventh of August",
+       "at least a quarter of an hour"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "half",
+       "two",
+       "between four",
+       "one",
+       "about two hundred",
+       "at least half",
+       "only one"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "nearly a hundred miles"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Iceland",
+       "Hansbach"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Hans",
+       "Conceive"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c24",
+    "title": "24--LOST!",
+    "sentimentScore": -0.9991,
+    "wordCount": 1616,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "three",
+       "thirty",
+       "one",
+       "only one"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Lost!</i",
+       "Atlas",
+       "Gretchen",
+       "M. Fridriksson"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Hamburg",
+       "Konigstrasse",
+       "Iceland",
+       "Mount Sneffels",
+       "Hansbach"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "three days'"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "one whole hour",
+       "Several hours"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c25",
+    "title": "25--THE WHISPERING GALLERY",
+    "sentimentScore": 0.99,
+    "wordCount": 2221,
+    "entityMap": {
+     "TIME": {
+      "count": 7,
+      "values": [
+       "A whole quarter of an hour",
+       "some minutes",
+       "Several seconds",
+       "Forty seconds",
+       "forty seconds",
+       "twenty seconds",
+       "every second"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "a hundred miles",
+       "a few feet",
+       "a thousand and twenty feet",
+       "twenty thousand four hundred feet",
+       "about five miles"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Whispering Gallery",
+       "the Ear of Dionysius"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Uncle Hardwigg",
+       "Harry",
+       "Uncle"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "One",
+       "one",
+       "two",
+       "half"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Hansbach",
+       "St. Paul's",
+       "Sicily"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Farewell for the present, good uncle, I am about to take my departure."
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c26",
+    "title": "26--A RAPID RECOVERY",
+    "sentimentScore": 0.9953,
+    "wordCount": 1546,
+    "entityMap": {
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Hans",
+       "Uncle",
+       "Harry"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "Good day",
+       "tomorrow",
+       "Today",
+       "Sunday",
+       "August",
+       "the tenth of the same",
+       "four days",
+       "the last twenty-four hours"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "eleven o'clock",
+       "a good night's",
+       "the morning of the next day"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Master Hans"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "a thousand",
+       "one",
+       "two"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Mother Earth"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c27",
+    "title": "27--THE CENTRAL SEA",
+    "sentimentScore": 0.9996,
+    "wordCount": 2648,
+    "entityMap": {
+     "LOC": {
+      "count": 4,
+      "values": [
+       "the Central Sea",
+       "earth",
+       "Lycoperdon",
+       "Mother Earth"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "a past age",
+       "forty-seven days",
+       "the first ages",
+       "those days"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "One",
+       "between two",
+       "two",
+       "one",
+       "two thousand",
+       "thousands",
+       "three",
+       "four"
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Rickering",
+       "Guachara",
+       "Imagination",
+       "Horace",
+       "Behold",
+       "Harry",
+       "Uncle",
+       "Dinotherium"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "QUANTITY": {
+      "count": 6,
+      "values": [
+       "two thousand yards",
+       "about five hundred yards",
+       "nine feet",
+       "nearly forty feet",
+       "many hundred yards",
+       "a hundred feet"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Colombia",
+       "Humboldt",
+       "Kentucky",
+       "      ",
+       "Hansbach",
+       "Bah",
+       "Providence",
+       "Megatherium"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "nearly an hour",
+       "every minute",
+       "more than a minute",
+       "hour"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "Doubtless",
+       "Bones"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c28",
+    "title": "28--LAUNCHING THE RAFT",
+    "sentimentScore": 0.9998,
+    "wordCount": 2082,
+    "entityMap": {
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the morning of the next day",
+       "forty-two minutes",
+       "many hours",
+       "A few minutes",
+       "next evening"
+      ]
+     },
+     "LOC": {
+      "count": 5,
+      "values": [
+       "Mediterranean",
+       "Atlantic",
+       " ",
+       "earth",
+       "the Central Sea"
+      ]
+     },
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Hans",
+       "Uncle",
+       "Harry",
+       "Humphry Davy",
+       "James Ross"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "CARDINAL": {
+      "count": 11,
+      "values": [
+       "at least ten",
+       "only one",
+       "three hundred and fifty",
+       "2",
+       "3",
+       "thirty-five",
+       "about forty or fifty",
+       "about a quarter",
+       "half",
+       "one",
+       "two"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Iceland",
+       "Grampian Hills"
+      ]
+     },
+     "QUANTITY": {
+      "count": 4,
+      "values": [
+       "five hundred yards",
+       "nineteen degrees",
+       "a hundred miles",
+       "about ten feet long and five feet"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 3,
+      "values": [
+       " \"Science",
+       "Doubtless",
+       " \""
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Universe",
+       "Hellespont"
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "Leander"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "tomorrow"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c29",
+    "title": "29--ON THE WATERS--A RAFT VOYAGE",
+    "sentimentScore": 0.9993,
+    "wordCount": 2906,
+    "entityMap": {
+     "DATE": {
+      "count": 8,
+      "values": [
+       "the thirteenth of August",
+       "the day",
+       "the first centuries",
+       "day",
+       "Friday",
+       "August 14th",
+       "early days",
+       "a single day"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "two",
+       "at least thirty",
+       "about thirty",
+       "one",
+       "hundreds upon hundreds",
+       "fourteen hundred thousand"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "six o'clock in the morning",
+       "the end of an hour",
+       "twenty-four hours",
+       "About twelve o'clock",
+       "Hour after hour",
+       "night",
+       "the evening",
+       "the most minute particulars",
+       "two hours"
+      ]
+     },
+     "PERSON": {
+      "count": 14,
+      "values": [
+       "Gretchen",
+       "Port Gretchen",
+       "Hans",
+       "Thermometer",
+       "Pterychtis",
+       "Cuvier",
+       "Liptotherium",
+       "Mesicotherium",
+       "Mastodon",
+       "Higher",
+       "Sun",
+       "Vegetation",
+       "Harry",
+       "Henry"
+      ]
+     },
+     "LOC": {
+      "count": 5,
+      "values": [
+       "the Central Sea",
+       "Coast",
+       "Dipterides",
+       "Siberia",
+       "earth"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "three to four thousand feet",
+       "32 degrees centigrade"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Devonian",
+       "Cephalaspides",
+       "Lophrodon",
+       "Anoplotherium",
+       "Pterodactyl",
+       "Next"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Pterychtis",
+       "Farther"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Megatherium",
+       "California",
+       "Canada"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c30",
+    "title": "30--TERRIFIC SAURIAN COMBAT",
+    "sentimentScore": -0.9922,
+    "wordCount": 3135,
+    "entityMap": {
+     "DATE": {
+      "count": 15,
+      "values": [
+       "Saturday, August 15th",
+       "week",
+       "Sunday",
+       "August 16th",
+       "day",
+       "All day",
+       "This day",
+       "Sundays",
+       "Monday",
+       "August 17th",
+       "the days of old",
+       "thousands of ages",
+       "Tuesday",
+       "August 18th",
+       "summer"
+      ]
+     },
+     "CARDINAL": {
+      "count": 13,
+      "values": [
+       "one",
+       "two",
+       "hundredth",
+       "more than one",
+       "two hundred",
+       "half",
+       "twenty",
+       "Two",
+       "fifty",
+       "less than a hundred",
+       "Twenty",
+       "nearer",
+       "nearer and nearer"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Napoleonic",
+       "the Icelander",
+       "Plesiosaurus"
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Uncle",
+       "Saknussemm",
+       "Shakespeare",
+       "Hans",
+       "Teeth",
+       "Jura",
+       "Nature",
+       "Scylla"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "about thirty leagues",
+       "six o'clock",
+       "many hours",
+       "the hour",
+       "two hours",
+       "One hour",
+       "three hours",
+       "Several minutes"
+      ]
+     },
+     "LOC": {
+      "count": 4,
+      "values": [
+       "earth",
+       "Mediterranean",
+       "Atlantic Ocean",
+       " "
+      ]
+     },
+     "MONEY": {
+      "count": 2,
+      "values": [
+       "three rix-dollars",
+       "nearer and nearer"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Museum",
+       "Hamburg",
+       "Evening"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "no less than thirty feet",
+       "about two hundred yards",
+       "about forty feet",
+       "less than a hundred feet",
+       "more than thirty feet"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c31",
+    "title": "31--THE SEA MONSTER",
+    "sentimentScore": 0.9848,
+    "wordCount": 1868,
+    "entityMap": {
+     "DATE": {
+      "count": 4,
+      "values": [
+       "Wednesday, August 19th",
+       "yesterday",
+       "Thursday",
+       "August 20th"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "N. N. E.",
+       "Cuvier",
+       "Hans",
+       "Icelanders",
+       "Hardwigg",
+       "Hades",
+       "Port Gretchen"
+      ]
+     },
+     "QUANTITY": {
+      "count": 4,
+      "values": [
+       "about ten miles",
+       "five hundred feet",
+       "two hundred and seventy",
+       "more than eight hundred miles"
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "a half per hour",
+       "About twelve o'clock",
+       "Three hours",
+       "about a minute",
+       "eight o'clock",
+       "some minutes"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Hans"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "About four",
+       "less than a dozen",
+       "more than two",
+       "less than a thousand",
+       "one",
+       "a hundred and sixty-three",
+       "six hundred and twenty"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Geyser"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Iceland",
+       "England"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c32",
+    "title": "32--THE BATTLE OF THE ELEMENTS",
+    "sentimentScore": -0.9995,
+    "wordCount": 2427,
+    "entityMap": {
+     "DATE": {
+      "count": 7,
+      "values": [
+       "Friday, August 21st",
+       " Sunday, August 23rd",
+       "Monday",
+       "August 24th",
+       "three days",
+       "Tuesday",
+       "August 25th"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "This morning",
+       "About ten o'clock in the morning",
+       "About twelve o'clock",
+       "three nights"
+      ]
+     },
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Henry",
+       "Island",
+       "Megatherium",
+       "      ",
+       "        ",
+       "England",
+       "France"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "one",
+       "a hundred",
+       "a thousand",
+       "two",
+       "two hundred",
+       "half"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "AEolus"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Hans",
+       "        ",
+       "Whither",
+       "indicates--<i",
+       "Horrible",
+       "if--"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       " Here",
+       "Channel"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "ten-inch"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Europe"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c33",
+    "title": "33--OUR ROUTE REVERSED",
+    "sentimentScore": 0.9995,
+    "wordCount": 2689,
+    "entityMap": {
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "My Journal",
+       "Harry's Island"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Hans",
+       "Icelander",
+       "Gretchen",
+       "Harry"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "hours",
+       "nights",
+       "this morning",
+       "the twenty-four hours",
+       "some minutes"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "the three weary days",
+       "Next day",
+       "the last few days",
+       "about four months'",
+       "Four months",
+       "the three days",
+       "four days",
+       "so many days"
+      ]
+     },
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Konigstrasse",
+       "Germany",
+       "Hamburg",
+       "Exhaustion",
+       "Island",
+       "Iceland",
+       "Turkey"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "forty",
+       "a dozen",
+       "One",
+       "one",
+       "over two hundred and seventy",
+       "about six hundred",
+       "about eighty",
+       "three hundred",
+       "at least six hundred",
+       "nine hundred"
+      ]
+     },
+     "LOC": {
+      "count": 6,
+      "values": [
+       "earth",
+       "Schiedam",
+       "the Central Sea",
+       "Mediterranean",
+       "Reykjavik",
+       "the Atlantic Ocean"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Johanneum",
+       " ",
+       "Hans"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "hundreds of miles"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Port Gretchen"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c34",
+    "title": "34--A VOYAGE OF DISCOVERY",
+    "sentimentScore": 0.9915,
+    "wordCount": 1819,
+    "entityMap": {
+     "TIME": {
+      "count": 4,
+      "values": [
+       "Every hour",
+       "about ten minutes",
+       "about half an hour's",
+       "some minutes"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "one inch",
+       "fifteen feet",
+       "some three square miles"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Standing",
+       "Glyptodons of the Pliocene",
+       "Fancy"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Hardwigg",
+       "Uncle",
+       "Icelander",
+       "Port Gretchen",
+       "Hans",
+       "Cuvier",
+       "Omar",
+       "Uncle Hardwigg",
+       "Harry",
+       "Milne-Edwards",
+       "De Quatrefages"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "five hundred",
+       "so many ages",
+       "One",
+       "two",
+       "one",
+       "forty",
+       "A thousand"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Central Sea",
+       "earth",
+       "the Central Sea"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "tomorrow"
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "evident marks"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Lofty",
+       "Alexandria"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c35",
+    "title": "35--DISCOVERY UPON DISCOVERY",
+    "sentimentScore": 0.9991,
+    "wordCount": 2265,
+    "entityMap": {
+     "LOC": {
+      "count": 4,
+      "values": [
+       "earth",
+       "the Hardwigg Ocean",
+       "Cimbri",
+       "Europe"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "the 28th of March, 1863",
+       "a hundred thousand years",
+       "the fourteenth century",
+       "the sixteenth century",
+       "1577",
+       "1613",
+       "the eighteenth century",
+       "early days"
+      ]
+     },
+     "ORG": {
+      "count": 10,
+      "values": [
+       "M. Boucher de Perthes",
+       "Moulin-Quignon",
+       "Abbeville",
+       "Somme",
+       "De Quatrefages",
+       "Institution",
+       "Spartiates",
+       "Polyphemus",
+       "Japhetic",
+       "Doubtless"
+      ]
+     },
+     "GPE": {
+      "count": 18,
+      "values": [
+       "France",
+       "England",
+       "Germany",
+       "the United Kingdom",
+       "Buck",
+       "M. Elie de Beaumont",
+       "Quaternary",
+       "Switzerland",
+       "Belgium",
+       "the Quaternary period",
+       "St. Thomases",
+       "Barnums",
+       "Palmyra",
+       "Lucerne",
+       "Teutobochus",
+       "Dauphine",
+       "Caucasian",
+       "India"
+      ]
+     },
+     "QUANTITY": {
+      "count": 6,
+      "values": [
+       "fourteen feet",
+       "about twenty yards",
+       "fifteen feet",
+       "about nineteen feet",
+       "only about six feet",
+       "ninety degrees"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "one",
+       "ten",
+       "Giganteo--",
+       "two",
+       "4"
+      ]
+     },
+     "PERSON": {
+      "count": 17,
+      "values": [
+       "Milne-Edwards",
+       "Falconer",
+       "Carpenter",
+       "Hardwigg",
+       "Cuvier",
+       "M. Elie de Beaumont",
+       "Pliocene",
+       "St. Michel",
+       "Ajax",
+       "Asterius",
+       "Pausanias",
+       "Trapani",
+       "Felix Plater",
+       "Gaul",
+       "Peter Campet",
+       "Gigans--",
+       "Blumenbach"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "Elephas"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       " \"Gentlemen"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       " Impossible!"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c36",
+    "title": "36--WHAT IS IT",
+    "sentimentScore": 0.9527,
+    "wordCount": 1377,
+    "entityMap": {
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Central Ocean",
+       "North America"
+      ]
+     },
+     "TIME": {
+      "count": 1,
+      "values": [
+       "midday"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "summer",
+       "1801",
+       "the earlier ages",
+       "months",
+       "years"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "one",
+       "5"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "Hoffmann",
+       "Neptune"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "about a mile",
+       "a quarter",
+       "a mile",
+       "above twelve feet",
+       "A quarter of an hour"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Port Gretchen"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Myrtaceae",
+       "Uncle",
+       "Henry",
+       "M. Lartet"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "New Zealand",
+       "Ohio"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c37",
+    "title": "37--THE MYSTERIOUS DAGGER",
+    "sentimentScore": 0.9911,
+    "wordCount": 1275,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "one",
+       "hundreds",
+       "more than a hundred",
+       "two hundred",
+       "two"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "the Central Sea",
+       "Central Sea",
+       "earth"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Port Gretchen"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Harry",
+       "Hans",
+       "Ere",
+       "Uncle",
+       "Prodigiously",
+       "Arne Saknussemm"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "the sixteenth century",
+       "year",
+       "century",
+       "three hundred years"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       " ",
+       "Illustration: Runic Glyph"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "two yards",
+       "a square tablet"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c38",
+    "title": "38--NO OUTLET--BLASTING THE ROCK",
+    "sentimentScore": 0.9993,
+    "wordCount": 2255,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "two",
+       "three",
+       "twenty",
+       "about a dozen",
+       "ten thousand",
+       "One",
+       "four"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "three hundred years before",
+       "three hundred years ago",
+       "ages past",
+       "tomorrow"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Saknussemm",
+       "Cape Saknussemm",
+       "Hans",
+       "Harry",
+       "Icelander",
+       "Arne Saknussemm",
+       "Gretchen"
+      ]
+     },
+     "LOC": {
+      "count": 4,
+      "values": [
+       "earth",
+       "Europe",
+       "Siberia",
+       "Africa"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Doubtless"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Doubtless",
+       "me--",
+       " ",
+       "The Icelander"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Sweden",
+       "Russia",
+       "Bah",
+       "Hamburg",
+       "Koenigstrasse"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "only five thousand miles",
+       "about five feet",
+       "fifty pounds"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "hours",
+       "about six o'clock in the evening",
+       "midnight",
+       "six weary hours"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c39",
+    "title": "39--THE EXPLOSION AND ITS RESULTS",
+    "sentimentScore": -0.9958,
+    "wordCount": 2209,
+    "entityMap": {
+     "DATE": {
+      "count": 5,
+      "values": [
+       "The next day",
+       "the twenty-seventh of August",
+       "one day",
+       "months",
+       "years"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "six o'clock",
+       "about ten minutes",
+       "Only five minutes",
+       "less than a second",
+       "One hour",
+       "two hours",
+       "the long monotonous hours",
+       "a few seconds"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "Mother Earth"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Hans",
+       "Saknussemm",
+       "Hope"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "twenty",
+       "only four",
+       "only three",
+       "Only two",
+       "one",
+       "Only one",
+       "One",
+       "a thousand",
+       "two",
+       "three"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "a hundred to the minute",
+       "less than a hundred miles an hour",
+       "half-moldy"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "America"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       "Seated"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c40",
+    "title": "40--THE APE GIGANS",
+    "sentimentScore": -0.992,
+    "wordCount": 2230,
+    "entityMap": {
+     "TIME": {
+      "count": 4,
+      "values": [
+       "ten at night",
+       "next minute",
+       "this moment",
+       "a minute"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "half",
+       "One",
+       "two",
+       "twofold",
+       "one",
+       "fifty",
+       "about four",
+       "a hundred and twenty",
+       "more than three and a half",
+       "three"
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "at least seven feet",
+       "about ten feet",
+       "about a hundred yards",
+       "Fourteen feet",
+       "some seven or eight feet"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Crouching",
+       "Harry",
+       "Saknussemm"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the Ape Gigans"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Africa",
+       "earth"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Henry"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c41",
+    "title": "41--HUNGER",
+    "sentimentScore": -0.9758,
+    "wordCount": 2371,
+    "entityMap": {
+     "DATE": {
+      "count": 10,
+      "values": [
+       "three months",
+       "the day",
+       "a day",
+       "Wednesday",
+       "years",
+       "the days",
+       "two days",
+       "weeks",
+       "Saturday",
+       "so much per week"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Professor's"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "one",
+       "two",
+       "one hundred twenty-two degrees Fahrenheit",
+       "three",
+       "reality only half",
+       "about half"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "eleven in the morning",
+       "about two hours",
+       "quarter of an hour",
+       "ten minutes",
+       "nights",
+       "a few hours",
+       "night",
+       "some minutes",
+       "five o'clock"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "an inch",
+       "one pound"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Henry",
+       "Lidenbrock",
+       "Uncle",
+       "Hans"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "Schiedam"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Hamburg"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c42",
+    "title": "42--THE VOLCANIC SHAFT",
+    "sentimentScore": -0.9993,
+    "wordCount": 3159,
+    "entityMap": {
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Konigstrasse",
+       "Sneffels",
+       "Iceland",
+       "Mount Hecla",
+       "America"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Gretchen",
+       "Martha",
+       "Terrible",
+       "Uncle",
+       "Harry",
+       "Saknussemm",
+       "Jan Mayen"
+      ]
+     },
+     "TIME": {
+      "count": 12,
+      "values": [
+       "hour",
+       "some few minutes later",
+       "my last hour",
+       "morning",
+       "eight o'clock",
+       "the morning",
+       "five minutes",
+       "many minutes",
+       "two minutes",
+       "the hour",
+       "ten minutes",
+       "many hours"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "one",
+       "hundreds",
+       "thousand",
+       "seven",
+       "five hundred",
+       "several hundreds",
+       "one hundred and eighty-nine",
+       "ten"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "Mother Earth",
+       "the North Pole",
+       "earth"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Esk",
+       "Spitsbergen",
+       "Towards"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "the light of day"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "one hundred ninety degrees",
+       "thirty degrees below zero"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c43",
+    "title": "43--DAYLIGHT AT LAST",
+    "sentimentScore": 0.9988,
+    "wordCount": 2036,
+    "entityMap": {
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "two yards"
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Hans",
+       "Nej",
+       "Jan Mayen",
+       "Decidedly",
+       "Dove",
+       "Stromboli",
+       "Strongylos",
+       "Calabria"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Iceland",
+       "India",
+       "Germany",
+       "siamo</i",
+       "Sneffels",
+       "Sicily",
+       "Stromboli",
+       "San Vicenza"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "half",
+       "one",
+       "one quarter of an hour",
+       "three hundred",
+       "one half",
+       "two",
+       "Half",
+       "more than twelve hundred"
+      ]
+     },
+     "DATE": {
+      "count": 1,
+      "values": [
+       "two months"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Towards",
+       "AEolus",
+       "the Johanneum Institution"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "several hours",
+       "two long hours"
+      ]
+     },
+     "LOC": {
+      "count": 6,
+      "values": [
+       "Asia",
+       "Oceania",
+       "Europe",
+       "North",
+       "Mediterranean",
+       "earth"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "The Pole"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 2,
+      "values": [
+       "English",
+       "French"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b1-c44",
+    "title": "44--THE JOURNEY ENDED",
+    "sentimentScore": 0.9992,
+    "wordCount": 1089,
+    "entityMap": {
+     "TIME": {
+      "count": 2,
+      "values": [
+       "forty-eight hours",
+       "that hour"
+      ]
+     },
+     "DATE": {
+      "count": 7,
+      "values": [
+       "the 30th of September",
+       "a few days",
+       "Friday",
+       "October",
+       "three days later",
+       "same day",
+       "six months"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Messina",
+       "France",
+       "Hamburg",
+       "the United States",
+       "Konigstrasse"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Volturne",
+       "Martha",
+       "Gretchen",
+       "Harry",
+       "Hardwigg",
+       "Saknussemm",
+       "Barnum",
+       "Tussaud",
+       " ",
+       "Cape Saknussemm",
+       "Virland"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "one",
+       "One"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Imperial",
+       "Marseilles",
+       "the Johanneum Institution",
+       "Icelandic",
+       "Reykjavik"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "earth",
+       "the Central Sea"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ "the-time-machine": {
+  "id": "b2",
+  "year": "",
+  "author": "",
+  "chapters": [
+   {
+    "id": "b2-c01",
+    "title": "01--Introduction",
+    "sentimentScore": 0.9979,
+    "wordCount": 1731,
+    "entityMap": {
+     "ORG": {
+      "count": 8,
+      "values": [
+       "The Time Traveller",
+       "_",
+       "Length",
+       "Time",
+       "the New York Mathematical Society",
+       "Four Dimensions",
+       "Four-Dimensioned",
+       "the Time Traveller"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "one",
+       "two",
+       "four",
+       "three",
+       "Four",
+       "only two",
+       "twenty-three",
+       "Three"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Filby",
+       "Simon Newcomb",
+       "Young Man",
+       "Burslem"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Psychologist",
+       "earth"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 5,
+      "values": [
+       "\u201d the Time Traveller proceeded",
+       "the Time Traveller",
+       "the Very Young Man",
+       "\u201d the Psychologist suggested",
+       "Homer and Plato"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Breadth",
+       "Thickness",
+       "Space",
+       "it_.",
+       "Provincial"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "the Time Traveller",
+       "The Time Traveller"
+      ]
+     },
+     "FAC": {
+      "count": 3,
+      "values": [
+       "the Fourth Dimension",
+       "this Fourth Dimension",
+       "the Time-Dimension"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "three",
+       "fifty miles",
+       "six feet"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "a month or so ago",
+       "eight years old",
+       "Yesterday",
+       "yesterday",
+       "_"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "fifteen",
+       "night",
+       "this morning"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "the Battle of Hastings"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c02",
+    "title": "02--The Machine",
+    "sentimentScore": 0.9966,
+    "wordCount": 1359,
+    "entityMap": {
+     "ORG": {
+      "count": 6,
+      "values": [
+       "the Time Traveller",
+       "Time",
+       "Time Machine",
+       "the Time Machine",
+       "Quartz",
+       "the Medical Man"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "one",
+       "two",
+       "dozen",
+       "One",
+       "fifty",
+       "a hundred",
+       "only one-fiftieth",
+       "one-hundredth"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Provincial",
+       "Serious"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Young Man",
+       "the Time Traveller",
+       "Filby"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Psychologist"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "The Time Traveller",
+       "the Time Traveller"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "two years",
+       "last Thursday",
+       "Thursday",
+       "tomorrow",
+       "last Christmas"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "minute",
+       "a minute",
+       "tonight",
+       "the morning"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "the Medical Man"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "the Time Traveller"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c03",
+    "title": "03--The Time Traveller Returns",
+    "sentimentScore": -0.9219,
+    "wordCount": 2005,
+    "entityMap": {
+     "ORG": {
+      "count": 13,
+      "values": [
+       "the Time Machine",
+       "the Time Traveller",
+       "_",
+       "the Medical Man",
+       "T\u00fcbingen",
+       "the Time Traveller\u2019s",
+       "and\u2014\u201cIt",
+       "Blank",
+       "Editor",
+       "The Time Traveller",
+       "Journalist",
+       "Nebuchadnezzar",
+       "Hettie Potter"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "one",
+       "four",
+       "five",
+       "seven",
+       "half",
+       "One",
+       "three"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 3,
+      "values": [
+       "the Time Traveller\u2019s",
+       "\u201cRemarkable Behaviour of an Eminent Scientist,\u201d I heard the Editor say, thinking (after his wont) in headlines.",
+       "\u201d the Journalist"
+      ]
+     },
+     "DATE": {
+      "count": 11,
+      "values": [
+       "_",
+       "Thursday",
+       "Friday",
+       "half-past seven",
+       "daily",
+       "that day week",
+       "the Day",
+       "Tomorrow",
+       "the middle of next week",
+       "eight days",
+       "such days"
+      ]
+     },
+     "PERSON": {
+      "count": 5,
+      "values": [
+       "Filby",
+       "Amateur Cadger",
+       "Silent Man",
+       "The Time Traveller",
+       "Dash"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Linn\u00e6an",
+       "Psychologist"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Richmond"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "a minute",
+       "tonight",
+       "four o\u2019clock"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Rosebery",
+       "the Time Traveller"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the Time Traveller\u2019s"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c04",
+    "title": "04--Time Travelling",
+    "sentimentScore": 0.9848,
+    "wordCount": 2099,
+    "entityMap": {
+     "DATE": {
+      "count": 6,
+      "values": [
+       "last Thursday",
+       "Friday",
+       "today",
+       "tomorrow",
+       "Tomorrow",
+       "the summer"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "the Time Machine",
+       "Time Machines"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "one",
+       "three",
+       "One",
+       "nearer"
+      ]
+     },
+     "QUANTITY": {
+      "count": 2,
+      "values": [
+       "one inch",
+       "four feet"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "this morning",
+       "ten o\u2019clock",
+       "nearly half-past",
+       "minute",
+       "night",
+       "every minute",
+       "half a minute",
+       "half an hour"
+      ]
+     },
+     "PERSON": {
+      "count": 1,
+      "values": [
+       "Watchett"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "the moon spinning",
+       "the moon",
+       "earth"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the White Sphinx"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c05",
+    "title": "05--In the Golden Age",
+    "sentimentScore": 0.9986,
+    "wordCount": 1665,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "two",
+       "ten",
+       "One",
+       "dozen",
+       "Eight Hundred",
+       "one",
+       "a couple of hundred",
+       "three"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "eight"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "the Time Machine",
+       "Time",
+       "The Time Machine"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Dresden"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "the year",
+       "Two Thousand odd",
+       "five-year-old",
+       "nineteenth-century"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Fruit"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c06",
+    "title": "06--The Sunset of Mankind",
+    "sentimentScore": 0.9995,
+    "wordCount": 2201,
+    "entityMap": {
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Thames",
+       "State",
+       "Nature",
+       " ",
+       "Time",
+       "Quiet",
+       "Humanity"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "a mile and a half"
+      ]
+     },
+     "DATE": {
+      "count": 5,
+      "values": [
+       "the year Eight Hundred and Two Thousand Seven Hundred and One, A.D.",
+       "that long day",
+       "today",
+       "Some day",
+       "years"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Communism,\u2019"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "half-dozen",
+       "one",
+       "half",
+       "only a half",
+       "One"
+      ]
+     },
+     "PERSON": {
+      "count": 1,
+      "values": [
+       "griffins\u2019"
+      ]
+     },
+     "TIME": {
+      "count": 1,
+      "values": [
+       "that evening"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Nature"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c07",
+    "title": "07--A Sudden Shock",
+    "sentimentScore": -0.9989,
+    "wordCount": 2335,
+    "entityMap": {
+     "ORG": {
+      "count": 5,
+      "values": [
+       "the White Sphinx",
+       "The Time Machine",
+       "my Time Machine",
+       "the Time Machine",
+       "Occidental"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "No,\u2019",
+       "Patience,\u2019"
+      ]
+     },
+     "QUANTITY": {
+      "count": 4,
+      "values": [
+       "two miles",
+       "their little feet",
+       "two",
+       "a few miles"
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "ten minutes",
+       "late that night",
+       "the long night",
+       "overnight",
+       "morning",
+       "twenty-four hours"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "one",
+       "One",
+       "two",
+       "three"
+      ]
+     },
+     "DATE": {
+      "count": 2,
+      "values": [
+       "full day",
+       "years"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c08",
+    "title": "08--Explanation",
+    "sentimentScore": 0.9982,
+    "wordCount": 4206,
+    "entityMap": {
+     "ORG": {
+      "count": 16,
+      "values": [
+       "Thames",
+       "the Parcels Delivery Company",
+       "the Time Machine",
+       "the White Sphinx",
+       "Weena",
+       "the New Race",
+       "Capitalist",
+       "Labourer",
+       "the Metropolitan Railway",
+       "Overworld",
+       "Humanity",
+       "Overworlders",
+       "Undergrounders",
+       "Morlocks",
+       "my Time Machine",
+       "Eloi"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "One",
+       "one",
+       "half",
+       "Eight Hundred",
+       "Three",
+       "four",
+       "two",
+       "three"
+      ]
+     },
+     "DATE": {
+      "count": 10,
+      "values": [
+       "a hot day",
+       "the third day",
+       "Two Thousand Seven Hundred",
+       "That day",
+       "a week",
+       "the day",
+       "Hundred Thousand Years",
+       "all the ages",
+       "East-end",
+       "today"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "Utopias",
+       " ",
+       "Grant Allen\u2019s",
+       "Darwin",
+       "Lemur",
+       "Underworld"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "London",
+       "Central Africa",
+       "Weena",
+       "Kentucky",
+       "incredible!\u2014and"
+      ]
+     },
+     "FAC": {
+      "count": 3,
+      "values": [
+       "the Golden Age",
+       "the White Sphinx",
+       "this Golden Age"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "TIME": {
+      "count": 8,
+      "values": [
+       "the morning",
+       "the afternoon",
+       "five of the nights",
+       "the last night",
+       "the night",
+       "about dawn",
+       "hour",
+       "early-morning"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "half-light"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "the Upper World",
+       "earth"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Nature"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c09",
+    "title": "09--The Morlocks",
+    "sentimentScore": -0.9978,
+    "wordCount": 2166,
+    "entityMap": {
+     "DATE": {
+      "count": 8,
+      "values": [
+       "two days",
+       "a few days",
+       "last quarter",
+       "nineteenth-century",
+       "the day",
+       "the following day",
+       "another day",
+       "a fall"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "half",
+       "One",
+       "three",
+       "as much as one",
+       "four",
+       "almost half"
+      ]
+     },
+     "ORG": {
+      "count": 12,
+      "values": [
+       "Eloi",
+       "Morlocks",
+       "Lemurs",
+       "the Time Machine",
+       "Combe Wood",
+       "Weena",
+       "Overworld",
+       "Future",
+       "frightfully!\u2014even",
+       "Kodak",
+       "Underworld",
+       "Nature"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "The next night",
+       "next morning",
+       "the early morning"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Banstead",
+       "Weena,\u2019",
+       "Underworld"
+      ]
+     },
+     "GPE": {
+      "count": 1,
+      "values": [
+       "Weena"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the Palace of Green Porcelain"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "perhaps two hundred yards",
+       "twenty or thirty feet",
+       "The last few yards"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c10",
+    "title": "10--When Night Came",
+    "sentimentScore": -0.9701,
+    "wordCount": 2533,
+    "entityMap": {
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Hitherto",
+       "Wimbledon",
+       "Weena"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "night",
+       "each night",
+       "the afternoon",
+       "the evening",
+       "afternoon",
+       "that night",
+       "early in the night",
+       "the darker hours",
+       "the night",
+       "that long night"
+      ]
+     },
+     "ORG": {
+      "count": 13,
+      "values": [
+       "the Time Machine",
+       "Morlocks",
+       "Upperworld",
+       "Eloi",
+       "Carlovignan",
+       "Thames",
+       "Palace",
+       "Weena",
+       "The Time Traveller",
+       "my Time Machine",
+       "Carlyle",
+       "Fear",
+       "the White Sphinx"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Dark Nights",
+       "the Palace of Green Porcelain"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Dark Nights"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "two",
+       "thousands",
+       "one",
+       "eighteen",
+       "hundred",
+       "Only forty",
+       "men\u2014\u2014"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Nemesis",
+       "Underworld",
+       "Fear",
+       "Southward",
+       "Sirius",
+       "Morlocks\u2019",
+       "Necessity"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "seven or eight miles"
+      ]
+     },
+     "DATE": {
+      "count": 2,
+      "values": [
+       "all the years",
+       "three or four thousand years ago"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "the Great Fear"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "the Long-Ago"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c11",
+    "title": "11--The Palace of Green Porcelain",
+    "sentimentScore": 0.9984,
+    "wordCount": 2478,
+    "entityMap": {
+     "TIME": {
+      "count": 6,
+      "values": [
+       "about noon",
+       "the afternoon",
+       "that long afternoon",
+       "ten, fifteen minutes",
+       "the night",
+       "the morning"
+      ]
+     },
+     "ORG": {
+      "count": 11,
+      "values": [
+       "Wandsworth",
+       "Palace",
+       "Weena",
+       "Morlocks",
+       "the Time Machine",
+       "a Gallery of Pal\u00e6ontology",
+       "Time Machine",
+       "Philosophical Transactions",
+       "_",
+       "the Morlocks",
+       "Towards"
+      ]
+     },
+     "PERSON": {
+      "count": 4,
+      "values": [
+       "Battersea",
+       "Brontosaurus",
+       "South Kensington",
+       "ED"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Megatherium",
+       "London",
+       "Weena",
+       "Morlock",
+       "Dance,\u2019"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "one",
+       "ninety-nine",
+       "seventeen",
+       "One",
+       "two",
+       "five",
+       "three"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "The Land of the Leal"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "years",
+       "many thousands of centuries",
+       "millions of years ago"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "South America"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Sphinx"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c12",
+    "title": "12--In the Darkness",
+    "sentimentScore": -0.9996,
+    "wordCount": 2654,
+    "entityMap": {
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Palace",
+       "the White Sphinx",
+       "Weena",
+       "Morlocks",
+       "the Time Machine"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "early the next morning",
+       "night",
+       "full night",
+       "a night and",
+       "another minute",
+       "an hour",
+       "A minute",
+       "morning",
+       "the bright morning"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "two days",
+       "a week",
+       "as bright as day",
+       "the day"
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "three",
+       "two",
+       "One",
+       "one",
+       "nearer",
+       "Two"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "less than a mile"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "earth"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Weena",
+       "Morlock"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Palace of Green Porcelain",
+       "the White Sphinx"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Morlocks\u2019",
+       "Thrice"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c13",
+    "title": "13--The Trap of the White Sphinx",
+    "sentimentScore": 0.9925,
+    "wordCount": 1079,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "About eight or nine",
+       "one",
+       "One",
+       "nearer"
+      ]
+     },
+     "TIME": {
+      "count": 1,
+      "values": [
+       "morning"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Weena",
+       "Underworld",
+       "Overworld",
+       "Upperworld",
+       "Upper",
+       "Morlocks",
+       "the Time Machine"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "their day",
+       "the day",
+       "a few thousand years",
+       "Eight Hundred",
+       "Two Thousand Seven Hundred",
+       "the past days"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Underworld",
+       "Mother Necessity"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the White Sphinx"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Morlock"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c14",
+    "title": "14--The Further Vision",
+    "sentimentScore": -0.9974,
+    "wordCount": 1911,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "One",
+       "another thousands of millions",
+       "thousands",
+       "one",
+       "Dozens",
+       "tenth"
+      ]
+     },
+     "DATE": {
+      "count": 8,
+      "values": [
+       "another thousands of days",
+       "another millions of days",
+       "centuries",
+       "a month",
+       "a hundred years",
+       "a thousand years",
+       "thirty million years",
+       "the day"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "the moon faces the earth",
+       "earth"
+      ]
+     },
+     "ORG": {
+      "count": 2,
+      "values": [
+       "the Time Machine",
+       "Mercury"
+      ]
+     },
+     "PERSON": {
+      "count": 1,
+      "values": [
+       "Dead Sea"
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "more than"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c15",
+    "title": "15--The Time Traveller\u2019s Return",
+    "sentimentScore": -0.8832,
+    "wordCount": 484,
+    "entityMap": {
+     "DATE": {
+      "count": 2,
+      "values": [
+       "the days and nights",
+       "today"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "zero",
+       "thousands"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "the night",
+       "that minute",
+       "several minutes",
+       "the hour",
+       "almost eight o\u2019clock"
+      ]
+     },
+     "PERSON": {
+      "count": 2,
+      "values": [
+       "Watchett",
+       "Hillyer"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "the White Sphinx",
+       "Morlocks",
+       "Pall Mall Gazette"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b2-c16",
+    "title": "16--After the Story",
+    "sentimentScore": 0.9965,
+    "wordCount": 1415,
+    "entityMap": {
+     "TIME": {
+      "count": 4,
+      "values": [
+       "tonight",
+       "the night",
+       "a minute",
+       "half an hour"
+      ]
+     },
+     "EVENT": {
+      "count": 2,
+      "values": [
+       "the Medical Man",
+       "the Time Traveller\u2019s"
+      ]
+     },
+     "ORG": {
+      "count": 11,
+      "values": [
+       "Journalist",
+       "Editor",
+       "the Time Traveller\u2019s",
+       " ",
+       "Weena",
+       "Time",
+       "Time Machine",
+       "The Time Traveller",
+       "the Time Machine",
+       "the Time Traveller",
+       "The Time Machine"
+      ]
+     },
+     "CARDINAL": {
+      "count": 3,
+      "values": [
+       "one",
+       "half",
+       "two"
+      ]
+     },
+     "LOC": {
+      "count": 1,
+      "values": [
+       "Psychologist"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "The Time Traveller",
+       "the Time Traveller"
+      ]
+     },
+     "DATE": {
+      "count": 4,
+      "values": [
+       "every day",
+       "next day",
+       "daily",
+       "three years ago"
+      ]
+     },
+     "PERSON": {
+      "count": 1,
+      "values": [
+       "Richardson"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ "war-of-the-worlds": {
+  "id": "b3",
+  "year": "",
+  "author": "",
+  "chapters": [
+   {
+    "id": "b3-c01",
     "title": "01--THE EVE OF THE WAR",
     "sentimentScore": 0.9695,
     "wordCount": 2231,
@@ -2264,7 +7588,7 @@
     }
    },
    {
-    "id": "b1-c02",
+    "id": "b3-c02",
     "title": "02--THE FALLING STAR",
     "sentimentScore": -0.9916,
     "wordCount": 1351,
@@ -2367,7 +7691,7 @@
     }
    },
    {
-    "id": "b1-c03",
+    "id": "b3-c03",
     "title": "03--ON HORSELL COMMON",
     "sentimentScore": 0.5016,
     "wordCount": 1021,
@@ -2454,7 +7778,7 @@
     }
    },
    {
-    "id": "b1-c04",
+    "id": "b3-c04",
     "title": "04--THE CYLINDER OPENS",
     "sentimentScore": -0.9927,
     "wordCount": 1128,
@@ -2496,7 +7820,7 @@
     }
    },
    {
-    "id": "b1-c05",
+    "id": "b3-c05",
     "title": "05--THE HEAT-RAY",
     "sentimentScore": -0.9576,
     "wordCount": 1496,
@@ -2557,7 +7881,7 @@
     }
    },
    {
-    "id": "b1-c06",
+    "id": "b3-c06",
     "title": "06--THE HEAT-RAY IN THE CHOBHAM ROAD",
     "sentimentScore": -0.9784,
     "wordCount": 840,
@@ -2620,7 +7944,7 @@
     }
    },
    {
-    "id": "b1-c07",
+    "id": "b3-c07",
     "title": "07--HOW I REACHED HOME",
     "sentimentScore": -0.9985,
     "wordCount": 1347,
@@ -2688,7 +8012,7 @@
     }
    },
    {
-    "id": "b1-c08",
+    "id": "b3-c08",
     "title": "08--FRIDAY NIGHT",
     "sentimentScore": 0.5321,
     "wordCount": 977,
@@ -2790,7 +8114,7 @@
     }
    },
    {
-    "id": "b1-c09",
+    "id": "b3-c09",
     "title": "09--THE FIGHTING BEGINS",
     "sentimentScore": -0.947,
     "wordCount": 2156,
@@ -2900,7 +8224,7 @@
     }
    },
    {
-    "id": "b1-c10",
+    "id": "b3-c10",
     "title": "10--IN THE STORM",
     "sentimentScore": -0.9912,
     "wordCount": 2277,
@@ -2988,7 +8312,7 @@
     }
    },
    {
-    "id": "b1-c11",
+    "id": "b3-c11",
     "title": "11--AT THE WINDOW",
     "sentimentScore": -0.9987,
     "wordCount": 2052,
@@ -3062,7 +8386,7 @@
     }
    },
    {
-    "id": "b1-c12",
+    "id": "b3-c12",
     "title": "12--WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERTON",
     "sentimentScore": -0.999,
     "wordCount": 3887,
@@ -3195,7 +8519,7 @@
     }
    },
    {
-    "id": "b1-c13",
+    "id": "b3-c13",
     "title": "13--HOW I FELL IN WITH THE CURATE",
     "sentimentScore": -0.9983,
     "wordCount": 1804,
@@ -3283,7 +8607,7 @@
     }
    },
    {
-    "id": "b1-c14",
+    "id": "b3-c14",
     "title": "14--IN LONDON",
     "sentimentScore": -0.9994,
     "wordCount": 3769,
@@ -3487,7 +8811,7 @@
     }
    },
    {
-    "id": "b1-c15",
+    "id": "b3-c15",
     "title": "15--WHAT HAD HAPPENED IN SURREY",
     "sentimentScore": -0.9986,
     "wordCount": 2832,
@@ -3621,7 +8945,7 @@
     }
    },
    {
-    "id": "b1-c16",
+    "id": "b3-c16",
     "title": "16--THE EXODUS FROM LONDON",
     "sentimentScore": -0.9998,
     "wordCount": 4445,
@@ -3764,7 +9088,7 @@
     }
    },
    {
-    "id": "b1-c17",
+    "id": "b3-c17",
     "title": "17--THE \u201cTHUNDER CHILD\u201d",
     "sentimentScore": -0.9993,
     "wordCount": 3299,

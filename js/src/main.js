@@ -79,6 +79,8 @@
 			let tool_tip = d3.tip()
 		      .attr("class", "d3-tip")
 		      .offset([-8, 0])
+		      .direction('s')
+		      .offset([15, -15])
 		      .html(function(d) {
 		      	let HTMLStr = "";
 		      	HTMLStr += "<span class='tooltipAttr'>Title</span> : " + d['title'] + "<br>";
@@ -102,6 +104,9 @@
 	          .data(bookChapters)
 			  .enter()
 			  .append('rect')
+			  .attr("id",function(d){
+			  	return d.id;
+			  })
 			  .attr("class","chapterGlyph")
 			  .attr("width",globalVars.defaultGlyphDim)
 			  .attr("height",globalVars.defaultGlyphDim)
