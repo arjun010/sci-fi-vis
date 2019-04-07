@@ -51,7 +51,7 @@ for book in os.listdir('../raw-data'):
 			"id" : chapterId,
 			"title" : chapter.split(".txt")[0],
 			"sentimentScore" : chapterSentimentScore,
-			"wordLength" : len(chapterText.split(' ')),
+			"wordCount" : len(chapterText.split(' ')),
 			"entityMap" : chapterEntityMap
 		}
 		outputMap[book]['chapters'].append(chapterObj)

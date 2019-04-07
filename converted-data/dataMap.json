@@ -8,7 +8,7 @@
     "id": "b0-c01",
     "title": "01--Chapter 1",
     "sentimentScore": 0.9998,
-    "wordLength": 1801,
+    "wordCount": 1801,
     "entityMap": {
      "ORG": {
       "count": 4,
@@ -89,7 +89,7 @@
     "id": "b0-c02",
     "title": "02--Chapter 2",
     "sentimentScore": 0.9998,
-    "wordLength": 2245,
+    "wordCount": 2245,
     "entityMap": {
      "PERSON": {
       "count": 10,
@@ -169,7 +169,7 @@
     "id": "b0-c03",
     "title": "03--Chapter 3",
     "sentimentScore": 0.9985,
-    "wordLength": 2756,
+    "wordCount": 2756,
     "entityMap": {
      "GPE": {
       "count": 3,
@@ -245,7 +245,7 @@
     "id": "b0-c04",
     "title": "04--Chapter 4",
     "sentimentScore": 0.9996,
-    "wordLength": 2608,
+    "wordCount": 2608,
     "entityMap": {
      "DATE": {
       "count": 11,
@@ -328,7 +328,7 @@
     "id": "b0-c05",
     "title": "05--Chapter 5",
     "sentimentScore": -0.9701,
-    "wordLength": 2457,
+    "wordCount": 2457,
     "entityMap": {
      "DATE": {
       "count": 7,
@@ -401,7 +401,7 @@
     "id": "b0-c06",
     "title": "06--Chapter 6",
     "sentimentScore": 0.9999,
-    "wordLength": 2832,
+    "wordCount": 2832,
     "entityMap": {
      "PERSON": {
       "count": 25,
@@ -525,7 +525,7 @@
     "id": "b0-c07",
     "title": "07--Chapter 7",
     "sentimentScore": -0.9988,
-    "wordLength": 3706,
+    "wordCount": 3706,
     "entityMap": {
      "LANGUAGE": {
       "count": 1,
@@ -648,7 +648,7 @@
     "id": "b0-c08",
     "title": "08--Chapter 8",
     "sentimentScore": -0.9998,
-    "wordLength": 3211,
+    "wordCount": 3211,
     "entityMap": {
      "TIME": {
       "count": 14,
@@ -736,7 +736,7 @@
     "id": "b0-c09",
     "title": "09--Chapter 9",
     "sentimentScore": 0.9854,
-    "wordLength": 2284,
+    "wordCount": 2284,
     "entityMap": {
      "PERSON": {
       "count": 12,
@@ -825,7 +825,7 @@
     "id": "b0-c10",
     "title": "10--Chapter 10",
     "sentimentScore": -0.999,
-    "wordLength": 2509,
+    "wordCount": 2509,
     "entityMap": {
      "DATE": {
       "count": 6,
@@ -888,7 +888,7 @@
     "id": "b0-c11",
     "title": "11--Chapter 11",
     "sentimentScore": 0.9996,
-    "wordLength": 2999,
+    "wordCount": 2999,
     "entityMap": {
      "GPE": {
       "count": 2,
@@ -941,7 +941,7 @@
     "id": "b0-c12",
     "title": "12--Chapter 12",
     "sentimentScore": 0.9996,
-    "wordLength": 2143,
+    "wordCount": 2143,
     "entityMap": {
      "DATE": {
       "count": 6,
@@ -1005,7 +1005,7 @@
     "id": "b0-c13",
     "title": "13--Chapter 13",
     "sentimentScore": 0.9999,
-    "wordLength": 2100,
+    "wordCount": 2100,
     "entityMap": {
      "CARDINAL": {
       "count": 5,
@@ -1067,7 +1067,7 @@
     "id": "b0-c14",
     "title": "14--Chapter 14",
     "sentimentScore": 0.9957,
-    "wordLength": 1914,
+    "wordCount": 1914,
     "entityMap": {
      "PERSON": {
       "count": 9,
@@ -1151,7 +1151,7 @@
     "id": "b0-c15",
     "title": "15--Chapter 15",
     "sentimentScore": 0.9999,
-    "wordLength": 3153,
+    "wordCount": 3153,
     "entityMap": {
      "DATE": {
       "count": 12,
@@ -1260,7 +1260,7 @@
     "id": "b0-c16",
     "title": "16--Chapter 16",
     "sentimentScore": -0.9996,
-    "wordLength": 3330,
+    "wordCount": 3330,
     "entityMap": {
      "TIME": {
       "count": 9,
@@ -1348,7 +1348,7 @@
     "id": "b0-c17",
     "title": "17--Chapter 17",
     "sentimentScore": -0.999,
-    "wordLength": 1965,
+    "wordCount": 1965,
     "entityMap": {
      "PERSON": {
       "count": 5,
@@ -1406,7 +1406,7 @@
     "id": "b0-c18",
     "title": "18--Chapter 18",
     "sentimentScore": 0.9998,
-    "wordLength": 3005,
+    "wordCount": 3005,
     "entityMap": {
      "DATE": {
       "count": 11,
@@ -1521,7 +1521,7 @@
     "id": "b0-c19",
     "title": "19--Chapter 19",
     "sentimentScore": 0.9992,
-    "wordLength": 2698,
+    "wordCount": 2698,
     "entityMap": {
      "GPE": {
       "count": 18,
@@ -1643,7 +1643,7 @@
     "id": "b0-c20",
     "title": "20--Chapter 20",
     "sentimentScore": -0.9995,
-    "wordLength": 3591,
+    "wordCount": 3591,
     "entityMap": {
      "TIME": {
       "count": 15,
@@ -1738,7 +1738,7 @@
     "id": "b0-c21",
     "title": "21--Chapter 21",
     "sentimentScore": -0.9997,
-    "wordLength": 3831,
+    "wordCount": 3831,
     "entityMap": {
      "CARDINAL": {
       "count": 10,
@@ -1843,7 +1843,7 @@
     "id": "b0-c22",
     "title": "22--Chapter 22",
     "sentimentScore": 0.9989,
-    "wordLength": 3523,
+    "wordCount": 3523,
     "entityMap": {
      "GPE": {
       "count": 7,
@@ -1946,7 +1946,7 @@
     "id": "b0-c23",
     "title": "23--Chapter 23",
     "sentimentScore": -0.9997,
-    "wordLength": 2646,
+    "wordCount": 2646,
     "entityMap": {
      "TIME": {
       "count": 6,
@@ -2015,7 +2015,7 @@
     "id": "b0-c24",
     "title": "24--Chapter 24",
     "sentimentScore": -0.9998,
-    "wordLength": 8462,
+    "wordCount": 8462,
     "entityMap": {
      "GPE": {
       "count": 7,
@@ -2152,7 +2152,7 @@
     "id": "b1-c01",
     "title": "01--THE EVE OF THE WAR",
     "sentimentScore": 0.9695,
-    "wordLength": 2231,
+    "wordCount": 2231,
     "entityMap": {
      "DATE": {
       "count": 14,
@@ -2267,7 +2267,7 @@
     "id": "b1-c02",
     "title": "02--THE FALLING STAR",
     "sentimentScore": -0.9916,
-    "wordLength": 1351,
+    "wordCount": 1351,
     "entityMap": {
      "TIME": {
       "count": 13,
@@ -2370,7 +2370,7 @@
     "id": "b1-c03",
     "title": "03--ON HORSELL COMMON",
     "sentimentScore": 0.5016,
-    "wordLength": 1021,
+    "wordCount": 1021,
     "entityMap": {
      "GPE": {
       "count": 7,
@@ -2457,7 +2457,7 @@
     "id": "b1-c04",
     "title": "04--THE CYLINDER OPENS",
     "sentimentScore": -0.9927,
-    "wordLength": 1128,
+    "wordCount": 1128,
     "entityMap": {
      "CARDINAL": {
       "count": 8,
@@ -2499,7 +2499,7 @@
     "id": "b1-c05",
     "title": "05--THE HEAT-RAY",
     "sentimentScore": -0.9576,
-    "wordLength": 1496,
+    "wordCount": 1496,
     "entityMap": {
      "LOC": {
       "count": 1,
@@ -2560,7 +2560,7 @@
     "id": "b1-c06",
     "title": "06--THE HEAT-RAY IN THE CHOBHAM ROAD",
     "sentimentScore": -0.9784,
-    "wordLength": 840,
+    "wordCount": 840,
     "entityMap": {
      "TIME": {
       "count": 2,
@@ -2623,7 +2623,7 @@
     "id": "b1-c07",
     "title": "07--HOW I REACHED HOME",
     "sentimentScore": -0.9985,
-    "wordLength": 1347,
+    "wordCount": 1347,
     "entityMap": {
      "PERSON": {
       "count": 2,
@@ -2691,7 +2691,7 @@
     "id": "b1-c08",
     "title": "08--FRIDAY NIGHT",
     "sentimentScore": 0.5321,
-    "wordLength": 977,
+    "wordCount": 977,
     "entityMap": {
      "DATE": {
       "count": 7,
@@ -2793,7 +2793,7 @@
     "id": "b1-c09",
     "title": "09--THE FIGHTING BEGINS",
     "sentimentScore": -0.947,
-    "wordLength": 2156,
+    "wordCount": 2156,
     "entityMap": {
      "DATE": {
       "count": 4,
@@ -2903,7 +2903,7 @@
     "id": "b1-c10",
     "title": "10--IN THE STORM",
     "sentimentScore": -0.9912,
-    "wordLength": 2277,
+    "wordCount": 2277,
     "entityMap": {
      "QUANTITY": {
       "count": 5,
@@ -2991,7 +2991,7 @@
     "id": "b1-c11",
     "title": "11--AT THE WINDOW",
     "sentimentScore": -0.9987,
-    "wordLength": 2052,
+    "wordCount": 2052,
     "entityMap": {
      "PERSON": {
       "count": 4,
@@ -3065,7 +3065,7 @@
     "id": "b1-c12",
     "title": "12--WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERTON",
     "sentimentScore": -0.999,
-    "wordLength": 3887,
+    "wordCount": 3887,
     "entityMap": {
      "ORG": {
       "count": 6,
@@ -3198,7 +3198,7 @@
     "id": "b1-c13",
     "title": "13--HOW I FELL IN WITH THE CURATE",
     "sentimentScore": -0.9983,
-    "wordLength": 1804,
+    "wordCount": 1804,
     "entityMap": {
      "PERSON": {
       "count": 7,
@@ -3286,7 +3286,7 @@
     "id": "b1-c14",
     "title": "14--IN LONDON",
     "sentimentScore": -0.9994,
-    "wordLength": 3769,
+    "wordCount": 3769,
     "entityMap": {
      "GPE": {
       "count": 26,
@@ -3490,7 +3490,7 @@
     "id": "b1-c15",
     "title": "15--WHAT HAD HAPPENED IN SURREY",
     "sentimentScore": -0.9986,
-    "wordLength": 2832,
+    "wordCount": 2832,
     "entityMap": {
      "GPE": {
       "count": 21,
@@ -3624,7 +3624,7 @@
     "id": "b1-c16",
     "title": "16--THE EXODUS FROM LONDON",
     "sentimentScore": -0.9998,
-    "wordLength": 4445,
+    "wordCount": 4445,
     "entityMap": {
      "DATE": {
       "count": 8,
@@ -3767,7 +3767,7 @@
     "id": "b1-c17",
     "title": "17--THE \u201cTHUNDER CHILD\u201d",
     "sentimentScore": -0.9993,
-    "wordLength": 3299,
+    "wordCount": 3299,
     "entityMap": {
      "DATE": {
       "count": 10,
