@@ -133,7 +133,7 @@
 		if(['sentimentScore'].indexOf(colorAttr)!=-1){
 			colorScale = d3.scaleLinear()
 			.domain([-1, 0, 1])
-			.range(["maroon", "white", "steelblue"]);
+			.range(["#fc8d59", "#ffffbf", "#91bfdb"]);
 		}else{
 			let maxVal = null;
 			if(globalVars.entityTypes.indexOf(colorAttr)!=-1){
@@ -159,14 +159,14 @@
 			}
 			colorScale = d3.scaleLinear()
 			.domain([0, maxVal])
-			.range(["white", "steelblue"]);
+			.range(["#edf8b1", "#2c7fb8"]);
 		}
 
 		d3.selectAll('.chapterGlyph')
 		.transition(1000)
 		.style('fill',function(d){
 			if(colorAttr==""){
-				return "steelblue";
+				return "#2c7fb8";
 			}else{
 				if(colorAttr in d){
 					return colorScale(d[colorAttr]);
