@@ -2339,6 +2339,147 @@
     }
    },
    {
+    "id": "b0-c21",
+    "book": "AROUND-THE WORLD-IN-EIGHTY-DAYS",
+    "title": "21--IN WHICH THE MASTER OF THE TANKADERE RUNS GREAT RISK OF LOSING A REWARD OF TWO HUNDRED POUNDS",
+    "sentimentScore": 0.9986,
+    "wordCount": 2703,
+    "entityMap": {
+     "QUANTITY": {
+      "count": 15,
+      "values": [
+       "eight hundred miles",
+       "twenty tons",
+       "more than one hundred miles",
+       "between eight and nine miles",
+       "most five miles",
+       "two hundred and twenty miles",
+       "one hundred miles",
+       "A hundred miles",
+       "thirty miles",
+       "forty-five miles",
+       "nine miles an hour",
+       "more than ten miles",
+       "at least twelve miles",
+       "three miles",
+       "two hundred pounds"
+      ]
+     },
+     "DATE": {
+      "count": 10,
+      "values": [
+       "that season of the year",
+       "early November",
+       "the day",
+       "her first quarter",
+       "three quarters",
+       "the next day",
+       "8th November",
+       "the winter equinox",
+       "the whole day",
+       "one day"
+      ]
+     },
+     "GPE": {
+      "count": 11,
+      "values": [
+       "Yokohama",
+       "Shanghai",
+       "Tankadere",
+       "Hong Kong",
+       "San Francisco",
+       "America",
+       "England",
+       "the United States",
+       "Aouda",
+       "London",
+       "Formosa"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       " ",
+       "Fogg",
+       "Passepartout",
+       "Carnatic",
+       "Tankadere",
+       "Phileas Fogg",
+       "Confound"
+      ]
+     },
+     "PERSON": {
+      "count": 6,
+      "values": [
+       "John Bunsby",
+       "Phileas Fogg",
+       "Clouds",
+       "Fogg",
+       "Fix",
+       "John Bunsby's"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Trust"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "hundred",
+       "one",
+       "four",
+       "Twenty",
+       "seven"
+      ]
+     },
+     "TIME": {
+      "count": 16,
+      "values": [
+       "an hour",
+       "about ten o'clock",
+       "midnight",
+       "all night",
+       "a little towards noon",
+       "two hours",
+       "evening",
+       "the small hours of the night",
+       "the evening",
+       "eight o'clock",
+       "noon",
+       "The next morning",
+       "several hours",
+       "this moment",
+       "six hours",
+       "six o'clock"
+      ]
+     },
+     "LOC": {
+      "count": 4,
+      "values": [
+       "Carnatic",
+       "the Straits of Fo-Kien",
+       "South",
+       "Shanghai River"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Royal"
+      ]
+     },
+     "LAW": {
+      "count": 1,
+      "values": [
+       "the Tropic of Cancer"
+      ]
+     }
+    }
+   },
+   {
     "id": "b0-c22",
     "book": "AROUND-THE WORLD-IN-EIGHTY-DAYS",
     "title": "22--IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS CONVENIENT TO HAVE SOME MONEY IN ONE'S POCKET",
@@ -25567,6 +25708,159 @@
     }
    },
    {
+    "id": "b7-c10",
+    "book": "Robur The Conqueror",
+    "title": "10--WESTWARD--BUT WHITHER",
+    "sentimentScore": 0.9983,
+    "wordCount": 1761,
+    "entityMap": {
+     "DATE": {
+      "count": 7,
+      "values": [
+       "The next day",
+       "the 15th of June",
+       "today",
+       "the day before",
+       "day",
+       "March, 1872",
+       "three quarters of an hour"
+      ]
+     },
+     "TIME": {
+      "count": 12,
+      "values": [
+       "about five o'clock in the morning",
+       "the night",
+       "that morning",
+       "An hour",
+       "a few minutes",
+       "about seven o'clock",
+       "less than two hours",
+       "half an hour",
+       "About one o'clock",
+       "before night",
+       "six o'clock",
+       "eight o'clock"
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Phil Evans",
+       "Robur",
+       "Evans",
+       "Tom Turner",
+       "Tom",
+       "Uncle Prudent",
+       "Bridger Gap",
+       "Engineer Robur"
+      ]
+     },
+     "ORG": {
+      "count": 11,
+      "values": [
+       " ",
+       "Turner",
+       "Congress",
+       "Fortress",
+       "the Faithful Friend",
+       "Giant",
+       "the Pacific Railway",
+       "Royal Victoria",
+       "the Weldon Institute",
+       "Sierra",
+       "the Sierra Nevada"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "about forty-five",
+       "one",
+       "two",
+       "thousand",
+       "Three",
+       "four",
+       "ten thousand"
+      ]
+     },
+     "GPE": {
+      "count": 12,
+      "values": [
+       "Hogarth",
+       "Omaha",
+       "Colorado",
+       "Iceland",
+       "Oregon",
+       "Utah",
+       "Salt Lake City",
+       "Philadelphia",
+       "Nevada",
+       "California",
+       "San Francisco",
+       "America"
+      ]
+     },
+     "LAW": {
+      "count": 1,
+      "values": [
+       "the \"Albatross\""
+      ]
+     },
+     "QUANTITY": {
+      "count": 8,
+      "values": [
+       "more than six hundred miles",
+       "about 10,000 feet",
+       "13,000 feet",
+       "twenty feet",
+       "more than two hundred feet",
+       "sixty-two miles an hour",
+       "several hundred yards",
+       "hundred and eighty miles"
+      ]
+     },
+     "LOC": {
+      "count": 7,
+      "values": [
+       "the Rocky Mountains",
+       "the National Park of the United States",
+       "the Yellowstone River",
+       "Mount Stevenson",
+       "the Yellowstone Lake",
+       "Rockies",
+       "the Pacific Ocean"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "Albatross",
+       "the Stars and Stripes"
+      ]
+     },
+     "MONEY": {
+      "count": 1,
+      "values": [
+       "540 millimeters"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Fan"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "the Pacific Railway",
+       "Albatross"
+      ]
+     }
+    }
+   },
+   {
     "id": "b7-c11",
     "book": "Robur The Conqueror",
     "title": "11--THE WIDE PACIFIC",
@@ -28923,14 +29217,14 @@
    }
   ]
  },
- "Twenty-Thousand-Leagues-under-the-Sea": {
+ "Twenty-Thousand-Leagues-under-the-Sea-P1": {
   "id": "b9",
   "year": "",
   "author": "",
   "chapters": [
    {
     "id": "b9-c01",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "01--A SHIFTING REEF",
     "sentimentScore": -0.9923,
     "wordCount": 1710,
@@ -29065,7 +29359,7 @@
    },
    {
     "id": "b9-c02",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "02--PRO AND CON",
     "sentimentScore": 0.9968,
     "wordCount": 1647,
@@ -29188,7 +29482,7 @@
    },
    {
     "id": "b9-c03",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "03--I FORM MY RESOLUTION",
     "sentimentScore": 0.9978,
     "wordCount": 1074,
@@ -29267,7 +29561,7 @@
    },
    {
     "id": "b9-c04",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "04--NED LAND",
     "sentimentScore": 0.9972,
     "wordCount": 1943,
@@ -29393,7 +29687,7 @@
    },
    {
     "id": "b9-c05",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "05--AT A VENTURE",
     "sentimentScore": 0.9986,
     "wordCount": 1729,
@@ -29533,7 +29827,7 @@
    },
    {
     "id": "b9-c06",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "06--AT FULL STEAM",
     "sentimentScore": -0.9982,
     "wordCount": 2518,
@@ -29644,7 +29938,7 @@
    },
    {
     "id": "b9-c07",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "07--AN UNKNOWN SPECIES OF WHALE",
     "sentimentScore": 0.9205,
     "wordCount": 2128,
@@ -29722,7 +30016,7 @@
    },
    {
     "id": "b9-c08",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "08--MOBILIS IN MOBILI",
     "sentimentScore": 0.9985,
     "wordCount": 2099,
@@ -29820,7 +30114,7 @@
    },
    {
     "id": "b9-c09",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "09--NED LAND'S TEMPERS",
     "sentimentScore": 0.9543,
     "wordCount": 929,
@@ -29882,7 +30176,7 @@
    },
    {
     "id": "b9-c10",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "10--THE MAN OF THE SEAS",
     "sentimentScore": 0.9999,
     "wordCount": 4966,
@@ -30061,7 +30355,7 @@
    },
    {
     "id": "b9-c11",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "11--ALL BY ELECTRICITY",
     "sentimentScore": 0.9989,
     "wordCount": 1696,
@@ -30149,7 +30443,7 @@
    },
    {
     "id": "b9-c12",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "12--SOME FIGURES",
     "sentimentScore": 0.941,
     "wordCount": 1875,
@@ -30253,7 +30547,7 @@
    },
    {
     "id": "b9-c13",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "13--THE BLACK RIVER",
     "sentimentScore": 0.999,
     "wordCount": 2090,
@@ -30398,7 +30692,7 @@
    },
    {
     "id": "b9-c14",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "14--A NOTE OF INVITATION",
     "sentimentScore": 0.9955,
     "wordCount": 2361,
@@ -30528,7 +30822,7 @@
    },
    {
     "id": "b9-c15",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "15--A WALK ON THE BOTTOM OF THE SEA",
     "sentimentScore": 0.9988,
     "wordCount": 1846,
@@ -30630,7 +30924,7 @@
    },
    {
     "id": "b9-c16",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "16--A SUBMARINE FOREST",
     "sentimentScore": 0.9981,
     "wordCount": 2204,
@@ -30723,7 +31017,7 @@
    },
    {
     "id": "b9-c17",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "17--FOUR THOUSAND LEAGUES UNDER THE PACIFIC",
     "sentimentScore": 0.9937,
     "wordCount": 1742,
@@ -30869,7 +31163,7 @@
    },
    {
     "id": "b9-c18",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "18--VANIKORO",
     "sentimentScore": -0.9752,
     "wordCount": 2615,
@@ -31088,7 +31382,7 @@
    },
    {
     "id": "b9-c19",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "19--TORRES STRAITS",
     "sentimentScore": 0.9987,
     "wordCount": 2124,
@@ -31233,7 +31527,7 @@
    },
    {
     "id": "b9-c20",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "20--A FEW DAYS ON LAND",
     "sentimentScore": 0.9998,
     "wordCount": 2725,
@@ -31350,7 +31644,7 @@
    },
    {
     "id": "b9-c21",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "21--CAPTAIN NEMO'S THUNDERBOLT",
     "sentimentScore": -0.9976,
     "wordCount": 3269,
@@ -31494,8 +31788,133 @@
     }
    },
    {
+    "id": "b9-c22-AEGRI SOMNIA.txt",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
+    "title": "22-AEGRI SOMNIA",
+    "sentimentScore": 0.8596,
+    "wordCount": 2310,
+    "entityMap": {
+     "DATE": {
+      "count": 10,
+      "values": [
+       "The following day 10th January",
+       "the 11th of January",
+       "the 13th of January",
+       "the 14th of January",
+       "seven",
+       "the 16th of January",
+       "the 18th of January",
+       "some days",
+       "daily",
+       "this day"
+      ]
+     },
+     "PRODUCT": {
+      "count": 4,
+      "values": [
+       "Nautilus",
+       "Victoria",
+       "Captain",
+       "Captain Nemo's"
+      ]
+     },
+     "CARDINAL": {
+      "count": 17,
+      "values": [
+       "two",
+       "less than thirty-five miles",
+       "135",
+       "10",
+       "130",
+       "122",
+       "three",
+       "five",
+       "nine",
+       "five thousand",
+       "as many as twenty-five thousand",
+       "hundred",
+       "105",
+       "15",
+       "one end",
+       "Four",
+       "half"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Cape Wessel",
+       "\u00b0 S. lat",
+       "Captain Nemo",
+       "Cape Horn",
+       "Scott",
+       "Ned",
+       "Nemo",
+       "\"M. Aronnax",
+       "Ned Land",
+       "Friend Ned"
+      ]
+     },
+     "GPE": {
+      "count": 4,
+      "values": [
+       "\u00b0",
+       "Hibernia",
+       "Conseil",
+       "Captain"
+      ]
+     },
+     "LOC": {
+      "count": 9,
+      "values": [
+       "the Gulf of Carpentaria",
+       "the Sea of Timor",
+       "the Indian Ocean",
+       "Asia",
+       "Europe",
+       "the Cape of Good Hope",
+       "Antarctic",
+       "Pacific",
+       "Captain"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "Captain Nemo"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Time",
+       "Cartier",
+       "Seringapatam",
+       " "
+      ]
+     },
+     "QUANTITY": {
+      "count": 5,
+      "values": [
+       "ten thousand yards",
+       "four degrees and a half",
+       "only a few yards",
+       "ten feet",
+       "some hundreds of miles"
+      ]
+     },
+     "TIME": {
+      "count": 2,
+      "values": [
+       "less than two cubic half-inches",
+       "several hours"
+      ]
+     }
+    }
+   },
+   {
     "id": "b9-c23-THE CORAL KINGDOM.txt",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P1",
     "title": "23-THE CORAL KINGDOM",
     "sentimentScore": -0.9965,
     "wordCount": 2245,
@@ -31599,11 +32018,18 @@
       ]
      }
     }
-   },
+   }
+  ]
+ },
+ "Twenty-Thousand-Leagues-under-the-Sea-P2": {
+  "id": "b10",
+  "year": "",
+  "author": "",
+  "chapters": [
    {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--01--THE INDIAN OCEAN",
+    "id": "b10-c01",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "01--THE INDIAN OCEAN",
     "sentimentScore": 0.9987,
     "wordCount": 2575,
     "entityMap": {
@@ -31746,9 +32172,9 @@
     }
    },
    {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--02--A NOVEL PROPOSAL OF CAPTAIN NEMO'S",
+    "id": "b10-c02",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "02--A NOVEL PROPOSAL OF CAPTAIN NEMO'S",
     "sentimentScore": 0.9988,
     "wordCount": 1592,
     "entityMap": {
@@ -31852,9 +32278,9 @@
     }
    },
    {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--03--A PEARL OF TEN MILLIONS",
+    "id": "b10-c03",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "03--A PEARL OF TEN MILLIONS",
     "sentimentScore": 0.9991,
     "wordCount": 3389,
     "entityMap": {
@@ -31977,2367 +32403,9 @@
     }
    },
    {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--06--THE GRECIAN ARCHIPELAGO",
-    "sentimentScore": 0.9994,
-    "wordCount": 3055,
-    "entityMap": {
-     "DATE": {
-      "count": 16,
-      "values": [
-       "The next day",
-       "the 12th of February",
-       "each day",
-       "well six months",
-       "six months",
-       "this day",
-       "two years' time",
-       "two days'",
-       "the 14th of February",
-       "the nineteenth year",
-       "the year 69",
-       "the 3rd of February, 1866",
-       "Seven days",
-       "the 13th of February",
-       "the 10th of March",
-       "the 16th of February"
-      ]
-     },
-     "TIME": {
-      "count": 9,
-      "values": [
-       "the dawn",
-       "About seven o'clock",
-       "this very night",
-       "a few minutes",
-       "some hours",
-       "that moment",
-       "Two hours",
-       "the night",
-       "five o'clock"
-      ]
-     },
-     "PRODUCT": {
-      "count": 5,
-      "values": [
-       "Nautilus",
-       "Captain",
-       "the Polar Seas",
-       "Captain Nemo",
-       "Sporades"
-      ]
-     },
-     "QUANTITY": {
-      "count": 7,
-      "values": [
-       "Three miles",
-       "sixty feet",
-       "Forty-two degrees",
-       "ten yards",
-       "300 feet",
-       "30 feet",
-       "A quarter of an hour"
-      ]
-     },
-     "CARDINAL": {
-      "count": 9,
-      "values": [
-       "one",
-       "three",
-       "Only one",
-       "just one",
-       "more than a thousand",
-       "more than 4,000",
-       "Four",
-       "millions",
-       "about 1,500"
-      ]
-     },
-     "GPE": {
-      "count": 14,
-      "values": [
-       "Ned",
-       "Conseil",
-       "China",
-       "France",
-       "England",
-       "America",
-       "     ",
-       "Rhodes",
-       "Captain",
-       "Cassiodorus",
-       "Plutonian",
-       "The Island of Aphroessa",
-       "Alexandria",
-       "Cerigo"
-      ]
-     },
-     "PERSON": {
-      "count": 22,
-      "values": [
-       "Naturalist",
-       "Ned",
-       "Conseil",
-       "Said",
-       "Captain Nemo's",
-       "Friend Ned",
-       "Ned Land",
-       "M. Aronnax",
-       "Ned Land's",
-       "Captain Nemo",
-       "Nemo",
-       "Virgil",
-       "Est",
-       "     Caeruleus",
-       "Abraham Lincoln",
-       "Nicholas of Cape Matapan",
-       "Pesca",
-       "Saying",
-       "George Island",
-       "Nea Kamenni",
-       "Reka",
-       "Cape Matapan"
-      ]
-     },
-     "LOC": {
-      "count": 8,
-      "values": [
-       "Mediterranean",
-       "Europe",
-       "Oceania",
-       "Asia Minor",
-       "the Island of Carpathos",
-       "Proteus",
-       "the Island of Scarpanto",
-       "Captain"
-      ]
-     },
-     "ORG": {
-      "count": 15,
-      "values": [
-       "Port",
-       " ",
-       "Proteus",
-       "Neptune",
-       "Archipelago",
-       "Candia",
-       "Isle of Crete",
-       "Cyclades",
-       "Crete",
-       "Modern Greece",
-       "Whereupon",
-       "Pliny",
-       "Theia",
-       "the Island of Aphroessa",
-       "the Grecian Archipelago"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 1,
-      "values": [
-       "Near the Island of Santorin"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--07--THE MEDITERRANEAN IN FORTY-EIGHT HOURS",
-    "sentimentScore": 0.9893,
-    "wordCount": 1090,
-    "entityMap": {
-     "LOC": {
-      "count": 10,
-      "values": [
-       "Mediterranean",
-       "Neptune",
-       "Straits",
-       "Africa",
-       "Europe",
-       "Messina",
-       "the Straits of Lybia",
-       "Cape",
-       "Atlantic",
-       "the Straits of Gibraltar"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "Hebrews"
-      ]
-     },
-     "PERSON": {
-      "count": 7,
-      "values": [
-       "Greeks",
-       "Nemo",
-       "Captain Nemo",
-       "Ned Land",
-       "Cape Bon",
-       "Conseil",
-       "M. Lesseps"
-      ]
-     },
-     "ORG": {
-      "count": 4,
-      "values": [
-       "Michelet",
-       "Smith",
-       "the Straits of Gibraltar",
-       "Pliny"
-      ]
-     },
-     "CARDINAL": {
-      "count": 7,
-      "values": [
-       "one",
-       "about six hundred",
-       "more than nine",
-       "ninety",
-       "two",
-       "some hundreds of thousands",
-       "1,450"
-      ]
-     },
-     "QUANTITY": {
-      "count": 3,
-      "values": [
-       "two million of square yards",
-       "twenty-five miles an hour",
-       "twelve or thirteen yards"
-      ]
-     },
-     "PRODUCT": {
-      "count": 1,
-      "values": [
-       "Nautilus"
-      ]
-     },
-     "TIME": {
-      "count": 6,
-      "values": [
-       "forty-eight hours",
-       "the morning of the 16th of February",
-       "night",
-       "the night of the 16th and 17th",
-       "about three o'clock in the morning",
-       "a few minutes later"
-      ]
-     },
-     "GPE": {
-      "count": 7,
-      "values": [
-       "Greece",
-       "Sicily",
-       "Conseil",
-       "Cape Furina",
-       "Gibraltar",
-       "Ceuta",
-       "Hercules"
-      ]
-     },
-     "DATE": {
-      "count": 6,
-      "values": [
-       "the 18th",
-       "one day",
-       "the first days",
-       "every century",
-       "February",
-       "the 18th of February"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--08--VIGO BAY",
-    "sentimentScore": 0.9957,
-    "wordCount": 3282,
-    "entityMap": {
-     "LOC": {
-      "count": 8,
-      "values": [
-       "Atlantic",
-       "Mississippi",
-       "the Cape of Tempests",
-       "Cape St. Vincent",
-       "Mediterranean",
-       " ",
-       "Captain",
-       "Vigo Bay"
-      ]
-     },
-     "CARDINAL": {
-      "count": 16,
-      "values": [
-       "twenty-five millions of square miles",
-       "two thousand seven hundred",
-       "two",
-       "nearly ten thousand",
-       "hundred",
-       "A hundred and twenty minutes",
-       "eight",
-       "half",
-       "one",
-       "twenty-three",
-       "those millions",
-       "two millions",
-       "thousand",
-       "five hundred millions",
-       "Five hundred millions",
-       "less than the thousands"
-      ]
-     },
-     "QUANTITY": {
-      "count": 8,
-      "values": [
-       "nine thousand miles",
-       "about twelve miles",
-       "a few miles",
-       "ten",
-       "about sixty feet",
-       "half a mile",
-       "half-rotten barrels",
-       "millions"
-      ]
-     },
-     "ORG": {
-      "count": 16,
-      "values": [
-       "the St. Lawrence",
-       "Amazon",
-       "Plata",
-       "the Straits of Gibraltar",
-       " ",
-       "Twice",
-       "Hours",
-       "Nature",
-       "Canadian",
-       "Philip V",
-       "Cadiz",
-       "Vigo Bay",
-       "Vigo",
-       "the Spanish Government",
-       "Doubtless",
-       "Crete"
-      ]
-     },
-     "GPE": {
-      "count": 16,
-      "values": [
-       "Orinoco",
-       "Niger",
-       "Senegal",
-       "Conseil",
-       "Portugal",
-       "France",
-       "England",
-       "the Island of Santorin",
-       "Spain",
-       "Captain",
-       "Holland",
-       "Austria",
-       "Hague",
-       "America",
-       "Madrid",
-       "Vigo"
-      ]
-     },
-     "PERSON": {
-      "count": 14,
-      "values": [
-       "Cape Horn",
-       "Ned Land",
-       "Friend Ned",
-       "Captain Nemo",
-       "M. Aronnax",
-       "Conseil",
-       "Nemo",
-       "Ned Land's",
-       "Louis XIV",
-       "Charles III",
-       "Chateau-Renaud",
-       "Philip",
-       "Incas",
-       "Ferdinand Cortez"
-      ]
-     },
-     "PRODUCT": {
-      "count": 3,
-      "values": [
-       "Nautilus",
-       "Captain",
-       "Captain Nemo"
-      ]
-     },
-     "DATE": {
-      "count": 10,
-      "values": [
-       "three months and a half",
-       "daily",
-       "morrow",
-       "This day",
-       "so many days",
-       "1702",
-       "the preceding year",
-       "about the end of 1702",
-       "the 22nd of October, 1702",
-       "now"
-      ]
-     },
-     "TIME": {
-      "count": 6,
-      "values": [
-       "To-night",
-       "nine o'clock",
-       "to-night",
-       "eleven o'clock",
-       "seven o'clock",
-       "a few minutes to nine"
-      ]
-     },
-     "LANGUAGE": {
-      "count": 1,
-      "values": [
-       "English"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 1,
-      "values": [
-       "Barren"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--09--A VANISHED CONTINENT",
-    "sentimentScore": -0.6761,
-    "wordCount": 2939,
-    "entityMap": {
-     "TIME": {
-      "count": 14,
-      "values": [
-       "The next morning",
-       "the hour",
-       "the preceding night",
-       "noon",
-       "about half-past",
-       "eleven",
-       "That night",
-       "about eleven o'clock",
-       "some minutes later",
-       "half an hour",
-       "Two hours",
-       "a few minutes",
-       "an hour",
-       "this moment"
-      ]
-     },
-     "DATE": {
-      "count": 3,
-      "values": [
-       "the 19th of February",
-       "yesterday",
-       "_"
-      ]
-     },
-     "PERSON": {
-      "count": 14,
-      "values": [
-       "Ned",
-       "Vigo",
-       "Ned Land",
-       "Nemo",
-       "M. Aronnax",
-       "Captain Nemo",
-       " ",
-       "Whither",
-       "Captain Nemo's",
-       "Pompeii",
-       "Atlantides",
-       "Greeks",
-       "Whilst",
-       "Rapid"
-      ]
-     },
-     "GPE": {
-      "count": 10,
-      "values": [
-       "Captain",
-       "necessary----",
-       "Conseil",
-       "San Roque",
-       "Ned or Conseil",
-       "Medusae",
-       "Parthenon",
-       "Humbolt",
-       "Lybia",
-       "Hercules"
-      ]
-     },
-     "ORG": {
-      "count": 10,
-      "values": [
-       "State",
-       " ",
-       "_",
-       "Picture",
-       "Hartz",
-       "Rapid",
-       "Vesuvius",
-       "Greco",
-       "ATLANTIS",
-       "Origen"
-      ]
-     },
-     "PRODUCT": {
-      "count": 4,
-      "values": [
-       "Captain",
-       "Nautilus",
-       "  ",
-       "Atlantis"
-      ]
-     },
-     "LOC": {
-      "count": 5,
-      "values": [
-       "Europe",
-       "Atlantic",
-       " ",
-       "Asia",
-       "the moon"
-      ]
-     },
-     "CARDINAL": {
-      "count": 8,
-      "values": [
-       "16",
-       "33",
-       "150",
-       "one",
-       "millions",
-       "Millions",
-       "more than seven",
-       "thousand"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "Midnight"
-      ]
-     },
-     "QUANTITY": {
-      "count": 6,
-      "values": [
-       "about two miles",
-       "about 800 feet",
-       "a hundred feet",
-       "ten yards",
-       "eight hundred feet",
-       "fifty feet"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--10--THE SUBMARINE COAL-MINES",
-    "sentimentScore": 0.9988,
-    "wordCount": 2725,
-    "entityMap": {
-     "DATE": {
-      "count": 5,
-      "values": [
-       "The next day",
-       "the 20th of February",
-       "the next day",
-       "many ages",
-       "the spring"
-      ]
-     },
-     "TIME": {
-      "count": 10,
-      "values": [
-       "the previous night",
-       "eleven o'clock",
-       "About four o'clock",
-       "this moment",
-       "a few hours",
-       "eight o'clock",
-       "and night",
-       "Wait a few minutes",
-       "about ten o'clock",
-       "Half an hour"
-      ]
-     },
-     "PRODUCT": {
-      "count": 4,
-      "values": [
-       "Nautilus",
-       "Atlantis",
-       "Captain",
-       "Captain Nemo"
-      ]
-     },
-     "QUANTITY": {
-      "count": 13,
-      "values": [
-       "twenty miles an hour",
-       "five yards",
-       "one fifteen feet",
-       "some about three yards",
-       "two miles",
-       "five or six hundred yards",
-       "opens about ten yards",
-       "five hundred feet",
-       "about 31 feet",
-       "two hundred and fifty feet",
-       "several pounds",
-       "more than eight hundred feet",
-       "a few yards"
-      ]
-     },
-     "CARDINAL": {
-      "count": 9,
-      "values": [
-       "fifty",
-       "one",
-       "six",
-       "two",
-       "half",
-       "some thousands",
-       "twenty",
-       "thousands",
-       "Three-quarters"
-      ]
-     },
-     "PERSON": {
-      "count": 9,
-      "values": [
-       "Amongst",
-       "Captain Nemo",
-       "M. Aronnax",
-       "Conseil",
-       "Ned Land",
-       "Ned",
-       "Deep",
-       "Perfume",
-       "Pon"
-      ]
-     },
-     "GPE": {
-      "count": 5,
-      "values": [
-       "Conseil",
-       "Aristotle",
-       "the Cape Verde Islands",
-       "Newcastle",
-       "Captain"
-      ]
-     },
-     "ORG": {
-      "count": 4,
-      "values": [
-       "Canaries",
-       " ",
-       "the Great Architect",
-       "Transcriber's Note"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "Underground"
-      ]
-     },
-     "LOC": {
-      "count": 3,
-      "values": [
-       "earth",
-       "Atlantic",
-       "Neptune"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--11--THE SARGASSO SEA",
-    "sentimentScore": 0.9957,
-    "wordCount": 1678,
-    "entityMap": {
-     "DATE": {
-      "count": 14,
-      "values": [
-       "That day",
-       "no less than three years",
-       "one day",
-       "February",
-       "nineteen days",
-       "the 23rd of February",
-       "the 12th of March",
-       "the middle of the Atlantic",
-       "four months'",
-       "the nineteen days",
-       "whole days",
-       "One day",
-       "the 13th of March",
-       "that day"
-      ]
-     },
-     "PRODUCT": {
-      "count": 5,
-      "values": [
-       "Nautilus",
-       "Captain Nemo",
-       "Sargasso",
-       "S.",
-       "Captain"
-      ]
-     },
-     "LOC": {
-      "count": 8,
-      "values": [
-       "the Atlantic Ocean",
-       "the Gulf of Mexico",
-       "the Sargasso Sea",
-       "Atlantic",
-       "Andes",
-       "the Rocky Mountains",
-       "Pacific",
-       "the Cape of Good Hope"
-      ]
-     },
-     "ORG": {
-      "count": 8,
-      "values": [
-       "the Gulf Stream",
-       "the Gulf of Florida",
-       "Spitzbergen",
-       " ",
-       "Maury",
-       "Amazon",
-       "Herald",
-       "Congress"
-      ]
-     },
-     "CARDINAL": {
-      "count": 14,
-      "values": [
-       "about 45",
-       "two",
-       "one",
-       "hundred",
-       "about 13,000",
-       "45",
-       "37",
-       "53",
-       "7,000",
-       "15,140",
-       "four",
-       "1,600",
-       "3,200",
-       "two-fifths"
-      ]
-     },
-     "GPE": {
-      "count": 6,
-      "values": [
-       "\u00b0",
-       "Ireland",
-       "Norway",
-       "Mississippi",
-       "Captain",
-       "India"
-      ]
-     },
-     "PERSON": {
-      "count": 11,
-      "values": [
-       "N.",
-       "Antilles",
-       "Place",
-       "Nemo",
-       "Cape Horn",
-       "Ned Land",
-       "Captain Nemo",
-       "Denham",
-       "Lieutenant Parker",
-       "Mont Blanc",
-       "Captain Nemo's"
-      ]
-     },
-     "EVENT": {
-      "count": 1,
-      "values": [
-       "Nature"
-      ]
-     },
-     "TIME": {
-      "count": 4,
-      "values": [
-       "twenty-four hours",
-       "night",
-       "a few seconds",
-       "four minutes"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "Himalayas"
-      ]
-     },
-     "QUANTITY": {
-      "count": 1,
-      "values": [
-       "16,000 yards"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--12--CACHALOTS AND WHALES",
-    "sentimentScore": -0.9969,
-    "wordCount": 2944,
-    "entityMap": {
-     "TIME": {
-      "count": 6,
-      "values": [
-       "the nights of the 13th",
-       "every twenty-four hours",
-       "one hour",
-       "twenty-four hours",
-       "About eleven in the morning",
-       "A few minutes afterwards"
-      ]
-     },
-     "DATE": {
-      "count": 6,
-      "values": [
-       "14th of March",
-       "the 14th of March",
-       "that day",
-       "the bright days",
-       "The month of October",
-       "one day"
-      ]
-     },
-     "PRODUCT": {
-      "count": 2,
-      "values": [
-       "Nautilus",
-       "Captain"
-      ]
-     },
-     "PERSON": {
-      "count": 14,
-      "values": [
-       "Cape Horn",
-       "Ned Land's",
-       "Ned",
-       "Ned Land",
-       "Conseil",
-       "Davis Straits",
-       "Hullamoch",
-       "Captain Nemo's",
-       "Nemo",
-       "Captain Nemo",
-       "M. Aronnax",
-       "Mouth",
-       "Better",
-       "Fredol"
-      ]
-     },
-     "LOC": {
-      "count": 7,
-      "values": [
-       "Pacific",
-       "Captain",
-       "the Aleutian Islands",
-       "Sailor",
-       " ",
-       "the Red Sea",
-       "North Cape"
-      ]
-     },
-     "GPE": {
-      "count": 9,
-      "values": [
-       "Conseil",
-       "Speak",
-       "Looking",
-       "Behring",
-       "Davis Straits",
-       "Greenland",
-       "Whales",
-       "Sinbad",
-       "Baffin"
-      ]
-     },
-     "CARDINAL": {
-      "count": 15,
-      "values": [
-       "ten",
-       "twenty-four",
-       "480",
-       "625",
-       "Six hundred and twenty-five",
-       "three",
-       "one",
-       "two",
-       "two or three hundred",
-       "more than seventy-five feet long",
-       "one-third",
-       "twenty-five",
-       "One",
-       "seven",
-       "Two"
-      ]
-     },
-     "QUANTITY": {
-      "count": 16,
-      "values": [
-       "twenty gallons",
-       "480 gallons",
-       "1,500 tons",
-       "one ton",
-       "200 gallons",
-       "300,000 gallons",
-       "five miles",
-       "a hundred feet",
-       "a hundred and fifty feet long",
-       "about eight miles",
-       "about eight inches long",
-       "two pounds",
-       "six to eight hundred pounds",
-       "ten or twelve",
-       "several miles",
-       "about two or three tons"
-      ]
-     },
-     "ORG": {
-      "count": 4,
-      "values": [
-       " ",
-       "Confound",
-       "Asiatic",
-       "Umgallick"
-      ]
-     },
-     "FAC": {
-      "count": 2,
-      "values": [
-       "fire----",
-       "Bay"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 2,
-      "values": [
-       "Master Land",
-       "Master Land's"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--13--THE ICEBERG",
-    "sentimentScore": 0.9787,
-    "wordCount": 3156,
-    "entityMap": {
-     "PRODUCT": {
-      "count": 3,
-      "values": [
-       "Nautilus",
-       "Captain Nemo",
-       "Captain"
-      ]
-     },
-     "LOC": {
-      "count": 9,
-      "values": [
-       "Antarctic",
-       "the Arctic Seas",
-       "earth",
-       "Captain",
-       "South",
-       "the South Pole",
-       "North",
-       "the Southern Ocean",
-       "the Antarctic Ocean"
-      ]
-     },
-     "DATE": {
-      "count": 13,
-      "values": [
-       "the 13th of March",
-       "the 13th of September",
-       "the equinoctial season",
-       "the 14th of March",
-       "Two months earlier",
-       "six months",
-       "the 15th of March",
-       "the 16th of March",
-       "the 18th of March",
-       "season",
-       "several days",
-       "to-day",
-       "the 19th of March"
-      ]
-     },
-     "CARDINAL": {
-      "count": 25,
-      "values": [
-       "55",
-       "twenty",
-       "a thousand",
-       "60",
-       "2",
-       "3",
-       "zero",
-       "one",
-       "5",
-       "51\u00b0 30",
-       "67",
-       "half",
-       "one to four",
-       "three",
-       "Only one",
-       "two",
-       "About ten",
-       "four hundred",
-       "90",
-       "about five hundred",
-       "About two",
-       "one thousand",
-       "only 200",
-       "between four and five hundred yards",
-       "About three"
-      ]
-     },
-     "GPE": {
-      "count": 5,
-      "values": [
-       "\u00b0",
-       "Conseil",
-       "New Shetland",
-       "South Orkney",
-       "Captain"
-      ]
-     },
-     "QUANTITY": {
-      "count": 22,
-      "values": [
-       "twenty-five feet long",
-       "fifty-fifth",
-       "one degree",
-       "200 feet",
-       "one degree higher",
-       "one foot",
-       "more than 300 feet",
-       "900 feet",
-       "thirty or",
-       "forty degrees",
-       "12\u00b0 below zero",
-       "about 900 feet",
-       "twelve degrees",
-       "fifty-second",
-       "twenty-two degrees and a half",
-       "twenty-six miles an hour",
-       "a thousand feet",
-       "three thousand feet",
-       "900 yards",
-       "only about fifty feet",
-       "One hundred and fifty feet",
-       "; mile"
-      ]
-     },
-     "PERSON": {
-      "count": 7,
-      "values": [
-       "Ned Land",
-       "Nemo",
-       "Captain Nemo",
-       "Detonations",
-       "Generally",
-       "M. Aronnax",
-       "Conseil"
-      ]
-     },
-     "TIME": {
-      "count": 10,
-      "values": [
-       "three or four hours",
-       "About eight o'clock on the morning of the 16th of March the Nautilus",
-       "noon",
-       "two o'clock in the afternoon",
-       "About four o'clock",
-       "forty hours",
-       "some hours",
-       "four hours ago",
-       "that night",
-       "six in the morning"
-      ]
-     },
-     "LANGUAGE": {
-      "count": 1,
-      "values": [
-       "English"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "mosques"
-      ]
-     },
-     "ORG": {
-      "count": 3,
-      "values": [
-       "Antarctic",
-       "S.",
-       " "
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--14--THE SOUTH POLE",
-    "sentimentScore": 0.9858,
-    "wordCount": 3527,
-    "entityMap": {
-     "CARDINAL": {
-      "count": 17,
-      "values": [
-       "3",
-       "zero",
-       "about three",
-       "two",
-       "77",
-       "one",
-       "thousands",
-       "half",
-       "some hundreds",
-       "hundreds",
-       "four",
-       "twelve",
-       "three",
-       "nine",
-       "a quarter to twelve",
-       "Twelve",
-       "one-sixth"
-      ]
-     },
-     "ORG": {
-      "count": 5,
-      "values": [
-       "\u00b0 C.",
-       " ",
-       "Maury",
-       "167th",
-       "Nature"
-      ]
-     },
-     "PRODUCT": {
-      "count": 3,
-      "values": [
-       "Captain",
-       "Nautilus",
-       "Captain Nemo"
-      ]
-     },
-     "TIME": {
-      "count": 16,
-      "values": [
-       "noon",
-       "One hour afterwards",
-       "two hours later",
-       "ten in the morning",
-       "five minutes",
-       "eleven",
-       "eight in the morning",
-       "Four hours",
-       "eleven o'clock",
-       "half-past eleven",
-       "five o'clock",
-       "five in the morning",
-       "the night",
-       "two hours",
-       "twelve o'clock",
-       "a night of"
-      ]
-     },
-     "QUANTITY": {
-      "count": 20,
-      "values": [
-       "About ten miles",
-       "one hundred and four yards",
-       "four or five miles",
-       "2,500 miles",
-       "several miles",
-       "quarter inches long",
-       "more than 1,000 yards",
-       "at least four yards",
-       "About half a mile",
-       "ten miles",
-       "half-light",
-       "about three yards",
-       "twenty feet",
-       "ten yards",
-       "Two miles",
-       "four yards",
-       "a hundred yards",
-       "some miles",
-       "about five hundred yards",
-       "half porphyry and half"
-      ]
-     },
-     "LOC": {
-      "count": 11,
-      "values": [
-       "the South Pole",
-       "the North Atlantic",
-       "Antarctic Circle",
-       "this South Pole",
-       "the Ferroe Islands",
-       "earth",
-       "Neptune",
-       "Breakfast",
-       "the Antarctic Pole",
-       "The South Pole",
-       "Captain"
-      ]
-     },
-     "GPE": {
-      "count": 2,
-      "values": [
-       "Conseil",
-       "Proteus"
-      ]
-     },
-     "PERSON": {
-      "count": 11,
-      "values": [
-       "Ned Land",
-       "Doubtless",
-       "Conseil",
-       "Captain Nemo",
-       "James Ross",
-       "Albatrosses",
-       "Noon",
-       "Amongst",
-       "Quieter",
-       "Nemo",
-       "M. Aronnax"
-      ]
-     },
-     "DATE": {
-      "count": 13,
-      "values": [
-       "morrow",
-       "the next day",
-       "The next day",
-       "the 20th of March",
-       "that day",
-       "the 21st",
-       "six months",
-       "September",
-       "December",
-       "this period",
-       "the 21st of March",
-       "this 21st day of March, 1868",
-       "the orb of day"
-      ]
-     },
-     "LANGUAGE": {
-      "count": 1,
-      "values": [
-       "English"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--16--WANT OF AIR",
-    "sentimentScore": -0.9979,
-    "wordCount": 3407,
-    "entityMap": {
-     "PRODUCT": {
-      "count": 4,
-      "values": [
-       "Nautilus",
-       "Captain",
-       "Captain Nemo",
-       "Vital"
-      ]
-     },
-     "ORG": {
-      "count": 4,
-      "values": [
-       " ",
-       "Rouquayrol",
-       "Despair",
-       "Dizziness"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 1,
-      "values": [
-       "Gentlemen"
-      ]
-     },
-     "CARDINAL": {
-      "count": 12,
-      "values": [
-       "two",
-       "saw a dozen",
-       "thirty",
-       "one",
-       "six",
-       "26",
-       "7\u00b0",
-       "100",
-       "at least 2",
-       "half",
-       "a thousand",
-       "Half"
-      ]
-     },
-     "DATE": {
-      "count": 14,
-      "values": [
-       "two days'",
-       "the port-quarter",
-       "four days",
-       "two days",
-       "this day",
-       "The next day",
-       "March 26th",
-       "morrow",
-       "March 22",
-       "five days",
-       "March 27th",
-       "that day",
-       "next day",
-       "the 28th of March"
-      ]
-     },
-     "TIME": {
-      "count": 19,
-      "values": [
-       "thirty-six hours",
-       "forty-eight hours",
-       "two hours",
-       "twelve hours",
-       "five nights",
-       "Five nights",
-       "the night",
-       "the morning",
-       "several hours",
-       "Towards evening",
-       "that evening",
-       "a few minutes",
-       "three hours",
-       "Two hours later",
-       "three o'clock",
-       "evening",
-       "some minutes",
-       "many hours",
-       "eleven in the morning"
-      ]
-     },
-     "LOC": {
-      "count": 2,
-      "values": [
-       "Captain",
-       " "
-      ]
-     },
-     "PERSON": {
-      "count": 8,
-      "values": [
-       "Captain Nemo",
-       " Ned",
-       "Ned",
-       "Ned Land",
-       "Nemo",
-       "Conseil",
-       "M. Aronnax",
-       "Yawns"
-      ]
-     },
-     "QUANTITY": {
-      "count": 22,
-      "values": [
-       "350 yards",
-       "fifteen yards",
-       "more than 400 yards",
-       "ten yards",
-       "about 6,000 cubic yards",
-       "eight yards",
-       "about 600 cubic yards",
-       "seven degrees below zero",
-       "at least four yards",
-       "ten feet",
-       "6\u00b0 below zero",
-       "One degree",
-       "4\u00b0",
-       "1\u00b0 below zero",
-       "six yards",
-       "twelve feet",
-       "Only two yards",
-       "Two yards",
-       "a hundred cubic yards",
-       "1,800 tons",
-       "forty miles",
-       "more than twenty feet"
-      ]
-     },
-     "GPE": {
-      "count": 2,
-      "values": [
-       "Conseil",
-       "\u00b0"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--17--FROM CAPE HORN TO THE AMAZON",
-    "sentimentScore": 0.9984,
-    "wordCount": 2362,
-    "entityMap": {
-     "CARDINAL": {
-      "count": 7,
-      "values": [
-       "two",
-       "one",
-       "dozens",
-       "thirty-seventh",
-       "half",
-       "One",
-       "less than twenty-seven square feet"
-      ]
-     },
-     "PERSON": {
-      "count": 10,
-      "values": [
-       "Conseil",
-       "Ned Land",
-       "Ned",
-       "Nemo",
-       "Captain Nemo",
-       "Cape Frio",
-       "Ned Land's",
-       "Antilles",
-       "Maroni",
-       "Toussenel"
-      ]
-     },
-     "PRODUCT": {
-      "count": 2,
-      "values": [
-       "Nautilus",
-       "Captain Nemo's"
-      ]
-     },
-     "GPE": {
-      "count": 10,
-      "values": [
-       "Conseil",
-       "America",
-       "Falkland",
-       "Patagonia",
-       "Japan",
-       "Brazil",
-       "the Cape Verde Islands",
-       "Guianas",
-       "Zoophytes",
-       "Florida"
-      ]
-     },
-     "TIME": {
-      "count": 7,
-      "values": [
-       "the last hours",
-       "seven o'clock in the evening",
-       "that evening",
-       "some minutes before noon",
-       "evening",
-       "About eleven o'clock in the morning",
-       "the evening"
-      ]
-     },
-     "LOC": {
-      "count": 9,
-      "values": [
-       "Pacific",
-       "the Atlantic Ocean",
-       "Asia",
-       "Cape Horn",
-       "North",
-       "Atlantic",
-       "South America",
-       "Cape San Roque",
-       "the Amazon River"
-      ]
-     },
-     "DATE": {
-      "count": 15,
-      "values": [
-       "March 31st",
-       "each day",
-       "The next day",
-       "April 1st",
-       "the following day",
-       "between twenty and twenty-five yards",
-       "the 3rd of April",
-       "several days",
-       "the 9th of April",
-       "two days",
-       "the 11th of April",
-       "the days",
-       "April 11th and 12th",
-       "April 12th",
-       "eighteen"
-      ]
-     },
-     "ORG": {
-      "count": 10,
-      "values": [
-       " ",
-       "Towards",
-       "Falklands",
-       "Uraguay",
-       "Cape",
-       "Sierra",
-       "the Lesser Antilles",
-       "Amazon",
-       "Surinam",
-       "the Rio de la Plata"
-      ]
-     },
-     "QUANTITY": {
-      "count": 15,
-      "values": [
-       "2,070 yards",
-       "only some few miles",
-       "about 300 yards",
-       "four feet long",
-       "1,600 miles",
-       "9,000 yards",
-       "three and a half miles",
-       "Twenty miles",
-       "fifteen inches",
-       "nine inches long",
-       "two anal",
-       "two yards",
-       "twenty ounces",
-       "twenty-one feet",
-       "at least sixteen"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 1,
-      "values": [
-       "the Tropic of Capricorn"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--18--THE POULPS",
-    "sentimentScore": -0.997,
-    "wordCount": 2484,
-    "entityMap": {
-     "DATE": {
-      "count": 7,
-      "values": [
-       "several days",
-       "April 16th",
-       "six months",
-       "these days",
-       "some years ago",
-       "1861",
-       "seven years"
-      ]
-     },
-     "ORG": {
-      "count": 6,
-      "values": [
-       "Nautilus",
-       " ",
-       "Olaus Magnus",
-       "Mass",
-       "Bishop",
-       "Alector"
-      ]
-     },
-     "LOC": {
-      "count": 4,
-      "values": [
-       "the Gulf of Mexico",
-       "Gulf",
-       "the Straits of Gibraltar",
-       "Captain"
-      ]
-     },
-     "PERSON": {
-      "count": 13,
-      "values": [
-       "Antilles",
-       "Martinique",
-       "Ned Land",
-       "Conseil",
-       "Ned",
-       "Aristotle",
-       "Paul Bos",
-       "Havre",
-       "Captain Bouguer",
-       "Bouguer",
-       "Captain Nemo",
-       "Naturalist",
-       "Nemo"
-      ]
-     },
-     "QUANTITY": {
-      "count": 8,
-      "values": [
-       "about thirty miles",
-       "nine feet two inches",
-       "more than four feet long",
-       "two yards",
-       "only six feet",
-       "twenty-seven feet long",
-       "about six yards",
-       "eight yards long"
-      ]
-     },
-     "CARDINAL": {
-      "count": 14,
-      "values": [
-       "one",
-       "17,000",
-       "One",
-       "five",
-       "eight",
-       "250",
-       "4,000 to 5,000",
-       "three",
-       "seven",
-       "about ten",
-       "two",
-       "twenty",
-       "Seven",
-       "Ten or twelve"
-      ]
-     },
-     "GPE": {
-      "count": 8,
-      "values": [
-       "Captain",
-       "Conseil",
-       "Bahamas",
-       "St. Malo",
-       "Pontoppidan",
-       "Trieste",
-       "Montpelier",
-       "Bouguer"
-      ]
-     },
-     "PRODUCT": {
-      "count": 4,
-      "values": [
-       "Nautilus",
-       "Alector",
-       "Creator",
-       "Captain"
-      ]
-     },
-     "TIME": {
-      "count": 3,
-      "values": [
-       "about eleven o'clock",
-       "A minute",
-       "a quarter of an hour"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 1,
-      "values": [
-       "Master Land"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--19--THE GULF STREAM",
-    "sentimentScore": -0.9992,
-    "wordCount": 2772,
-    "entityMap": {
-     "DATE": {
-      "count": 11,
-      "values": [
-       "the 20th of April",
-       "Ten days",
-       "the 1st of May",
-       "May 8th",
-       "Nearly seven months",
-       "some day",
-       "seven months",
-       "seven months ago",
-       "the 18th of May",
-       "December 23rd, 1864",
-       "1860"
-      ]
-     },
-     "GPE": {
-      "count": 17,
-      "values": [
-       "Conseil",
-       "France",
-       "Bahamas",
-       "New York",
-       "Boston",
-       "New",
-       "St. Lawrence",
-       "Quebec",
-       "Bending",
-       "yours----",
-       "Captain",
-       "try----",
-       "Long Island",
-       "Yeddo",
-       "Japan",
-       "America",
-       "Liverpool"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 2,
-      "values": [
-       "The Toilers of the Deep",
-       "Whatever Ned Land"
-      ]
-     },
-     "PERSON": {
-      "count": 11,
-      "values": [
-       "Nemo",
-       "Amongst",
-       "Cape Hatteras",
-       "Ned Land",
-       "Ned",
-       "Captain Nemo's",
-       "Captain Nemo",
-       "Resolved",
-       "M. Aronnax",
-       "Symptoms",
-       "Havre"
-      ]
-     },
-     "PRODUCT": {
-      "count": 2,
-      "values": [
-       "Nautilus",
-       "Captain"
-      ]
-     },
-     "CARDINAL": {
-      "count": 10,
-      "values": [
-       "one",
-       "1,500",
-       "One",
-       "two",
-       "twenty-four",
-       "8,400",
-       "seven-tenths",
-       "about twelve",
-       "about eight",
-       "more than twenty-five"
-      ]
-     },
-     "LOC": {
-      "count": 7,
-      "values": [
-       "the Bahama Canal",
-       "Atlantic",
-       "the Gulf of Mexico",
-       "the South Pole",
-       "North",
-       "Captain",
-       "Long Island"
-      ]
-     },
-     "ORG": {
-      "count": 8,
-      "values": [
-       "the Gulf Stream",
-       "the North Caroline",
-       "Union",
-       "Nova Scotia",
-       "the St. Lawrence",
-       "Hebrides",
-       "Gulf Stream",
-       " "
-      ]
-     },
-     "QUANTITY": {
-      "count": 9,
-      "values": [
-       "ten miles",
-       "two miles",
-       "seventy-five miles",
-       "210 yards",
-       "thirty miles",
-       "some miles",
-       "fifteen feet",
-       "150 to 175 yards",
-       "thirty feet"
-      ]
-     },
-     "TIME": {
-      "count": 5,
-      "values": [
-       "a half an hour",
-       "the night",
-       "About five o'clock",
-       "nearly forty leagues an hour",
-       "ten o'clock"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "the King of Tempests"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--20--FROM LATITUDE 47\u00b0 24' TO LONGITUDE 17\u00b0 28'",
-    "sentimentScore": -0.9847,
-    "wordCount": 1986,
-    "entityMap": {
-     "GPE": {
-      "count": 16,
-      "values": [
-       "New York",
-       "St. Lawrence",
-       "Conseil",
-       "Ireland",
-       "Newfoundland",
-       "Prussia",
-       "Austria",
-       "Sadowa",
-       "America",
-       "the British Isles",
-       "Liverpool",
-       "France",
-       "England",
-       "Grenada",
-       "the French Republic",
-       "Avenger"
-      ]
-     },
-     "PERSON": {
-      "count": 13,
-      "values": [
-       "Ned",
-       "Nemo",
-       "Conseil",
-       " ",
-       "Anderson",
-       "Mont Blanc",
-       "Glasgow",
-       "Ned Land",
-       "Captain Nemo",
-       "Remorse",
-       "La Poype-Ver",
-       "Estaing",
-       "Van Stebel"
-      ]
-     },
-     "PRODUCT": {
-      "count": 5,
-      "values": [
-       "Nautilus",
-       "Equator",
-       "Captain",
-       "Captain Nemo",
-       "Marseillais"
-      ]
-     },
-     "DATE": {
-      "count": 27,
-      "values": [
-       "some days",
-       "the 15th of May",
-       "the 17th of May",
-       "the years 1857 and 1858",
-       "1863",
-       "the 25th of May",
-       "the 13th of July, 1866",
-       "the 23rd of July",
-       "the 27th",
-       "the 28th of May",
-       "the 30th of May",
-       "the 31st of May",
-       "The next day",
-       "the 1st of June",
-       "the day before",
-       "many years",
-       "1762",
-       "1778",
-       "the 13th of August",
-       "1779",
-       "July",
-       "1781",
-       "the 5th of September",
-       "1794",
-       "the 16th of April",
-       "the same year",
-       "the 11th and 12th"
-      ]
-     },
-     "ORG": {
-      "count": 12,
-      "values": [
-       "the Bank of Newfoundland",
-       "the Gulf Stream",
-       "Newfoundland",
-       "Gulf Stream",
-       " ",
-       " \"Glory to God in the highest",
-       "Doubtless",
-       "Cape Clear",
-       "Manche",
-       "Land's End",
-       "the Scilly Isles",
-       "Villaret Joyeuse"
-      ]
-     },
-     "LOC": {
-      "count": 6,
-      "values": [
-       "the North Pole",
-       "the Great Eastern",
-       "Europe",
-       "the Emerald Isle",
-       "Chesapeake Bay",
-       "Brest"
-      ]
-     },
-     "CARDINAL": {
-      "count": 16,
-      "values": [
-       "millions",
-       "more than some hundreds",
-       "1,500",
-       "more than 1,400",
-       "about 400",
-       "more than 1,918",
-       "one",
-       "more than 2,212",
-       "thousands",
-       "more than 420",
-       "at least half",
-       "seventy-four",
-       "47",
-       "17",
-       "three",
-       "356"
-      ]
-     },
-     "QUANTITY": {
-      "count": 9,
-      "values": [
-       "about 500 miles",
-       "2,000 miles",
-       "4,500 tons",
-       "638 miles",
-       "more than 500 miles",
-       "about 100 miles",
-       "more than 2,000 yards",
-       "more than 120 miles",
-       "About eight miles"
-      ]
-     },
-     "TIME": {
-      "count": 5,
-      "values": [
-       "half-past two in the afternoon",
-       "eleven o'clock at night",
-       "noon",
-       "Some minutes",
-       "Some minutes later"
-      ]
-     },
-     "EVENT": {
-      "count": 3,
-      "values": [
-       "The Great Eastern",
-       "the Great Eastern",
-       "Prairal of the"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "Comte de Grasse"
-      ]
-     },
-     "LANGUAGE": {
-      "count": 1,
-      "values": [
-       "English"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--21--A HECATOMB",
-    "sentimentScore": -0.9993,
-    "wordCount": 3055,
-    "entityMap": {
-     "GPE": {
-      "count": 2,
-      "values": [
-       "Avenger",
-       "Conseil"
-      ]
-     },
-     "PRODUCT": {
-      "count": 3,
-      "values": [
-       "Captain",
-       "Nautilus",
-       "Captain Nemo"
-      ]
-     },
-     "LOC": {
-      "count": 5,
-      "values": [
-       " ",
-       "Captain",
-       "the Indian Ocean",
-       "the South Pole",
-       "Jupiter"
-      ]
-     },
-     "PERSON": {
-      "count": 13,
-      "values": [
-       "Captain Nemo",
-       "Avenger",
-       "I.  ",
-       "Ned Land",
-       "Ned",
-       "Conseil",
-       "Doubtless",
-       "Abraham Lincoln",
-       "Farragut",
-       "Terrible",
-       "Nemo",
-       "Strike",
-       "Paralysed"
-      ]
-     },
-     "ORG": {
-      "count": 1,
-      "values": [
-       " "
-      ]
-     },
-     "QUANTITY": {
-      "count": 6,
-      "values": [
-       "six miles",
-       "a mile",
-       "more than three miles",
-       "five or six miles",
-       "two miles",
-       "Ten yards"
-      ]
-     },
-     "DATE": {
-      "count": 3,
-      "values": [
-       "May",
-       "two or three days",
-       "day"
-      ]
-     },
-     "WORK_OF_ART": {
-      "count": 1,
-      "values": [
-       "Friend Ned"
-      ]
-     },
-     "TIME": {
-      "count": 9,
-      "values": [
-       "a quarter of an hour",
-       "some seconds",
-       "the night",
-       "before night",
-       "night",
-       "three in the morning",
-       "six in the morning",
-       "five o'clock",
-       "a few minutes the Nautilus"
-      ]
-     },
-     "CARDINAL": {
-      "count": 4,
-      "values": [
-       "two",
-       "One",
-       "About fifteen",
-       "About four"
-      ]
-     },
-     "LANGUAGE": {
-      "count": 2,
-      "values": [
-       "English",
-       "French"
-      ]
-     },
-     "FAC": {
-      "count": 1,
-      "values": [
-       "Mad"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--22--THE LAST WORDS OF CAPTAIN NEMO",
-    "sentimentScore": -0.9995,
-    "wordCount": 2473,
-    "entityMap": {
-     "PRODUCT": {
-      "count": 5,
-      "values": [
-       "Nautilus",
-       "Manche",
-       "Atlantis",
-       "the \"Navel of the Ocean",
-       "Captain"
-      ]
-     },
-     "QUANTITY": {
-      "count": 7,
-      "values": [
-       "a hundred feet",
-       "twenty-five miles an hour",
-       "thirty feet",
-       "twenty miles",
-       "more than fifty yards",
-       "twelve miles",
-       "the echo miles"
-      ]
-     },
-     "PERSON": {
-      "count": 10,
-      "values": [
-       "Whither",
-       "Ned",
-       "Nemo",
-       "Nova Zembla",
-       "Edgar Poe",
-       "Gordon Pym",
-       "Ned Land",
-       "Captain Nemo",
-       "Captain Nemo's",
-       "Abraham Lincoln"
-      ]
-     },
-     "GPE": {
-      "count": 8,
-      "values": [
-       "Conseil",
-       "Captain",
-       "the Island of Santorin",
-       "Cretan",
-       "Avenger",
-       "Norway",
-       "Ferroe",
-       "Loffoden"
-      ]
-     },
-     "CARDINAL": {
-      "count": 5,
-      "values": [
-       "eleven",
-       "two hundred",
-       "six",
-       "ten",
-       "two"
-      ]
-     },
-     "LOC": {
-      "count": 10,
-      "values": [
-       "Atlantic",
-       "moon",
-       "the North Atlantic",
-       "the White Sea",
-       "the Sea of Kara",
-       "the Gulf of Obi",
-       "Asia",
-       "the Torres Straits",
-       "Vigo Bay",
-       "the South Pole"
-      ]
-     },
-     "DATE": {
-      "count": 3,
-      "values": [
-       "that day",
-       "fifteen or twenty days",
-       "ten"
-      ]
-     },
-     "ORG": {
-      "count": 7,
-      "values": [
-       "Spitzbergen",
-       "the Archipelago of Liarrov",
-       " ",
-       "N.N.E.",
-       "Suez",
-       "the Gulf Stream",
-       "Voices"
-      ]
-     },
-     "TIME": {
-      "count": 9,
-      "values": [
-       "One morning",
-       "the early hours",
-       "To-night",
-       "this morning",
-       "half-past",
-       "hour",
-       "half-past nine",
-       "another half-hour",
-       "at least five minutes"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2--23--CONCLUSION",
-    "sentimentScore": 0.9301,
-    "wordCount": 476,
-    "entityMap": {
-     "TIME": {
-      "count": 1,
-      "values": [
-       "that night"
-      ]
-     },
-     "PERSON": {
-      "count": 3,
-      "values": [
-       "Ned Land",
-       "Captain Nemo",
-       "NEMO"
-      ]
-     },
-     "GPE": {
-      "count": 3,
-      "values": [
-       "Conseil",
-       "France",
-       "Norway"
-      ]
-     },
-     "LOC": {
-      "count": 2,
-      "values": [
-       "the Loffoden Isles",
-       "Cape North"
-      ]
-     },
-     "CARDINAL": {
-      "count": 2,
-      "values": [
-       "two",
-       "20,000"
-      ]
-     },
-     "DATE": {
-      "count": 6,
-      "values": [
-       "monthly",
-       "one day",
-       "less than ten months",
-       "May",
-       "ten months",
-       "three thousand years ago"
-      ]
-     },
-     "ORG": {
-      "count": 5,
-      "values": [
-       "Progress",
-       " ",
-       "Ecclesiastes",
-       "answer----",
-       "MYSELF"
-      ]
-     },
-     "PRODUCT": {
-      "count": 1,
-      "values": [
-       "Nautilus"
-      ]
-     }
-    }
-   },
-   {
-    "id": "b9-cP2-04",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2-04--THE RED SEA",
+    "id": "b10-c04",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "04--THE RED SEA",
     "sentimentScore": 0.9996,
     "wordCount": 3263,
     "entityMap": {
@@ -34553,9 +32621,9 @@
     }
    },
    {
-    "id": "b9-cP2-05",
-    "book": "Twenty-Thousand-Leagues-under-the-Sea",
-    "title": "P2-05--THE ARABIAN TUNNEL",
+    "id": "b10-c05",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "05--THE ARABIAN TUNNEL",
     "sentimentScore": 0.9903,
     "wordCount": 2379,
     "entityMap": {
@@ -34692,16 +32760,2484 @@
       ]
      }
     }
+   },
+   {
+    "id": "b10-c06",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "06--THE GRECIAN ARCHIPELAGO",
+    "sentimentScore": 0.9994,
+    "wordCount": 3055,
+    "entityMap": {
+     "DATE": {
+      "count": 16,
+      "values": [
+       "The next day",
+       "the 12th of February",
+       "each day",
+       "well six months",
+       "six months",
+       "this day",
+       "two years' time",
+       "two days'",
+       "the 14th of February",
+       "the nineteenth year",
+       "the year 69",
+       "the 3rd of February, 1866",
+       "Seven days",
+       "the 13th of February",
+       "the 10th of March",
+       "the 16th of February"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "the dawn",
+       "About seven o'clock",
+       "this very night",
+       "a few minutes",
+       "some hours",
+       "that moment",
+       "Two hours",
+       "the night",
+       "five o'clock"
+      ]
+     },
+     "PRODUCT": {
+      "count": 5,
+      "values": [
+       "Nautilus",
+       "Captain",
+       "the Polar Seas",
+       "Captain Nemo",
+       "Sporades"
+      ]
+     },
+     "QUANTITY": {
+      "count": 7,
+      "values": [
+       "Three miles",
+       "sixty feet",
+       "Forty-two degrees",
+       "ten yards",
+       "300 feet",
+       "30 feet",
+       "A quarter of an hour"
+      ]
+     },
+     "CARDINAL": {
+      "count": 9,
+      "values": [
+       "one",
+       "three",
+       "Only one",
+       "just one",
+       "more than a thousand",
+       "more than 4,000",
+       "Four",
+       "millions",
+       "about 1,500"
+      ]
+     },
+     "GPE": {
+      "count": 14,
+      "values": [
+       "Ned",
+       "Conseil",
+       "China",
+       "France",
+       "England",
+       "America",
+       "     ",
+       "Rhodes",
+       "Captain",
+       "Cassiodorus",
+       "Plutonian",
+       "The Island of Aphroessa",
+       "Alexandria",
+       "Cerigo"
+      ]
+     },
+     "PERSON": {
+      "count": 22,
+      "values": [
+       "Naturalist",
+       "Ned",
+       "Conseil",
+       "Said",
+       "Captain Nemo's",
+       "Friend Ned",
+       "Ned Land",
+       "M. Aronnax",
+       "Ned Land's",
+       "Captain Nemo",
+       "Nemo",
+       "Virgil",
+       "Est",
+       "     Caeruleus",
+       "Abraham Lincoln",
+       "Nicholas of Cape Matapan",
+       "Pesca",
+       "Saying",
+       "George Island",
+       "Nea Kamenni",
+       "Reka",
+       "Cape Matapan"
+      ]
+     },
+     "LOC": {
+      "count": 8,
+      "values": [
+       "Mediterranean",
+       "Europe",
+       "Oceania",
+       "Asia Minor",
+       "the Island of Carpathos",
+       "Proteus",
+       "the Island of Scarpanto",
+       "Captain"
+      ]
+     },
+     "ORG": {
+      "count": 15,
+      "values": [
+       "Port",
+       " ",
+       "Proteus",
+       "Neptune",
+       "Archipelago",
+       "Candia",
+       "Isle of Crete",
+       "Cyclades",
+       "Crete",
+       "Modern Greece",
+       "Whereupon",
+       "Pliny",
+       "Theia",
+       "the Island of Aphroessa",
+       "the Grecian Archipelago"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Near the Island of Santorin"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c07",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "07--THE MEDITERRANEAN IN FORTY-EIGHT HOURS",
+    "sentimentScore": 0.9893,
+    "wordCount": 1090,
+    "entityMap": {
+     "LOC": {
+      "count": 10,
+      "values": [
+       "Mediterranean",
+       "Neptune",
+       "Straits",
+       "Africa",
+       "Europe",
+       "Messina",
+       "the Straits of Lybia",
+       "Cape",
+       "Atlantic",
+       "the Straits of Gibraltar"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Hebrews"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Greeks",
+       "Nemo",
+       "Captain Nemo",
+       "Ned Land",
+       "Cape Bon",
+       "Conseil",
+       "M. Lesseps"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Michelet",
+       "Smith",
+       "the Straits of Gibraltar",
+       "Pliny"
+      ]
+     },
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "one",
+       "about six hundred",
+       "more than nine",
+       "ninety",
+       "two",
+       "some hundreds of thousands",
+       "1,450"
+      ]
+     },
+     "QUANTITY": {
+      "count": 3,
+      "values": [
+       "two million of square yards",
+       "twenty-five miles an hour",
+       "twelve or thirteen yards"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Nautilus"
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "forty-eight hours",
+       "the morning of the 16th of February",
+       "night",
+       "the night of the 16th and 17th",
+       "about three o'clock in the morning",
+       "a few minutes later"
+      ]
+     },
+     "GPE": {
+      "count": 7,
+      "values": [
+       "Greece",
+       "Sicily",
+       "Conseil",
+       "Cape Furina",
+       "Gibraltar",
+       "Ceuta",
+       "Hercules"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "the 18th",
+       "one day",
+       "the first days",
+       "every century",
+       "February",
+       "the 18th of February"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c08",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "08--VIGO BAY",
+    "sentimentScore": 0.9957,
+    "wordCount": 3282,
+    "entityMap": {
+     "LOC": {
+      "count": 8,
+      "values": [
+       "Atlantic",
+       "Mississippi",
+       "the Cape of Tempests",
+       "Cape St. Vincent",
+       "Mediterranean",
+       " ",
+       "Captain",
+       "Vigo Bay"
+      ]
+     },
+     "CARDINAL": {
+      "count": 16,
+      "values": [
+       "twenty-five millions of square miles",
+       "two thousand seven hundred",
+       "two",
+       "nearly ten thousand",
+       "hundred",
+       "A hundred and twenty minutes",
+       "eight",
+       "half",
+       "one",
+       "twenty-three",
+       "those millions",
+       "two millions",
+       "thousand",
+       "five hundred millions",
+       "Five hundred millions",
+       "less than the thousands"
+      ]
+     },
+     "QUANTITY": {
+      "count": 8,
+      "values": [
+       "nine thousand miles",
+       "about twelve miles",
+       "a few miles",
+       "ten",
+       "about sixty feet",
+       "half a mile",
+       "half-rotten barrels",
+       "millions"
+      ]
+     },
+     "ORG": {
+      "count": 16,
+      "values": [
+       "the St. Lawrence",
+       "Amazon",
+       "Plata",
+       "the Straits of Gibraltar",
+       " ",
+       "Twice",
+       "Hours",
+       "Nature",
+       "Canadian",
+       "Philip V",
+       "Cadiz",
+       "Vigo Bay",
+       "Vigo",
+       "the Spanish Government",
+       "Doubtless",
+       "Crete"
+      ]
+     },
+     "GPE": {
+      "count": 16,
+      "values": [
+       "Orinoco",
+       "Niger",
+       "Senegal",
+       "Conseil",
+       "Portugal",
+       "France",
+       "England",
+       "the Island of Santorin",
+       "Spain",
+       "Captain",
+       "Holland",
+       "Austria",
+       "Hague",
+       "America",
+       "Madrid",
+       "Vigo"
+      ]
+     },
+     "PERSON": {
+      "count": 14,
+      "values": [
+       "Cape Horn",
+       "Ned Land",
+       "Friend Ned",
+       "Captain Nemo",
+       "M. Aronnax",
+       "Conseil",
+       "Nemo",
+       "Ned Land's",
+       "Louis XIV",
+       "Charles III",
+       "Chateau-Renaud",
+       "Philip",
+       "Incas",
+       "Ferdinand Cortez"
+      ]
+     },
+     "PRODUCT": {
+      "count": 3,
+      "values": [
+       "Nautilus",
+       "Captain",
+       "Captain Nemo"
+      ]
+     },
+     "DATE": {
+      "count": 10,
+      "values": [
+       "three months and a half",
+       "daily",
+       "morrow",
+       "This day",
+       "so many days",
+       "1702",
+       "the preceding year",
+       "about the end of 1702",
+       "the 22nd of October, 1702",
+       "now"
+      ]
+     },
+     "TIME": {
+      "count": 6,
+      "values": [
+       "To-night",
+       "nine o'clock",
+       "to-night",
+       "eleven o'clock",
+       "seven o'clock",
+       "a few minutes to nine"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Barren"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c09",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "09--A VANISHED CONTINENT",
+    "sentimentScore": -0.6761,
+    "wordCount": 2939,
+    "entityMap": {
+     "TIME": {
+      "count": 14,
+      "values": [
+       "The next morning",
+       "the hour",
+       "the preceding night",
+       "noon",
+       "about half-past",
+       "eleven",
+       "That night",
+       "about eleven o'clock",
+       "some minutes later",
+       "half an hour",
+       "Two hours",
+       "a few minutes",
+       "an hour",
+       "this moment"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "the 19th of February",
+       "yesterday",
+       "_"
+      ]
+     },
+     "PERSON": {
+      "count": 14,
+      "values": [
+       "Ned",
+       "Vigo",
+       "Ned Land",
+       "Nemo",
+       "M. Aronnax",
+       "Captain Nemo",
+       " ",
+       "Whither",
+       "Captain Nemo's",
+       "Pompeii",
+       "Atlantides",
+       "Greeks",
+       "Whilst",
+       "Rapid"
+      ]
+     },
+     "GPE": {
+      "count": 10,
+      "values": [
+       "Captain",
+       "necessary----",
+       "Conseil",
+       "San Roque",
+       "Ned or Conseil",
+       "Medusae",
+       "Parthenon",
+       "Humbolt",
+       "Lybia",
+       "Hercules"
+      ]
+     },
+     "ORG": {
+      "count": 10,
+      "values": [
+       "State",
+       " ",
+       "_",
+       "Picture",
+       "Hartz",
+       "Rapid",
+       "Vesuvius",
+       "Greco",
+       "ATLANTIS",
+       "Origen"
+      ]
+     },
+     "PRODUCT": {
+      "count": 4,
+      "values": [
+       "Captain",
+       "Nautilus",
+       "  ",
+       "Atlantis"
+      ]
+     },
+     "LOC": {
+      "count": 5,
+      "values": [
+       "Europe",
+       "Atlantic",
+       " ",
+       "Asia",
+       "the moon"
+      ]
+     },
+     "CARDINAL": {
+      "count": 8,
+      "values": [
+       "16",
+       "33",
+       "150",
+       "one",
+       "millions",
+       "Millions",
+       "more than seven",
+       "thousand"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Midnight"
+      ]
+     },
+     "QUANTITY": {
+      "count": 6,
+      "values": [
+       "about two miles",
+       "about 800 feet",
+       "a hundred feet",
+       "ten yards",
+       "eight hundred feet",
+       "fifty feet"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c10",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "10--THE SUBMARINE COAL-MINES",
+    "sentimentScore": 0.9988,
+    "wordCount": 2725,
+    "entityMap": {
+     "DATE": {
+      "count": 5,
+      "values": [
+       "The next day",
+       "the 20th of February",
+       "the next day",
+       "many ages",
+       "the spring"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "the previous night",
+       "eleven o'clock",
+       "About four o'clock",
+       "this moment",
+       "a few hours",
+       "eight o'clock",
+       "and night",
+       "Wait a few minutes",
+       "about ten o'clock",
+       "Half an hour"
+      ]
+     },
+     "PRODUCT": {
+      "count": 4,
+      "values": [
+       "Nautilus",
+       "Atlantis",
+       "Captain",
+       "Captain Nemo"
+      ]
+     },
+     "QUANTITY": {
+      "count": 13,
+      "values": [
+       "twenty miles an hour",
+       "five yards",
+       "one fifteen feet",
+       "some about three yards",
+       "two miles",
+       "five or six hundred yards",
+       "opens about ten yards",
+       "five hundred feet",
+       "about 31 feet",
+       "two hundred and fifty feet",
+       "several pounds",
+       "more than eight hundred feet",
+       "a few yards"
+      ]
+     },
+     "CARDINAL": {
+      "count": 9,
+      "values": [
+       "fifty",
+       "one",
+       "six",
+       "two",
+       "half",
+       "some thousands",
+       "twenty",
+       "thousands",
+       "Three-quarters"
+      ]
+     },
+     "PERSON": {
+      "count": 9,
+      "values": [
+       "Amongst",
+       "Captain Nemo",
+       "M. Aronnax",
+       "Conseil",
+       "Ned Land",
+       "Ned",
+       "Deep",
+       "Perfume",
+       "Pon"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "Conseil",
+       "Aristotle",
+       "the Cape Verde Islands",
+       "Newcastle",
+       "Captain"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Canaries",
+       " ",
+       "the Great Architect",
+       "Transcriber's Note"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Underground"
+      ]
+     },
+     "LOC": {
+      "count": 3,
+      "values": [
+       "earth",
+       "Atlantic",
+       "Neptune"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c11",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "11--THE SARGASSO SEA",
+    "sentimentScore": 0.9957,
+    "wordCount": 1678,
+    "entityMap": {
+     "DATE": {
+      "count": 14,
+      "values": [
+       "That day",
+       "no less than three years",
+       "one day",
+       "February",
+       "nineteen days",
+       "the 23rd of February",
+       "the 12th of March",
+       "the middle of the Atlantic",
+       "four months'",
+       "the nineteen days",
+       "whole days",
+       "One day",
+       "the 13th of March",
+       "that day"
+      ]
+     },
+     "PRODUCT": {
+      "count": 5,
+      "values": [
+       "Nautilus",
+       "Captain Nemo",
+       "Sargasso",
+       "S.",
+       "Captain"
+      ]
+     },
+     "LOC": {
+      "count": 8,
+      "values": [
+       "the Atlantic Ocean",
+       "the Gulf of Mexico",
+       "the Sargasso Sea",
+       "Atlantic",
+       "Andes",
+       "the Rocky Mountains",
+       "Pacific",
+       "the Cape of Good Hope"
+      ]
+     },
+     "ORG": {
+      "count": 8,
+      "values": [
+       "the Gulf Stream",
+       "the Gulf of Florida",
+       "Spitzbergen",
+       " ",
+       "Maury",
+       "Amazon",
+       "Herald",
+       "Congress"
+      ]
+     },
+     "CARDINAL": {
+      "count": 14,
+      "values": [
+       "about 45",
+       "two",
+       "one",
+       "hundred",
+       "about 13,000",
+       "45",
+       "37",
+       "53",
+       "7,000",
+       "15,140",
+       "four",
+       "1,600",
+       "3,200",
+       "two-fifths"
+      ]
+     },
+     "GPE": {
+      "count": 6,
+      "values": [
+       "\u00b0",
+       "Ireland",
+       "Norway",
+       "Mississippi",
+       "Captain",
+       "India"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "N.",
+       "Antilles",
+       "Place",
+       "Nemo",
+       "Cape Horn",
+       "Ned Land",
+       "Captain Nemo",
+       "Denham",
+       "Lieutenant Parker",
+       "Mont Blanc",
+       "Captain Nemo's"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "Nature"
+      ]
+     },
+     "TIME": {
+      "count": 4,
+      "values": [
+       "twenty-four hours",
+       "night",
+       "a few seconds",
+       "four minutes"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Himalayas"
+      ]
+     },
+     "QUANTITY": {
+      "count": 1,
+      "values": [
+       "16,000 yards"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c12",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "12--CACHALOTS AND WHALES",
+    "sentimentScore": -0.9969,
+    "wordCount": 2944,
+    "entityMap": {
+     "TIME": {
+      "count": 6,
+      "values": [
+       "the nights of the 13th",
+       "every twenty-four hours",
+       "one hour",
+       "twenty-four hours",
+       "About eleven in the morning",
+       "A few minutes afterwards"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "14th of March",
+       "the 14th of March",
+       "that day",
+       "the bright days",
+       "The month of October",
+       "one day"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Nautilus",
+       "Captain"
+      ]
+     },
+     "PERSON": {
+      "count": 14,
+      "values": [
+       "Cape Horn",
+       "Ned Land's",
+       "Ned",
+       "Ned Land",
+       "Conseil",
+       "Davis Straits",
+       "Hullamoch",
+       "Captain Nemo's",
+       "Nemo",
+       "Captain Nemo",
+       "M. Aronnax",
+       "Mouth",
+       "Better",
+       "Fredol"
+      ]
+     },
+     "LOC": {
+      "count": 7,
+      "values": [
+       "Pacific",
+       "Captain",
+       "the Aleutian Islands",
+       "Sailor",
+       " ",
+       "the Red Sea",
+       "North Cape"
+      ]
+     },
+     "GPE": {
+      "count": 9,
+      "values": [
+       "Conseil",
+       "Speak",
+       "Looking",
+       "Behring",
+       "Davis Straits",
+       "Greenland",
+       "Whales",
+       "Sinbad",
+       "Baffin"
+      ]
+     },
+     "CARDINAL": {
+      "count": 15,
+      "values": [
+       "ten",
+       "twenty-four",
+       "480",
+       "625",
+       "Six hundred and twenty-five",
+       "three",
+       "one",
+       "two",
+       "two or three hundred",
+       "more than seventy-five feet long",
+       "one-third",
+       "twenty-five",
+       "One",
+       "seven",
+       "Two"
+      ]
+     },
+     "QUANTITY": {
+      "count": 16,
+      "values": [
+       "twenty gallons",
+       "480 gallons",
+       "1,500 tons",
+       "one ton",
+       "200 gallons",
+       "300,000 gallons",
+       "five miles",
+       "a hundred feet",
+       "a hundred and fifty feet long",
+       "about eight miles",
+       "about eight inches long",
+       "two pounds",
+       "six to eight hundred pounds",
+       "ten or twelve",
+       "several miles",
+       "about two or three tons"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       " ",
+       "Confound",
+       "Asiatic",
+       "Umgallick"
+      ]
+     },
+     "FAC": {
+      "count": 2,
+      "values": [
+       "fire----",
+       "Bay"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "Master Land",
+       "Master Land's"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c13",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "13--THE ICEBERG",
+    "sentimentScore": 0.9787,
+    "wordCount": 3156,
+    "entityMap": {
+     "PRODUCT": {
+      "count": 3,
+      "values": [
+       "Nautilus",
+       "Captain Nemo",
+       "Captain"
+      ]
+     },
+     "LOC": {
+      "count": 9,
+      "values": [
+       "Antarctic",
+       "the Arctic Seas",
+       "earth",
+       "Captain",
+       "South",
+       "the South Pole",
+       "North",
+       "the Southern Ocean",
+       "the Antarctic Ocean"
+      ]
+     },
+     "DATE": {
+      "count": 13,
+      "values": [
+       "the 13th of March",
+       "the 13th of September",
+       "the equinoctial season",
+       "the 14th of March",
+       "Two months earlier",
+       "six months",
+       "the 15th of March",
+       "the 16th of March",
+       "the 18th of March",
+       "season",
+       "several days",
+       "to-day",
+       "the 19th of March"
+      ]
+     },
+     "CARDINAL": {
+      "count": 25,
+      "values": [
+       "55",
+       "twenty",
+       "a thousand",
+       "60",
+       "2",
+       "3",
+       "zero",
+       "one",
+       "5",
+       "51\u00b0 30",
+       "67",
+       "half",
+       "one to four",
+       "three",
+       "Only one",
+       "two",
+       "About ten",
+       "four hundred",
+       "90",
+       "about five hundred",
+       "About two",
+       "one thousand",
+       "only 200",
+       "between four and five hundred yards",
+       "About three"
+      ]
+     },
+     "GPE": {
+      "count": 5,
+      "values": [
+       "\u00b0",
+       "Conseil",
+       "New Shetland",
+       "South Orkney",
+       "Captain"
+      ]
+     },
+     "QUANTITY": {
+      "count": 22,
+      "values": [
+       "twenty-five feet long",
+       "fifty-fifth",
+       "one degree",
+       "200 feet",
+       "one degree higher",
+       "one foot",
+       "more than 300 feet",
+       "900 feet",
+       "thirty or",
+       "forty degrees",
+       "12\u00b0 below zero",
+       "about 900 feet",
+       "twelve degrees",
+       "fifty-second",
+       "twenty-two degrees and a half",
+       "twenty-six miles an hour",
+       "a thousand feet",
+       "three thousand feet",
+       "900 yards",
+       "only about fifty feet",
+       "One hundred and fifty feet",
+       "; mile"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Ned Land",
+       "Nemo",
+       "Captain Nemo",
+       "Detonations",
+       "Generally",
+       "M. Aronnax",
+       "Conseil"
+      ]
+     },
+     "TIME": {
+      "count": 10,
+      "values": [
+       "three or four hours",
+       "About eight o'clock on the morning of the 16th of March the Nautilus",
+       "noon",
+       "two o'clock in the afternoon",
+       "About four o'clock",
+       "forty hours",
+       "some hours",
+       "four hours ago",
+       "that night",
+       "six in the morning"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "mosques"
+      ]
+     },
+     "ORG": {
+      "count": 3,
+      "values": [
+       "Antarctic",
+       "S.",
+       " "
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c14",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "14--THE SOUTH POLE",
+    "sentimentScore": 0.9858,
+    "wordCount": 3527,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 17,
+      "values": [
+       "3",
+       "zero",
+       "about three",
+       "two",
+       "77",
+       "one",
+       "thousands",
+       "half",
+       "some hundreds",
+       "hundreds",
+       "four",
+       "twelve",
+       "three",
+       "nine",
+       "a quarter to twelve",
+       "Twelve",
+       "one-sixth"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "\u00b0 C.",
+       " ",
+       "Maury",
+       "167th",
+       "Nature"
+      ]
+     },
+     "PRODUCT": {
+      "count": 3,
+      "values": [
+       "Captain",
+       "Nautilus",
+       "Captain Nemo"
+      ]
+     },
+     "TIME": {
+      "count": 16,
+      "values": [
+       "noon",
+       "One hour afterwards",
+       "two hours later",
+       "ten in the morning",
+       "five minutes",
+       "eleven",
+       "eight in the morning",
+       "Four hours",
+       "eleven o'clock",
+       "half-past eleven",
+       "five o'clock",
+       "five in the morning",
+       "the night",
+       "two hours",
+       "twelve o'clock",
+       "a night of"
+      ]
+     },
+     "QUANTITY": {
+      "count": 20,
+      "values": [
+       "About ten miles",
+       "one hundred and four yards",
+       "four or five miles",
+       "2,500 miles",
+       "several miles",
+       "quarter inches long",
+       "more than 1,000 yards",
+       "at least four yards",
+       "About half a mile",
+       "ten miles",
+       "half-light",
+       "about three yards",
+       "twenty feet",
+       "ten yards",
+       "Two miles",
+       "four yards",
+       "a hundred yards",
+       "some miles",
+       "about five hundred yards",
+       "half porphyry and half"
+      ]
+     },
+     "LOC": {
+      "count": 11,
+      "values": [
+       "the South Pole",
+       "the North Atlantic",
+       "Antarctic Circle",
+       "this South Pole",
+       "the Ferroe Islands",
+       "earth",
+       "Neptune",
+       "Breakfast",
+       "the Antarctic Pole",
+       "The South Pole",
+       "Captain"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Conseil",
+       "Proteus"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Ned Land",
+       "Doubtless",
+       "Conseil",
+       "Captain Nemo",
+       "James Ross",
+       "Albatrosses",
+       "Noon",
+       "Amongst",
+       "Quieter",
+       "Nemo",
+       "M. Aronnax"
+      ]
+     },
+     "DATE": {
+      "count": 13,
+      "values": [
+       "morrow",
+       "the next day",
+       "The next day",
+       "the 20th of March",
+       "that day",
+       "the 21st",
+       "six months",
+       "September",
+       "December",
+       "this period",
+       "the 21st of March",
+       "this 21st day of March, 1868",
+       "the orb of day"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c15",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "15--ACCIDENT OR INCIDENT",
+    "sentimentScore": 0.9911,
+    "wordCount": 2171,
+    "entityMap": {
+     "DATE": {
+      "count": 3,
+      "values": [
+       "The next day",
+       "the 22nd of March",
+       "the six winter months"
+      ]
+     },
+     "TIME": {
+      "count": 11,
+      "values": [
+       "six in the morning",
+       "night",
+       "three in the morning",
+       "twenty minutes",
+       "minutes",
+       "Ten minutes",
+       "five in the morning",
+       "some hours",
+       "Some hours",
+       "that minutes",
+       "twenty-five minutes past eight"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       "Southern Cross",
+       "Antarctic",
+       "Confound",
+       " "
+      ]
+     },
+     "CARDINAL": {
+      "count": 6,
+      "values": [
+       "120 below zero",
+       "more than 180",
+       "one",
+       "two",
+       "about a hundred and fifty feet",
+       "A quarter of an"
+      ]
+     },
+     "PERSON": {
+      "count": 7,
+      "values": [
+       "Doubtless",
+       "Captain Nemo",
+       "Ned Land",
+       "Conseil",
+       "Nemo",
+       "Ned",
+       "Saying"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Nautilus",
+       "Beneath"
+      ]
+     },
+     "QUANTITY": {
+      "count": 7,
+      "values": [
+       "1,000 feet",
+       "fifteen miles an hour",
+       "about ten yards",
+       "ice more than twenty yards",
+       "some hundreds of yards",
+       "more than three hundred yards",
+       "twenty miles an hour"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Conseil",
+       "Torres Straits"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "the Torres Straits",
+       "Captain"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "May I ask"
+      ]
+     },
+     "EVENT": {
+      "count": 1,
+      "values": [
+       "the Great Submarine Depths"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c16",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "16--WANT OF AIR",
+    "sentimentScore": -0.9979,
+    "wordCount": 3407,
+    "entityMap": {
+     "PRODUCT": {
+      "count": 4,
+      "values": [
+       "Nautilus",
+       "Captain",
+       "Captain Nemo",
+       "Vital"
+      ]
+     },
+     "ORG": {
+      "count": 4,
+      "values": [
+       " ",
+       "Rouquayrol",
+       "Despair",
+       "Dizziness"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Gentlemen"
+      ]
+     },
+     "CARDINAL": {
+      "count": 12,
+      "values": [
+       "two",
+       "saw a dozen",
+       "thirty",
+       "one",
+       "six",
+       "26",
+       "7\u00b0",
+       "100",
+       "at least 2",
+       "half",
+       "a thousand",
+       "Half"
+      ]
+     },
+     "DATE": {
+      "count": 14,
+      "values": [
+       "two days'",
+       "the port-quarter",
+       "four days",
+       "two days",
+       "this day",
+       "The next day",
+       "March 26th",
+       "morrow",
+       "March 22",
+       "five days",
+       "March 27th",
+       "that day",
+       "next day",
+       "the 28th of March"
+      ]
+     },
+     "TIME": {
+      "count": 19,
+      "values": [
+       "thirty-six hours",
+       "forty-eight hours",
+       "two hours",
+       "twelve hours",
+       "five nights",
+       "Five nights",
+       "the night",
+       "the morning",
+       "several hours",
+       "Towards evening",
+       "that evening",
+       "a few minutes",
+       "three hours",
+       "Two hours later",
+       "three o'clock",
+       "evening",
+       "some minutes",
+       "many hours",
+       "eleven in the morning"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "Captain",
+       " "
+      ]
+     },
+     "PERSON": {
+      "count": 8,
+      "values": [
+       "Captain Nemo",
+       " Ned",
+       "Ned",
+       "Ned Land",
+       "Nemo",
+       "Conseil",
+       "M. Aronnax",
+       "Yawns"
+      ]
+     },
+     "QUANTITY": {
+      "count": 22,
+      "values": [
+       "350 yards",
+       "fifteen yards",
+       "more than 400 yards",
+       "ten yards",
+       "about 6,000 cubic yards",
+       "eight yards",
+       "about 600 cubic yards",
+       "seven degrees below zero",
+       "at least four yards",
+       "ten feet",
+       "6\u00b0 below zero",
+       "One degree",
+       "4\u00b0",
+       "1\u00b0 below zero",
+       "six yards",
+       "twelve feet",
+       "Only two yards",
+       "Two yards",
+       "a hundred cubic yards",
+       "1,800 tons",
+       "forty miles",
+       "more than twenty feet"
+      ]
+     },
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Conseil",
+       "\u00b0"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c17",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "17--FROM CAPE HORN TO THE AMAZON",
+    "sentimentScore": 0.9984,
+    "wordCount": 2362,
+    "entityMap": {
+     "CARDINAL": {
+      "count": 7,
+      "values": [
+       "two",
+       "one",
+       "dozens",
+       "thirty-seventh",
+       "half",
+       "One",
+       "less than twenty-seven square feet"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Conseil",
+       "Ned Land",
+       "Ned",
+       "Nemo",
+       "Captain Nemo",
+       "Cape Frio",
+       "Ned Land's",
+       "Antilles",
+       "Maroni",
+       "Toussenel"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Nautilus",
+       "Captain Nemo's"
+      ]
+     },
+     "GPE": {
+      "count": 10,
+      "values": [
+       "Conseil",
+       "America",
+       "Falkland",
+       "Patagonia",
+       "Japan",
+       "Brazil",
+       "the Cape Verde Islands",
+       "Guianas",
+       "Zoophytes",
+       "Florida"
+      ]
+     },
+     "TIME": {
+      "count": 7,
+      "values": [
+       "the last hours",
+       "seven o'clock in the evening",
+       "that evening",
+       "some minutes before noon",
+       "evening",
+       "About eleven o'clock in the morning",
+       "the evening"
+      ]
+     },
+     "LOC": {
+      "count": 9,
+      "values": [
+       "Pacific",
+       "the Atlantic Ocean",
+       "Asia",
+       "Cape Horn",
+       "North",
+       "Atlantic",
+       "South America",
+       "Cape San Roque",
+       "the Amazon River"
+      ]
+     },
+     "DATE": {
+      "count": 15,
+      "values": [
+       "March 31st",
+       "each day",
+       "The next day",
+       "April 1st",
+       "the following day",
+       "between twenty and twenty-five yards",
+       "the 3rd of April",
+       "several days",
+       "the 9th of April",
+       "two days",
+       "the 11th of April",
+       "the days",
+       "April 11th and 12th",
+       "April 12th",
+       "eighteen"
+      ]
+     },
+     "ORG": {
+      "count": 10,
+      "values": [
+       " ",
+       "Towards",
+       "Falklands",
+       "Uraguay",
+       "Cape",
+       "Sierra",
+       "the Lesser Antilles",
+       "Amazon",
+       "Surinam",
+       "the Rio de la Plata"
+      ]
+     },
+     "QUANTITY": {
+      "count": 15,
+      "values": [
+       "2,070 yards",
+       "only some few miles",
+       "about 300 yards",
+       "four feet long",
+       "1,600 miles",
+       "9,000 yards",
+       "three and a half miles",
+       "Twenty miles",
+       "fifteen inches",
+       "nine inches long",
+       "two anal",
+       "two yards",
+       "twenty ounces",
+       "twenty-one feet",
+       "at least sixteen"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "the Tropic of Capricorn"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c18",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "18--THE POULPS",
+    "sentimentScore": -0.997,
+    "wordCount": 2484,
+    "entityMap": {
+     "DATE": {
+      "count": 7,
+      "values": [
+       "several days",
+       "April 16th",
+       "six months",
+       "these days",
+       "some years ago",
+       "1861",
+       "seven years"
+      ]
+     },
+     "ORG": {
+      "count": 6,
+      "values": [
+       "Nautilus",
+       " ",
+       "Olaus Magnus",
+       "Mass",
+       "Bishop",
+       "Alector"
+      ]
+     },
+     "LOC": {
+      "count": 4,
+      "values": [
+       "the Gulf of Mexico",
+       "Gulf",
+       "the Straits of Gibraltar",
+       "Captain"
+      ]
+     },
+     "PERSON": {
+      "count": 13,
+      "values": [
+       "Antilles",
+       "Martinique",
+       "Ned Land",
+       "Conseil",
+       "Ned",
+       "Aristotle",
+       "Paul Bos",
+       "Havre",
+       "Captain Bouguer",
+       "Bouguer",
+       "Captain Nemo",
+       "Naturalist",
+       "Nemo"
+      ]
+     },
+     "QUANTITY": {
+      "count": 8,
+      "values": [
+       "about thirty miles",
+       "nine feet two inches",
+       "more than four feet long",
+       "two yards",
+       "only six feet",
+       "twenty-seven feet long",
+       "about six yards",
+       "eight yards long"
+      ]
+     },
+     "CARDINAL": {
+      "count": 14,
+      "values": [
+       "one",
+       "17,000",
+       "One",
+       "five",
+       "eight",
+       "250",
+       "4,000 to 5,000",
+       "three",
+       "seven",
+       "about ten",
+       "two",
+       "twenty",
+       "Seven",
+       "Ten or twelve"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Captain",
+       "Conseil",
+       "Bahamas",
+       "St. Malo",
+       "Pontoppidan",
+       "Trieste",
+       "Montpelier",
+       "Bouguer"
+      ]
+     },
+     "PRODUCT": {
+      "count": 4,
+      "values": [
+       "Nautilus",
+       "Alector",
+       "Creator",
+       "Captain"
+      ]
+     },
+     "TIME": {
+      "count": 3,
+      "values": [
+       "about eleven o'clock",
+       "A minute",
+       "a quarter of an hour"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Master Land"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c19",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "19--THE GULF STREAM",
+    "sentimentScore": -0.9992,
+    "wordCount": 2772,
+    "entityMap": {
+     "DATE": {
+      "count": 11,
+      "values": [
+       "the 20th of April",
+       "Ten days",
+       "the 1st of May",
+       "May 8th",
+       "Nearly seven months",
+       "some day",
+       "seven months",
+       "seven months ago",
+       "the 18th of May",
+       "December 23rd, 1864",
+       "1860"
+      ]
+     },
+     "GPE": {
+      "count": 17,
+      "values": [
+       "Conseil",
+       "France",
+       "Bahamas",
+       "New York",
+       "Boston",
+       "New",
+       "St. Lawrence",
+       "Quebec",
+       "Bending",
+       "yours----",
+       "Captain",
+       "try----",
+       "Long Island",
+       "Yeddo",
+       "Japan",
+       "America",
+       "Liverpool"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 2,
+      "values": [
+       "The Toilers of the Deep",
+       "Whatever Ned Land"
+      ]
+     },
+     "PERSON": {
+      "count": 11,
+      "values": [
+       "Nemo",
+       "Amongst",
+       "Cape Hatteras",
+       "Ned Land",
+       "Ned",
+       "Captain Nemo's",
+       "Captain Nemo",
+       "Resolved",
+       "M. Aronnax",
+       "Symptoms",
+       "Havre"
+      ]
+     },
+     "PRODUCT": {
+      "count": 2,
+      "values": [
+       "Nautilus",
+       "Captain"
+      ]
+     },
+     "CARDINAL": {
+      "count": 10,
+      "values": [
+       "one",
+       "1,500",
+       "One",
+       "two",
+       "twenty-four",
+       "8,400",
+       "seven-tenths",
+       "about twelve",
+       "about eight",
+       "more than twenty-five"
+      ]
+     },
+     "LOC": {
+      "count": 7,
+      "values": [
+       "the Bahama Canal",
+       "Atlantic",
+       "the Gulf of Mexico",
+       "the South Pole",
+       "North",
+       "Captain",
+       "Long Island"
+      ]
+     },
+     "ORG": {
+      "count": 8,
+      "values": [
+       "the Gulf Stream",
+       "the North Caroline",
+       "Union",
+       "Nova Scotia",
+       "the St. Lawrence",
+       "Hebrides",
+       "Gulf Stream",
+       " "
+      ]
+     },
+     "QUANTITY": {
+      "count": 9,
+      "values": [
+       "ten miles",
+       "two miles",
+       "seventy-five miles",
+       "210 yards",
+       "thirty miles",
+       "some miles",
+       "fifteen feet",
+       "150 to 175 yards",
+       "thirty feet"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "a half an hour",
+       "the night",
+       "About five o'clock",
+       "nearly forty leagues an hour",
+       "ten o'clock"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "the King of Tempests"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c20",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "20--FROM LATITUDE 47\u00b0 24' TO LONGITUDE 17\u00b0 28'",
+    "sentimentScore": -0.9847,
+    "wordCount": 1986,
+    "entityMap": {
+     "GPE": {
+      "count": 16,
+      "values": [
+       "New York",
+       "St. Lawrence",
+       "Conseil",
+       "Ireland",
+       "Newfoundland",
+       "Prussia",
+       "Austria",
+       "Sadowa",
+       "America",
+       "the British Isles",
+       "Liverpool",
+       "France",
+       "England",
+       "Grenada",
+       "the French Republic",
+       "Avenger"
+      ]
+     },
+     "PERSON": {
+      "count": 13,
+      "values": [
+       "Ned",
+       "Nemo",
+       "Conseil",
+       " ",
+       "Anderson",
+       "Mont Blanc",
+       "Glasgow",
+       "Ned Land",
+       "Captain Nemo",
+       "Remorse",
+       "La Poype-Ver",
+       "Estaing",
+       "Van Stebel"
+      ]
+     },
+     "PRODUCT": {
+      "count": 5,
+      "values": [
+       "Nautilus",
+       "Equator",
+       "Captain",
+       "Captain Nemo",
+       "Marseillais"
+      ]
+     },
+     "DATE": {
+      "count": 27,
+      "values": [
+       "some days",
+       "the 15th of May",
+       "the 17th of May",
+       "the years 1857 and 1858",
+       "1863",
+       "the 25th of May",
+       "the 13th of July, 1866",
+       "the 23rd of July",
+       "the 27th",
+       "the 28th of May",
+       "the 30th of May",
+       "the 31st of May",
+       "The next day",
+       "the 1st of June",
+       "the day before",
+       "many years",
+       "1762",
+       "1778",
+       "the 13th of August",
+       "1779",
+       "July",
+       "1781",
+       "the 5th of September",
+       "1794",
+       "the 16th of April",
+       "the same year",
+       "the 11th and 12th"
+      ]
+     },
+     "ORG": {
+      "count": 12,
+      "values": [
+       "the Bank of Newfoundland",
+       "the Gulf Stream",
+       "Newfoundland",
+       "Gulf Stream",
+       " ",
+       " \"Glory to God in the highest",
+       "Doubtless",
+       "Cape Clear",
+       "Manche",
+       "Land's End",
+       "the Scilly Isles",
+       "Villaret Joyeuse"
+      ]
+     },
+     "LOC": {
+      "count": 6,
+      "values": [
+       "the North Pole",
+       "the Great Eastern",
+       "Europe",
+       "the Emerald Isle",
+       "Chesapeake Bay",
+       "Brest"
+      ]
+     },
+     "CARDINAL": {
+      "count": 16,
+      "values": [
+       "millions",
+       "more than some hundreds",
+       "1,500",
+       "more than 1,400",
+       "about 400",
+       "more than 1,918",
+       "one",
+       "more than 2,212",
+       "thousands",
+       "more than 420",
+       "at least half",
+       "seventy-four",
+       "47",
+       "17",
+       "three",
+       "356"
+      ]
+     },
+     "QUANTITY": {
+      "count": 9,
+      "values": [
+       "about 500 miles",
+       "2,000 miles",
+       "4,500 tons",
+       "638 miles",
+       "more than 500 miles",
+       "about 100 miles",
+       "more than 2,000 yards",
+       "more than 120 miles",
+       "About eight miles"
+      ]
+     },
+     "TIME": {
+      "count": 5,
+      "values": [
+       "half-past two in the afternoon",
+       "eleven o'clock at night",
+       "noon",
+       "Some minutes",
+       "Some minutes later"
+      ]
+     },
+     "EVENT": {
+      "count": 3,
+      "values": [
+       "The Great Eastern",
+       "the Great Eastern",
+       "Prairal of the"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Comte de Grasse"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 1,
+      "values": [
+       "English"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c21",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "21--A HECATOMB",
+    "sentimentScore": -0.9993,
+    "wordCount": 3055,
+    "entityMap": {
+     "GPE": {
+      "count": 2,
+      "values": [
+       "Avenger",
+       "Conseil"
+      ]
+     },
+     "PRODUCT": {
+      "count": 3,
+      "values": [
+       "Captain",
+       "Nautilus",
+       "Captain Nemo"
+      ]
+     },
+     "LOC": {
+      "count": 5,
+      "values": [
+       " ",
+       "Captain",
+       "the Indian Ocean",
+       "the South Pole",
+       "Jupiter"
+      ]
+     },
+     "PERSON": {
+      "count": 13,
+      "values": [
+       "Captain Nemo",
+       "Avenger",
+       "I.  ",
+       "Ned Land",
+       "Ned",
+       "Conseil",
+       "Doubtless",
+       "Abraham Lincoln",
+       "Farragut",
+       "Terrible",
+       "Nemo",
+       "Strike",
+       "Paralysed"
+      ]
+     },
+     "ORG": {
+      "count": 1,
+      "values": [
+       " "
+      ]
+     },
+     "QUANTITY": {
+      "count": 6,
+      "values": [
+       "six miles",
+       "a mile",
+       "more than three miles",
+       "five or six miles",
+       "two miles",
+       "Ten yards"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "May",
+       "two or three days",
+       "day"
+      ]
+     },
+     "WORK_OF_ART": {
+      "count": 1,
+      "values": [
+       "Friend Ned"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "a quarter of an hour",
+       "some seconds",
+       "the night",
+       "before night",
+       "night",
+       "three in the morning",
+       "six in the morning",
+       "five o'clock",
+       "a few minutes the Nautilus"
+      ]
+     },
+     "CARDINAL": {
+      "count": 4,
+      "values": [
+       "two",
+       "One",
+       "About fifteen",
+       "About four"
+      ]
+     },
+     "LANGUAGE": {
+      "count": 2,
+      "values": [
+       "English",
+       "French"
+      ]
+     },
+     "FAC": {
+      "count": 1,
+      "values": [
+       "Mad"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c22",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "22--THE LAST WORDS OF CAPTAIN NEMO",
+    "sentimentScore": -0.9995,
+    "wordCount": 2473,
+    "entityMap": {
+     "PRODUCT": {
+      "count": 5,
+      "values": [
+       "Nautilus",
+       "Manche",
+       "Atlantis",
+       "the \"Navel of the Ocean",
+       "Captain"
+      ]
+     },
+     "QUANTITY": {
+      "count": 7,
+      "values": [
+       "a hundred feet",
+       "twenty-five miles an hour",
+       "thirty feet",
+       "twenty miles",
+       "more than fifty yards",
+       "twelve miles",
+       "the echo miles"
+      ]
+     },
+     "PERSON": {
+      "count": 10,
+      "values": [
+       "Whither",
+       "Ned",
+       "Nemo",
+       "Nova Zembla",
+       "Edgar Poe",
+       "Gordon Pym",
+       "Ned Land",
+       "Captain Nemo",
+       "Captain Nemo's",
+       "Abraham Lincoln"
+      ]
+     },
+     "GPE": {
+      "count": 8,
+      "values": [
+       "Conseil",
+       "Captain",
+       "the Island of Santorin",
+       "Cretan",
+       "Avenger",
+       "Norway",
+       "Ferroe",
+       "Loffoden"
+      ]
+     },
+     "CARDINAL": {
+      "count": 5,
+      "values": [
+       "eleven",
+       "two hundred",
+       "six",
+       "ten",
+       "two"
+      ]
+     },
+     "LOC": {
+      "count": 10,
+      "values": [
+       "Atlantic",
+       "moon",
+       "the North Atlantic",
+       "the White Sea",
+       "the Sea of Kara",
+       "the Gulf of Obi",
+       "Asia",
+       "the Torres Straits",
+       "Vigo Bay",
+       "the South Pole"
+      ]
+     },
+     "DATE": {
+      "count": 3,
+      "values": [
+       "that day",
+       "fifteen or twenty days",
+       "ten"
+      ]
+     },
+     "ORG": {
+      "count": 7,
+      "values": [
+       "Spitzbergen",
+       "the Archipelago of Liarrov",
+       " ",
+       "N.N.E.",
+       "Suez",
+       "the Gulf Stream",
+       "Voices"
+      ]
+     },
+     "TIME": {
+      "count": 9,
+      "values": [
+       "One morning",
+       "the early hours",
+       "To-night",
+       "this morning",
+       "half-past",
+       "hour",
+       "half-past nine",
+       "another half-hour",
+       "at least five minutes"
+      ]
+     }
+    }
+   },
+   {
+    "id": "b10-c23",
+    "book": "Twenty-Thousand-Leagues-under-the-Sea-P2",
+    "title": "23--CONCLUSION",
+    "sentimentScore": 0.9301,
+    "wordCount": 476,
+    "entityMap": {
+     "TIME": {
+      "count": 1,
+      "values": [
+       "that night"
+      ]
+     },
+     "PERSON": {
+      "count": 3,
+      "values": [
+       "Ned Land",
+       "Captain Nemo",
+       "NEMO"
+      ]
+     },
+     "GPE": {
+      "count": 3,
+      "values": [
+       "Conseil",
+       "France",
+       "Norway"
+      ]
+     },
+     "LOC": {
+      "count": 2,
+      "values": [
+       "the Loffoden Isles",
+       "Cape North"
+      ]
+     },
+     "CARDINAL": {
+      "count": 2,
+      "values": [
+       "two",
+       "20,000"
+      ]
+     },
+     "DATE": {
+      "count": 6,
+      "values": [
+       "monthly",
+       "one day",
+       "less than ten months",
+       "May",
+       "ten months",
+       "three thousand years ago"
+      ]
+     },
+     "ORG": {
+      "count": 5,
+      "values": [
+       "Progress",
+       " ",
+       "Ecclesiastes",
+       "answer----",
+       "MYSELF"
+      ]
+     },
+     "PRODUCT": {
+      "count": 1,
+      "values": [
+       "Nautilus"
+      ]
+     }
+    }
    }
   ]
  },
  "war-of-the-worlds": {
-  "id": "b10",
+  "id": "b11",
   "year": "",
   "author": "",
   "chapters": [
    {
-    "id": "b10-c01",
+    "id": "b11-c01",
     "book": "war-of-the-worlds",
     "title": "01--THE EVE OF THE WAR",
     "sentimentScore": 0.9695,
@@ -34817,7 +35353,7 @@
     }
    },
    {
-    "id": "b10-c02",
+    "id": "b11-c02",
     "book": "war-of-the-worlds",
     "title": "02--THE FALLING STAR",
     "sentimentScore": -0.9916,
@@ -34921,7 +35457,7 @@
     }
    },
    {
-    "id": "b10-c03",
+    "id": "b11-c03",
     "book": "war-of-the-worlds",
     "title": "03--ON HORSELL COMMON",
     "sentimentScore": 0.5016,
@@ -35009,7 +35545,7 @@
     }
    },
    {
-    "id": "b10-c04",
+    "id": "b11-c04",
     "book": "war-of-the-worlds",
     "title": "04--THE CYLINDER OPENS",
     "sentimentScore": -0.9927,
@@ -35052,7 +35588,7 @@
     }
    },
    {
-    "id": "b10-c05",
+    "id": "b11-c05",
     "book": "war-of-the-worlds",
     "title": "05--THE HEAT-RAY",
     "sentimentScore": -0.9576,
@@ -35114,7 +35650,7 @@
     }
    },
    {
-    "id": "b10-c06",
+    "id": "b11-c06",
     "book": "war-of-the-worlds",
     "title": "06--THE HEAT-RAY IN THE CHOBHAM ROAD",
     "sentimentScore": -0.9784,
@@ -35178,7 +35714,7 @@
     }
    },
    {
-    "id": "b10-c07",
+    "id": "b11-c07",
     "book": "war-of-the-worlds",
     "title": "07--HOW I REACHED HOME",
     "sentimentScore": -0.9985,
@@ -35247,7 +35783,7 @@
     }
    },
    {
-    "id": "b10-c08",
+    "id": "b11-c08",
     "book": "war-of-the-worlds",
     "title": "08--FRIDAY NIGHT",
     "sentimentScore": 0.5321,
@@ -35350,7 +35886,7 @@
     }
    },
    {
-    "id": "b10-c09",
+    "id": "b11-c09",
     "book": "war-of-the-worlds",
     "title": "09--THE FIGHTING BEGINS",
     "sentimentScore": -0.947,
@@ -35461,7 +35997,7 @@
     }
    },
    {
-    "id": "b10-c10",
+    "id": "b11-c10",
     "book": "war-of-the-worlds",
     "title": "10--IN THE STORM",
     "sentimentScore": -0.9912,
@@ -35550,7 +36086,7 @@
     }
    },
    {
-    "id": "b10-c11",
+    "id": "b11-c11",
     "book": "war-of-the-worlds",
     "title": "11--AT THE WINDOW",
     "sentimentScore": -0.9987,
@@ -35625,7 +36161,7 @@
     }
    },
    {
-    "id": "b10-c12",
+    "id": "b11-c12",
     "book": "war-of-the-worlds",
     "title": "12--WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERTON",
     "sentimentScore": -0.999,
@@ -35759,7 +36295,7 @@
     }
    },
    {
-    "id": "b10-c13",
+    "id": "b11-c13",
     "book": "war-of-the-worlds",
     "title": "13--HOW I FELL IN WITH THE CURATE",
     "sentimentScore": -0.9983,
@@ -35848,7 +36384,7 @@
     }
    },
    {
-    "id": "b10-c14",
+    "id": "b11-c14",
     "book": "war-of-the-worlds",
     "title": "14--IN LONDON",
     "sentimentScore": -0.9994,
@@ -36053,7 +36589,7 @@
     }
    },
    {
-    "id": "b10-c15",
+    "id": "b11-c15",
     "book": "war-of-the-worlds",
     "title": "15--WHAT HAD HAPPENED IN SURREY",
     "sentimentScore": -0.9986,
@@ -36188,7 +36724,7 @@
     }
    },
    {
-    "id": "b10-c16",
+    "id": "b11-c16",
     "book": "war-of-the-worlds",
     "title": "16--THE EXODUS FROM LONDON",
     "sentimentScore": -0.9998,
@@ -36332,7 +36868,7 @@
     }
    },
    {
-    "id": "b10-c17",
+    "id": "b11-c17",
     "book": "war-of-the-worlds",
     "title": "17--THE \u201cTHUNDER CHILD\u201d",
     "sentimentScore": -0.9993,
